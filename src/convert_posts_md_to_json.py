@@ -24,7 +24,7 @@ json_data = list()
 
 # Go through all .md files and convert them into JSON
 for markdown_file in sorted(Path(markdown_directory_location).glob("*.md"), reverse=True):
-    print(f"Reading {markdown_file.absolute}")
+    print(f"Reading {markdown_file.absolute()}")
 
     # Get date from filename
     identifier = markdown_file.stem.split('-')
