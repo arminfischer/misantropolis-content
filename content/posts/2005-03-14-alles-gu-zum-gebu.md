@@ -1,0 +1,9 @@
+---
+title: "Alles Gu zum Gebu"
+category: Verschiedenes
+tags: 
+image: 
+---
+
+Heute wäre [Einstein](http://www.dhm.de/lemo/html/biografien/EinsteinAlbert/) 126 Jahre alt geworden, also 100 Jahre älter als ich. Das ist mir nur so aufgefallen, weil ich gerade am Fertigstellen eines Tracks für [NovaTunes](http://www.novatune.de) Einsteinsampler bin.
+

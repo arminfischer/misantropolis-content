@@ -1,0 +1,8 @@
+---
+title: "Nicht was man weiß..."
+category: Surfen
+tags: 
+image: 
+---
+
+[Connections](http://www.dimvision.com/musicmap/) muss man haben. Dann bin ich vielleicht irgendwann auch in dieser Musikbeziehungsvisualisierung, die sich aus [Amazon](http://www.amazon.com) speist.

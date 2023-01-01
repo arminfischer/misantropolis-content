@@ -3,6 +3,7 @@ import json
 import markdownify
 import os
 from pathlib import Path
+import re
 import sys
 
 # Get base directory
@@ -11,7 +12,7 @@ base_dir = Path(__file__).parent.parent.absolute()
 # Get location of .json file
 args = sys.argv[1:]
 json_location = args[0] if args else os.path.join(
-    base_dir, "feeds", "posts.json")
+    base_dir, "feeds", "original", "posts.json")
 
 # Parse JSON
 with open(json_location, 'r', encoding='utf-8') as json_file:
@@ -34,25 +35,20 @@ for json_item in json_data:
     image_path = "https://www.misantropolis.de" + json_item['image'] if json_item['image'].startswith("/") else json_item['image']
    
     # Compile .md content
+    post_content = json_item['content']
+    post_content = re.sub("<iframe(.*?)>(.*)</iframe>", r"[iframe\1]", post_content)
+    post_content = markdownify.markdownify(post_content)
+    post_content = re.sub("\[iframe(.*?)\]", r"<iframe\1></iframe>\n", post_content)
+
     content = '''---
-title: {title}
+title: "{title}"
 category: {category}
 tags: {tags}
 image: {image}
 ---
 
-{content}'''.format(title=json_item['title'], category=json_item['category'], image=image_path, tags=json_item['tags'], content=markdownify.markdownify(json_item['content']))
+{content}'''.format(title=str(json_item['title']).replace("\"", "\\\""), category=json_item['category'], image=image_path, tags=json_item['tags'], content=post_content)
 
     # Write .md file
     with open(markdown_file_location, "w+", encoding='utf-8') as markdown_file:
         markdown_file.write(content)
-
-
-from markdownify import MarkdownConverter
-
-class ImageBlockConverter(MarkdownConverter):
-    """
-    Create a custom MarkdownConverter that adds two newlines after an image
-    """
-    def process_tag(self, , text, convert_as_inline):
-        return super().process_tag()

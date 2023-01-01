@@ -1,0 +1,9 @@
+---
+title: "Schützt die Rille"
+category: Surfen
+tags: 
+image: 
+---
+
+Das Crate Diggin Blog ["Dust and Grooves"](http://www.dustandgrooves.com/) wird vielleicht meine neue Lieblingsseite. Darin finden sich viele schöne Geschichten von, über und mit Vinylsammlern aus Amerika, deren Wissen und Sammlungen meine kleine Ein-Expedit-Plus-Kollektion lächerlich aussehen lassen.  
+<http://www.dustandgrooves.com/>

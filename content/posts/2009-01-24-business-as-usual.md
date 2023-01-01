@@ -1,0 +1,8 @@
+---
+title: "Business As Usual"
+category: Verschiedenes
+tags: 
+image: 
+---
+
+Grauer Haare werden mir erstmal keine wachsen: Ich habe [das Problem](http://www.misantropolis.de/2009/01/plug-it-in-and-begin/) einigermaßen gelöst, alle Daten sind da, und die meisten meiner Songs laufen wieder.
