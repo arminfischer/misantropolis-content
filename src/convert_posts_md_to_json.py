@@ -50,4 +50,5 @@ for markdown_file in sorted(Path(markdown_directory_location).glob("*.md"), reve
     })
 
 # Write .json
+print(f"Dumping JSON to {json_location}")
 json.dump(json_data, open(json_location, 'w+', encoding='utf-8'))
