@@ -1,8 +1,10 @@
 ---
-title: "DEAD Magazine V2"
+title: DEAD Magazine V2
+date: 2007-02-22 15:32:18
 category: Tipps
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Das neue [DEAD Magazine](http://www.deadmagazine.com/) ist da! DJ Scientist, DJ Phonatic & Co. habe sich wieder einmal stark ins Zeug gelegt und ein 26-seitiges Heft abgeliefert, das man sich abends am Kaminfeuer durchlesen kann.  

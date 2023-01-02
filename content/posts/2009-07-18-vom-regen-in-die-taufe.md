@@ -1,8 +1,10 @@
 ---
-title: "Vom Regen in die Taufe"
+title: Vom Regen in die Taufe
+date: 2009-07-18 22:40:37
 category: Verschiedenes
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Mein [Auftritt in Starnberg](http://www.misantropolis.de/2009/07/kulturtag/) am Freitag fiel trotz der eingetroffenen Unwettervorhersagen nicht ganz ins Wasser. Allerdings hätte es auch buchstäblich ins Auge gehen können, als mir zu Sturmbeginn ein Paulaner-Schirm mit fünf Meter Durchmesser entgegenkam. Zu diesem Zeitpunkt spielten auch noch Jamaram, deren Konzert dadurch beendet wurde, dass das Hauptmischpult durchbrannte. Nachdem klar war, dass es Ersatz gab und der langwierige Umbau zu Ende war, waren von den anfangs mehreren hundert Zuschauern nur noch 50 da. Denn da die PA nicht ging, konnte auch keine Durchsage gemacht werden, dass es noch weitergehen würde. Ich konnte jedenfalls mein Programm den Umständen entsprechend, mit mehr Fehlern als üblich, aber auch mit einem gesunden Maß an Energie über die Bühne bringen und bin zufrieden.  

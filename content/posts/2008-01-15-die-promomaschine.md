@@ -1,8 +1,10 @@
 ---
-title: "Die Promomaschine"
+title: Die Promomaschine
+date: 2008-01-15 14:08:43
 category: Downloads
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Die neue [5"-Compilation von Equinox](http://www.e-q-x.net/eqx013/eqx013.htm), von der auch ich ein Teil bin, wird schon fleißig heruntergeladen und beworben:  

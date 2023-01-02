@@ -1,8 +1,10 @@
 ---
-title: "Twitterwoche 27"
+title: Twitterwoche 27
+date: 2010-07-12 06:30:34
 category: Twitterwoche
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 * Ceschi-Album auf [Raplounge](http://raplounge.de/?p=1695)

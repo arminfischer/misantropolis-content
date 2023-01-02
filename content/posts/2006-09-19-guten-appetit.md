@@ -1,8 +1,10 @@
 ---
-title: "Guten Appetit"
+title: Guten Appetit
+date: 2006-09-19 13:45:12
 category: Surfen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Wer mal spontan Lust auf ein Spiegelei hat, kann sich [hier](http://www.phys.ncku.edu.tw/~htsu/humor/fry_egg.html) eine Anleitung ansehen.  

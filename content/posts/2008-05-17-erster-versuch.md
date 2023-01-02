@@ -1,8 +1,10 @@
 ---
-title: "Erster Versuch"
+title: Erster Versuch
+date: 2008-05-17 11:05:12
 category: Surfen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 [Q-Bert](http://www.myspace.com/djqbert) hat gestern im seinem [Myspace-Blog](http://blog.myspace.com/index.cfm?fuseaction=blog.view&friendID=116553&blogID=394565918) sein angeglich erstes selbsthochgeladenes Video angekündigt:  

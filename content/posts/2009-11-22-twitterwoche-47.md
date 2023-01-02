@@ -1,8 +1,10 @@
 ---
-title: "Twitterwoche 47"
+title: Twitterwoche 47
+date: 2009-11-22 18:17:48
 category: Twitterwoche
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Zurzeit bleibt mir wenig Zeit außer ein bisschen für Kurznachrichten, die es auch in dieser Woche wieder gab:
@@ -11,5 +13,3 @@ Zurzeit bleibt mir wenig Zeit außer ein bisschen für Kurznachrichten, die es a
 * "Same Old Love Song" [live gesungen](http://www.e-q-x.net/news/2009/11/2mex-ceschi-dj-scientist-same-old-love-song-live/)!
 * [Derek B](http://de.wikipedia.org/wiki/Derek_B) ist an einem Herzinfarkt gestorben.
 * [Kool Keith und Tom Waits](http://splashpage.mtv.com/2009/11/19/animation-tom-waits-kool-keith-230-awesome/) musizieren.
-
-  

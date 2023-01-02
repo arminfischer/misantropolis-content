@@ -1,8 +1,10 @@
 ---
-title: "SETI macht dicht"
+title: SETI macht dicht
+date: 2005-11-22 11:12:25
 category: Verschiedenes
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Das klassische [SETI Projekt](http://setiathome.berkeley.edu/) wird geschlossen. [Vor einiger Zeit](http://www.misantropolis.de/2004/10/das-seti-projekt) habe ich mich als Teilnehmer dafür eingetragen, wobei dann als Bildschirmschoner im Hintergrund ein Programm ausgeführt wird, das aus dem All aufgefangene Signale analysiert -- damit man eventuelles außerirdisches Leben nicht verpasst.  

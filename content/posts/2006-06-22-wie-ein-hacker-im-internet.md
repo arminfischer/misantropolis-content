@@ -1,8 +1,10 @@
 ---
-title: "Wie ein Hacker im Internet"
+title: Wie ein Hacker im Internet
+date: 2006-06-22 16:26:47
 category: Surfen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Da ich seit Beginn der Woche wieder offiziell und regulär arbeite, komme ich manchmal wieder an Punkte, wo ich ein bißchen hacken muß, wobei ich echte Könner nicht beleidigen möchte.  

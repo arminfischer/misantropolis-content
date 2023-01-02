@@ -1,8 +1,10 @@
 ---
-title: "What the bleep!"
+title: What the bleep!
+date: 2006-04-15 10:25:44
 category: Tipps
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Der Dokumentarfilm [What the bleep do we (k)now!?](http://www.bleep.de/) läuft schon seit Längerem und wurde mir empfohlen, also habe ich mir gestern die filmische Zusammenfassung aktuellerer Therorien zur Realitätswahrnehmung und -definition im [Atlantis](http://www.munichx.de/kinoprogramm/kino/Atlantis%20Muenchen.php) angeschaut. Die zu Wort kommenden Wissenschaftler haben darin kaum Dinge gesagt, die mir nicht schon bekannt gewesen wären. Die Präsentation der Theorien zur Quantenmechanik, Quantenphysik, Erschaffung der Realität etc. war jedoch sehr informativ und interessant.  

@@ -1,8 +1,11 @@
 ---
-title: "5 Jahre Leseliste: Die Kunst der Krieges"
+title: '5 Jahre Leseliste: Die Kunst der Krieges'
+date: 2013-09-14 11:44:23
 category: Veröffentlichungen
-tags: ['leseliste']
-image: 
+tags:
+- leseliste
+image: ''
+
 ---
 
 In meiner Jubiläumsreihe "5 Jahre Leseliste" stelle ich heute einen Song vor, dessen Thema relativ selbsterklärend ist. "Die Kunst des Krieges" von **Sun Tzu** habe ich natürlich gelesen aber anders als viele Manager und Politiker nicht unbedingt verinnerlicht. Was allerdings hängengeblieben ist und in meinem Text zum Ausdruck kommen soll, ist die wesentliche Aussage des Buches, dass man Kriege nicht unbedingt vermeiden kann, dabei aber die Kriegsführung durch geschicktes und strategisches Handeln so gestalten kann, dass physische Auseinandersetzungen nicht stattfinden müssen. Die Textsamples von Bambi und Jeru haben den Song dann noch abgerundet.  

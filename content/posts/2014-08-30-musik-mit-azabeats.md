@@ -1,8 +1,11 @@
 ---
-title: "Musik mit azabeats"
+title: Musik mit azabeats
+date: 2014-08-30 20:35:24
 category: Veröffentlichungen
-tags: ['azabeats']
-image: 
+tags:
+- azabeats
+image: ''
+
 ---
 
 Es ist schon länger kein Geheimnis mehr, dass ich mit [**azabeats**](http://azabeats.de/) Musik mache. Nur geht es diesmal über die Zusammenarbeit bei [postrap](http://www.postrap.de), seine [genialen Artworks](/musik/filmmusik) und gemeinsame Touren hinaus:  

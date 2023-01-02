@@ -1,8 +1,10 @@
 ---
-title: "Schau 9Live wenn's nicht gefällt"
+title: Schau 9Live wenn's nicht gefällt
+date: 2007-01-05 12:14:02
 category: Surfen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Ehrlich gesagt schau ich diese Quizshows auf 9Live und deren Klone nie länger als 3 Sekunden an. Aber nach [diesem Blogeintrag](http://www.secretsites.de/joblog/?p=253) lohnt es sich zumindest manchmal schon. Dort werden die lustigsten Auflösungen zum heiteren Begrifferaten vorgestellt, z.B. "Pferdeheunetz" wenn Wörter gesucht werden, die mit "Pferd" beginnen.

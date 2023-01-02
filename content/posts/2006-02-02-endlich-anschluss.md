@@ -1,8 +1,10 @@
 ---
-title: "Endlich Anschluß"
+title: Endlich Anschluß
+date: 2006-02-02 12:20:13
 category: Reise
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Nach 5 Stunden Fahrt und 11 Stunden Einführungsveranstaltung gestern habe ich wieder Internetanschluß und auch ganz kurz Zeit, was zu schreiben. Denn ich schreibe jetzt auf dem Firmelaptop ganz illegal Privates.  

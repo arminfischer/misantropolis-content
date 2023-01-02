@@ -1,8 +1,10 @@
 ---
-title: "Auf nem Film"
+title: Auf nem Film
+date: 2005-08-11 20:18:36
 category: Tipps
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Wer auf depressiven und trockenhumorigen Realismus wie **Sideways** oder **About Schmid** steht, der schaue sich [American Splendor](http://www.americansplendormovie.com/main.html) an. Die Lebensgeschichte des Sachbearbeiters und Autors des gleichnamigen Comics läßt einen wieder einmal am Sinn des Lebens verzweifeln.  

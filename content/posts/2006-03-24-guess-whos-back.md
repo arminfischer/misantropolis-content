@@ -1,8 +1,10 @@
 ---
-title: "Guess who's back"
+title: Guess who's back
+date: 2006-03-24 07:38:22
 category: Surfen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Der [Audio88](http://www.audio88.de/) aus Berlin hat seine [Webseite](http://www.audio88.de/) überarbeitet. Die Flashelemente sind etwas reduziert worden, und alles ist schön kollagiert.  

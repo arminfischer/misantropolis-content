@@ -1,8 +1,10 @@
 ---
-title: "Back im Game"
+title: Back im Game
+date: 2006-09-24 17:27:45
 category: Veranstaltungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Dieses Wochenende war eines der diamteralen Gegensätze. Zwar unterscheiden sich die Orte, an denen ich war, nicht maßgeblich, wohl aber die Locations. Am Freitag habe ich im Anzug wirtschaftlich motivierte Vorträge gehört, am Samstag habe ich meine Krawatte zu Verkleidungszwecken vor wirtschaftlich eher unmotiviertem Publikum gebunden. Letztere Veranstaltung liest sich interessanter, weshalb ich ein wenig von [88:Komaflashs](http://www.88komaflash.de) und meinem Auftritt im **Zoro** bereichte, einem halbbesetzten Haus in Leipzig.  

@@ -1,8 +1,10 @@
 ---
-title: "Strategiewechsel"
+title: Strategiewechsel
+date: 2009-08-07 07:28:27
 category: Twitterwoche
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Nach 1705 Blogeinträgen in den letzten sechs Jahren habe ich überlegt, meine Schreibstrategie ein wenig zu ändern. Ich werde versuchen, die Qualität der Artikel auf [misantropolis.de](/) zu steigern und vor allem den Bezug zur Musik im Allgemeinen und zu meiner im Speziellen noch mehr zu betonen. Das wird natürlich dazu führen, dass die Artikel in etwas größeren Abständen erscheinen werden.  

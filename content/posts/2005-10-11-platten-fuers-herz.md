@@ -1,8 +1,10 @@
 ---
-title: "Platten für's Herz"
+title: Platten für's Herz
+date: 2005-10-11 16:07:39
 category: Verschiedenes
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Heute war ich endlich einmal wieder mit Erfolg und Freude Platten kaufen. Über zwei meiner Beutestücke freue ich mich besonders:  

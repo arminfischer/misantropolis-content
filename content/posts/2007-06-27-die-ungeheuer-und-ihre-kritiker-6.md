@@ -1,8 +1,10 @@
 ---
-title: "Die Ungeheuer und ihre Kritiker (6)"
+title: Die Ungeheuer und ihre Kritiker (6)
+date: 2007-06-27 08:51:51
 category: Surfen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Eine Review, die mich nicht unbedingt aufbaut, findet sich seit Längerem auf dem Onlinemagazin [Generation One](http://www.generation-one.de/content/view/212/). Ich muss noch üben.  

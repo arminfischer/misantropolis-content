@@ -1,8 +1,11 @@
 ---
-title: "Egogrill: \"Nur ein Monster hat keine Angst vor sich selbst\" am 08.08.08"
+title: 'Egogrill: \"Nur ein Monster hat keine Angst vor sich selbst\" am 08.08.08'
+date: 2008-07-10 20:48:16
 category: Veröffentlichungen
-tags: ['leave.music']
-image: 
+tags:
+- leave.music
+image: ''
+
 ---
 
 [![](http://www.leavemusic.de/live/leavemusic/content/artikelbilder/164)](http://www.leavemusic.de)  

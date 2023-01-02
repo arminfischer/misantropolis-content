@@ -1,8 +1,11 @@
 ---
-title: "Neues Video: Be A Real G"
+title: 'Neues Video: Be A Real G'
+date: 2013-04-23 19:48:38
 category: Veröffentlichungen
-tags: ['filmmusik']
-image: 
+tags:
+- filmmusik
+image: ''
+
 ---
 
 Nach längerem Ringen und einigen Experimenten habe ich mich entschlossen, die nächste große Veröffentlichung direkt anzugehen, und ich weiß nun auch, dass es zum ersten Mal in meiner großem Musikkarriere ein reines Instrumental Album werden wird. Einige der Songs waren Ideen für einen Score (der leider nicht zustande gekommen ist), und deshalb werde ich auch das Album kurzerhand "Filmmusik" nennen.  

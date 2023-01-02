@@ -1,8 +1,10 @@
 ---
-title: "Reif für die Insel"
+title: Reif für die Insel
+date: 2006-04-15 15:13:57
 category: Downloads
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Vor allem in letzter Zeit, in der ich ein wenig zur Besinnung gekommen bin, kommen die Erinnerungen an meiner zweimonatige Asienreise wieder hoch, die vor genau einem Jahr stattgefunden hat. Im Moment wäre ich sehr gerne wieder dort, wo die Sonne heiß ist.  

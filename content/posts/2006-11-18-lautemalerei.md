@@ -1,8 +1,10 @@
 ---
-title: "Laut(e)malerei"
+title: Laut(e)malerei
+date: 2006-11-18 14:53:48
 category: Veranstaltungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Als erstes möchte ich mich bei allen bedanken, die gestern zur [Releaseparty ins Neuland](http://www.misantropolis.de/2006/11/represent-represent) gekommen sind und damit den Abend zu einem schönen gemacht haben. Gleichzeitig möchte ich bei allen entschuldigen, die heute nur noch ein schwaches Pfeifen hören. Der Club ist definitiv unangenehm hallig und laut, vor allem wenn man wie wir den Volumenregler nicht findet.  

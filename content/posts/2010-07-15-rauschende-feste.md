@@ -1,8 +1,10 @@
 ---
-title: "Rauschende Feste"
+title: Rauschende Feste
+date: 2010-07-15 18:02:13
 category: Veranstaltungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 In Auftrittshalbmarathon steht morgen und übermorgen bei mir an:  

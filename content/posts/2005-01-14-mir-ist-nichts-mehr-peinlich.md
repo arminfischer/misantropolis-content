@@ -1,8 +1,10 @@
 ---
-title: "Mir ist nichts mehr peinlich"
+title: Mir ist nichts mehr peinlich
+date: 2005-01-14 10:07:04
 category: Downloads
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Es ist ein paar Jahre her, als Boarshill No. 1 noch einen Proberaum besaß, den wir nicht nur zum Üben unserer Sets, sondern auch zum ~~Freestylen~~ improvisierenden Rappen genutzt haben.
@@ -13,4 +15,3 @@ Viel Spaß beim Reinhören und beim Wiedererkennen mancher Routinen und neuerdin
 
 
 > Ich komm ans Mikrofon ...
-

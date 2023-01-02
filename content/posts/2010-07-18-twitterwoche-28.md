@@ -1,8 +1,10 @@
 ---
-title: "Twitterwoche 28"
+title: Twitterwoche 28
+date: 2010-07-18 13:54:24
 category: Twitterwoche
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 * Schon wieder was [Neues von El-P](http://el-p.bandcamp.com/track/what-god-should-do)

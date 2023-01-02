@@ -1,8 +1,10 @@
 ---
-title: "Mein Tipp für die Woche"
+title: Mein Tipp für die Woche
+date: 2005-11-28 12:29:58
 category: Tipps
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Danke und wegen meines [verlorenen Mp3-Players](http://www.misantropolis.de/2005/10/finderlohn) bin ich im Moment auf das Hören von ein paar Dutzend Alben beschränkt, weshalb ich die [Phantazmagorea](http://www.daddykev.com/rev-phantaz.html) von **D-Styles** wieder herausgefischt habe, von der ich aufs Neue restlos begeistert bin.  

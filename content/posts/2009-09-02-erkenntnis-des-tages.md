@@ -1,10 +1,11 @@
 ---
-title: "Erkenntnis des Tages"
+title: Erkenntnis des Tages
+date: 2009-09-02 06:29:10
 category: Zitate
-tags: 
-image: 
----
+tags: []
+image: ''
 
+---
 
 > Das Wort Leben ist nur ein anderer Ausdruck für Konflikt.
 

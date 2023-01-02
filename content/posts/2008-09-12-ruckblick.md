@@ -1,8 +1,10 @@
 ---
-title: "Rückblick"
+title: Rückblick
+date: 2008-09-12 19:23:14
 category: Downloads
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Auf einer längeren Autofahrt habe ich neulich wieder in meinen Mix für das [Tangram Radio Blog](http://www.misantropolis.de/2007/09/tangram-radio-blog-neu-und-mit-mir/) reingehört, der vor ziemlich genau einem Jahr entstanden ist.  

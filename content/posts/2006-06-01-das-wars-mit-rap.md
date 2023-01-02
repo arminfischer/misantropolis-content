@@ -1,10 +1,11 @@
 ---
-title: "Das war's mit Rap"
+title: Das war's mit Rap
+date: 2006-06-01 09:32:16
 category: Verschiedenes
-tags: 
-image: 
----
+tags: []
+image: ''
 
+---
 
 > Bitte nehmen Sie in den nächsten 2-3 Tagen etwas weichere Kost zu sich, und vermeiden Sie beim Essen und Sprechen zu starke Bewegungen im Wundgebiet.
 

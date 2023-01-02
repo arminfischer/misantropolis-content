@@ -1,8 +1,10 @@
 ---
-title: "MTViva hat ausgedient"
+title: MTViva hat ausgedient
+date: 2005-01-13 11:47:46
 category: Surfen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Ab nächsten Montag kann man sich endlich wieder Musikvideos ansehen -- und nicht nur tanzende Küken. Bei [tunespoon.tv](http://www.tunespoon.tv/), einem Projekt der Fachhochschule Furtwangen, werden dann die Clips in einem kontinuierlichen Datenstrom gezeigt.
@@ -10,4 +12,3 @@ Ab nächsten Montag kann man sich endlich wieder Musikvideos ansehen -- und nich
 Ich schaue mir zwar selten Videos an, halte das aber für eine gute Idee. Außerdem kann man vielleicht leichter sein eigenes Video unterbringen. Vorausgesetzt, man hat eins. Vielleicht irgendwann.
 
 -- Via [blogging for compliments](http://waldar.twoday.net/stories/469845/)
-

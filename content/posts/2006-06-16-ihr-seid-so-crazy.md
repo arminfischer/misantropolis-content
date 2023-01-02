@@ -1,8 +1,10 @@
 ---
-title: "Ihr seid so crazy"
+title: Ihr seid so crazy
+date: 2006-06-16 12:51:50
 category: Tipps
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Nach wochenlangem Überlegen bin ich doch gestern spontan wie ich bin in [C.R.A.Z.Y.](http://www.schnitt.de/filme/artikel/crazy.shtml) gegangen. Dieser neue kanadische Film von **Jean-Marc Vallée** wurde in diveren Zusammenfassung als der beste schwule Film des Jahres angekündigt, und das hat mich alten Homophobiker etwas abgeschreckt.  

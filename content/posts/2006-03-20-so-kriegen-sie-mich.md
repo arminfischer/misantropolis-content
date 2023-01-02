@@ -1,8 +1,10 @@
 ---
-title: "So kriegen sie mich"
+title: So kriegen sie mich
+date: 2006-03-20 11:08:20
 category: Surfen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Fußball interessiert mich nicht, aber die Idee des größten [Onlinestadions](http://www.largestonlinestadium.com/) finde ich super. Ich sitze [hier](http://www.largestonlinestadium.com/fan/Misanthrop). Wer sich dazu setzen will ist herzlich eingeladen.  

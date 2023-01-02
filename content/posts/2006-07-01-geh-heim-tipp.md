@@ -1,8 +1,10 @@
 ---
-title: "Geh-Heim-Tipp"
+title: Geh-Heim-Tipp
+date: 2006-07-01 19:38:04
 category: Verschiedenes
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Eines meiner vor zwei Monaten angekündigten [Geheimprojekte](http://www.misantropolis.de/2006/05/operation-van-gogh/) neigt sich seinem Abschluß zu und wird richtig gut. Das kann ich ohne allzu viel Eigenlob sagen, da ich nicht alleine daran beteiligt bin. Bald gib es mehr zu sehen und noch mehr zu hören. Ich freue mich jedenfalls.

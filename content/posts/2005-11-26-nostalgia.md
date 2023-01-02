@@ -1,8 +1,10 @@
 ---
-title: "Nostalgia"
+title: Nostalgia
+date: 2005-11-26 22:47:57
 category: Reise
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Heute war ein nostalgisch langweiliger Tag. Ich habe mir zwei Asterixbände am Flohmarkt gekauft und **Forrest Gump** angeschaut. Liebend gern hätte ich den am letzten Samstag schon live gebrachten November-Remix aufgenommen, aber meine Stimme ist seit diesem Auftritt im Eimer. Irgendwie muss ich dauernd husten.

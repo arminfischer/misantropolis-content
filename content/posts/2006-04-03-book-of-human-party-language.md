@@ -1,8 +1,10 @@
 ---
-title: "Book of Human Party Language"
+title: Book of Human Party Language
+date: 2006-04-03 23:20:19
 category: Veranstaltungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Vor Jahren habe ich **Aceyalone**, **Riddlore**, **Busdriver** und **Rifleman** in Augsburg gesehen - als Vorgruppe von M.O.R. und Taktloss. Heute haben sie mir besser gefallen, aber Busdriver hat irgendwie gefehlt. Der Vorrapper aus Passau, Mikee, war in Ordnung, hat geflowt und ein paar coole Sachen gesagt. Richtig mitgezogen hat er mich jedoch nicht.  

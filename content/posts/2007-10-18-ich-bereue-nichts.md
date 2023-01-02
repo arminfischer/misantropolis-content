@@ -1,8 +1,10 @@
 ---
-title: "Ich bereue nichts"
+title: Ich bereue nichts
+date: 2007-10-18 09:58:21
 category: Tipps
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Das Leben einer der berühmtesten Persönlichkeiten aus Frankreich habe ich mir anders vorgestellt als es in [La Vie En Rose](http://www.piaf.film.de/) dargestellt worden ist.  

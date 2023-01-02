@@ -1,8 +1,10 @@
 ---
-title: "Pose no threat"
+title: Pose no threat
+date: 2008-04-22 07:17:41
 category: Surfen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 **Ricky Flores** hat [freshe Oldschool-Bilder](http://flickr.com/photos/rickyflores/sets/72157604610302812/) gemacht in einer Zeit, in der Ghettoblaster noch Bass hatten.  

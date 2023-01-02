@@ -1,8 +1,10 @@
 ---
-title: "And now to something completely different"
+title: And now to something completely different
+date: 2006-10-22 16:48:10
 category: Veranstaltungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Gestern habe ich noch mit [88:Komaflash](http://www.88komaflash.de) schönen Terror auf der Bühne gemacht, und heute bin ich schon mit [Bobby McFerrin](http://www.bobbymcferrin.com/) schön auf dem Rad gefahren. Ich kann sein Album "Hush" nur empfehlen, wenn man etwas runterkommen möchte.  

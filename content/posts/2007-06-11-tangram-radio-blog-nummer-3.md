@@ -1,8 +1,10 @@
 ---
-title: "Tangram Radio Blog Nummer 3"
+title: Tangram Radio Blog Nummer 3
+date: 2007-06-11 10:21:26
 category: Surfen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 **Chris** bzw. **Playpad Circus** hat die dritte Sendung seines [Tangramradioblogs](http://www.tangramradioblog.de.be) am gestrigen Sonntag veröffentlicht, in der sich wieder viel Hörenswertes findet.  

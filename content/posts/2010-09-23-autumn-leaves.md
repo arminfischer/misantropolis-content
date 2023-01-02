@@ -1,8 +1,11 @@
 ---
-title: "Autumn Leaves"
+title: Autumn Leaves
+date: 2010-09-23 21:14:57
 category: Veröffentlichungen
-tags: ['postrap']
-image: 
+tags:
+- postrap
+image: ''
+
 ---
 
 ![](http://www.postrap.de/wp-content/uploads/2010/09/smokey131_-_autum_leaves_front-200x200.jpg "smokey131 - Autumn Leaves") Der Oldenburger [**Smokey131**](http://www.postrap.de/kuenstler/smokey131/), von dem ich zum ersten Mal bewusst durch seine Produktionen und Remixes für Audio88 und natürlich die [5inch Files](http://www.e-q-x.net/eqx013/eqx013.htm) erfahren habe, hat heute zu unserer großen Freude sein Debüt bei [*postrap digital*](http://www.postrap.de/veroeffentlichungen/digital) gegeben.  

@@ -1,8 +1,11 @@
 ---
-title: "Equinox Jaw Modulation Mix"
+title: Equinox Jaw Modulation Mix
+date: 2009-02-21 12:52:10
 category: Veröffentlichungen
-tags: ['equinox records']
-image: 
+tags:
+- equinox records
+image: ''
+
 ---
 
 Wie ich gerade zu meiner Freude im [Ground Zero Blog](http://www.the-groundzero.com/2009/02/21/equinox-jaw-modulation-mix-by-b-ju/) gelesen habe, hat DJ **B-Ju** einen 30minütigen Mix mit neuen und unveröffentlichten Tracks diverser [Equinox](http://www.e-q-x.net)-Künstler aufgenommen.  

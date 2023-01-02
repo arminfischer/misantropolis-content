@@ -1,8 +1,10 @@
 ---
-title: "Equinox rockt"
+title: Equinox rockt
+date: 2005-07-01 12:38:52
 category: Veranstaltungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Gestern im [Annapril](http://www.annapril.de) war die Releaseparty zu Ehren der [Equinoxcompilation](http://www.e-q-x.net), und ich halte das Spektakel für sehr gelungen. Nur die Schaukeln haben gestört, und mein Auflegeset war ziemlich mies. Ich war zu unkonzentriert und etwas gestresst.  

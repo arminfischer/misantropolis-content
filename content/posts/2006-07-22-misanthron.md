@@ -1,8 +1,10 @@
 ---
-title: "Misanthron"
+title: Misanthron
+date: 2006-07-22 11:18:40
 category: Verschiedenes
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Ich habe soeben den **MisanthronTM** erfunden. Er besteht aus:1. 2x 12 Minuten Scratchen

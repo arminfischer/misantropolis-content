@@ -1,8 +1,10 @@
 ---
-title: "Gefahren im Anzug"
+title: Gefahren im Anzug
+date: 2010-04-17 14:56:27
 category: Veröffentlichungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Der im [letzten Artikel](http://www.misantropolis.de/2010/04/unter-anderem/) erwähnte **Cocon** gibt mehr preis über unser ebenfalls angedeutetes gemeinsames Album "Gefahren im Anzug":  

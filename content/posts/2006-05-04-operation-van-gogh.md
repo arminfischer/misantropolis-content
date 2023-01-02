@@ -1,8 +1,10 @@
 ---
-title: "Operation Van Gogh"
+title: Operation Van Gogh
+date: 2006-05-04 21:52:56
 category: Verschiedenes
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Im Moment arbeite ich an einem strenggeheimen Geheimprojekt. Ich darf nichts sagen, sorry. Noch strenger genommen sind es sogar zwei bis drei Geheimprojekte. Von den übrigen darf ich auch nichts verraten.  

@@ -1,8 +1,10 @@
 ---
-title: "Winkekatzen"
+title: Winkekatzen
+date: 2012-05-16 20:55:54
 category: Veröffentlichungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Zum Lied "Winkekatzen" meines neuen Albums ["Das Ungeheuer und sein Kritiker"](http://www.postrap.de/releases/das-ungeheuer-und-sein-kritiker/) hat mein postrap-Kollege **epilog** einen Teaser gebastelt:  

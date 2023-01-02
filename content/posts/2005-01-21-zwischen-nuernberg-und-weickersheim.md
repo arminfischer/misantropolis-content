@@ -1,8 +1,10 @@
 ---
-title: "Zwischen Nürnberg und Weickersheim"
+title: Zwischen Nürnberg und Weickersheim
+date: 2005-01-21 12:48:28
 category: Veranstaltungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 In der leicht autonomen WG, in der wir zum Übernachten untergekommen sind, darf ich netterweise den Internetzugang benutzen, weshalb ich einen kurzen Bericht über den gestrigen Abend geben kann:
@@ -12,4 +14,3 @@ Das **Zentralcafe** im K4 ist ein guter Ort, um aufzutreten, leider war es nur n
 Während ich dann den Merchandisestand übernommen habe, haben DJ Scientist und Noah eine coole Show hingelegt. Angeblich waren sie als Team in Innsbruck am Tag zuvor besser, mir hat es aber trotzdem sehr gut gefallen -- wie den anderen Leuten auch.
 
 Heute geht es nach Weickersheim, und ich bin schon voll aufgeregt.
-

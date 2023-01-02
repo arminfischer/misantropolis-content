@@ -1,8 +1,11 @@
 ---
-title: "5 Jahre Leseliste: Der Mythos von Sisyphos"
+title: '5 Jahre Leseliste: Der Mythos von Sisyphos'
+date: 2013-02-21 22:06:41
 category: Veröffentlichungen
-tags: ['leseliste']
-image: 
+tags:
+- leseliste
+image: ''
+
 ---
 
 Anlässlich des fünfjährigen Jubiläums der ["Leseliste"](http://www.misantropolis.de/musik/leseliste/) stelle ich heute den "Mythos von Sisyphos" vor. Viele haben mir den Vorwurf gemacht, dieser Song wäre zu depressiv. Wenn ich ihn mir heute mit entsprechendem Abstand anhöre, gebe ich jenen Stimmen einerseits Recht, andererseits rechtfertigen gerade bestimmte Lebenssituationen die Existenzberechtigung des Liedes.  

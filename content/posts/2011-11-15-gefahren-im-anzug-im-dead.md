@@ -1,8 +1,12 @@
 ---
-title: "Gefahren im Anzug im DEAD"
+title: Gefahren im Anzug im DEAD
+date: 2011-11-15 23:16:23
 category: Veröffentlichungen
-tags: ['cocon', 'gefahren im anzug']
-image: 
+tags:
+- cocon
+- gefahren im anzug
+image: ''
+
 ---
 
 Das **DEAD Magazine** war so freundlich, Cocons und mein gemeinsames Album zu besprechen:  

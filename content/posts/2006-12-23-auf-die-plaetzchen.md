@@ -1,8 +1,10 @@
 ---
-title: "Auf die Plätzchen"
+title: Auf die Plätzchen
+date: 2006-12-23 19:26:21
 category: Tipps
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Nach 5,5 Stunden und 5 Sorten Plätzchenbacken habe ich für Euch das Rezept, das garantiert am schnellsten geht - und ohne Backen.  

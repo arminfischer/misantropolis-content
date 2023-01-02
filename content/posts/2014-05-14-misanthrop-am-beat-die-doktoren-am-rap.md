@@ -1,8 +1,10 @@
 ---
-title: "Misanthrop am Beat, die Doktoren am Rap"
+title: Misanthrop am Beat, die Doktoren am Rap
+date: 2014-05-14 20:45:33
 category: Veröffentlichungen
-tags: 
+tags: []
 image: https://www.misantropolis.de/images/posts/schnee_von_morgen.jpg
+
 ---
 
 Heute ist auf postrap die langersehnte Langspielplatte ["Schnee von morgen"](http://postrap.de/releases/schnee-von-morgen/) von **Dr. Parnassus und Dr. Moreau** (aka Blank und Manuskrip) herausgekommen. Man kann sie im [postrap-Shop](http://postrap.de/produkt/dr-parnassus-und-dr-moreau-schnee-von-morgen/) kaufen oder sogar bei [Bandcamp](https://manuskript.bandcamp.com/album/dr-parnassus-und-dr-moreau-schnee-von-morgen) umsonst herunterladen.  

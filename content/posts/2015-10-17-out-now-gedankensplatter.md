@@ -1,8 +1,10 @@
 ---
-title: "Out Now: Gedankensplatter"
+title: 'Out Now: Gedankensplatter'
+date: 2015-10-17 20:31:54
 category: Veröffentlichungen
-tags: 
+tags: []
 image: https://www.misantropolis.de/images/releases/azabeats_misanthrop_gedankensplatter.jpg
+
 ---
 
 Mein postrap-Kumpel [azabeats](http://www.postrap.de/artists/azabeats) und ich schrauben ja schon länger an gemeinsamen Songs und haben nun seit zwei Tagen eine neue EP draußen. "Gedankensplatter" heißt sie, und es gibt sie als [12"](http://postrap.de/produkt/azabeats-misanthrop-gedankensplatter/) und auch zum kostenlosen Download.  

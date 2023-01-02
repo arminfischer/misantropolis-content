@@ -1,8 +1,11 @@
 ---
-title: "Unwohlsein"
+title: Unwohlsein
+date: 2010-03-06 22:47:54
 category: Reise
-tags: ['bangladesh']
-image: 
+tags:
+- bangladesh
+image: ''
+
 ---
 
 In fast jedem südostasiatischem Land, das ich bereits habe, gab es den ein oder anderen Ort, an dem ich mich unwohl und fehl am Platz gef&uumhlt habe. In Malaysia war es **Kota Bharu**, in Indonesien **Bandung**, in Laos **Huay Xai**, usw.  

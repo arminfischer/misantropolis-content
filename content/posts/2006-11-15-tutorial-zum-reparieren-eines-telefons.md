@@ -1,8 +1,10 @@
 ---
-title: "Tutorial zum Reparieren eines Telefons"
+title: Tutorial zum Reparieren eines Telefons
+date: 2006-11-15 16:10:35
 category: Verschiedenes
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Wenn das Telefon [nicht mehr geht](http://www.misantropolis.de/2006/11/bitte-nicht-mehr-auf-diese-seite-gehen):  

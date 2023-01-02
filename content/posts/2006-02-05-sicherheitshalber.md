@@ -1,8 +1,10 @@
 ---
-title: "Sicherheitshalber"
+title: Sicherheitshalber
+date: 2006-02-05 12:47:36
 category: Veranstaltungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Zur Anfeuerung der momentan stattfindenden Sicherheitskonferenz gab es gestern ein Event im [Feierwerk](http://www.feierwerk.de), auf dem u.a. die Darmstädter **QTS** und **Kopfarbeit** sowie [88:Komaflash](http://www.88komaflash.de) aufgetreten sind. Beide Formationen hatten es etwas schwer, da es nicht übermäßig voll war, haben sich aber wacker geschlagen.  

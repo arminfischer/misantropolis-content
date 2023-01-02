@@ -1,8 +1,11 @@
 ---
-title: "5 Jahre Leseliste: Der Zauberberg"
+title: '5 Jahre Leseliste: Der Zauberberg'
+date: 2013-12-15 22:08:55
 category: Veröffentlichungen
-tags: ['leseliste']
-image: 
+tags:
+- leseliste
+image: ''
+
 ---
 
 Das Jahr 2013 neigt sich dem Ende zu. Es war neben dem Jahr der [Filmmusik](http://misanthrop.bandcamp.com/album/filmmusik) auch das Jahr des fünfjährigen Jubiläums meiner [Leseliste](http://misanthrop.bandcamp.com/album/leseliste), und ich habe Euch im Lauf des Jahres die einzelnen Songs noch einmal etwas [genauer vorgestellt](http://www.misantropolis.de/tag/leseliste/). Den Abschluss dieser Vorstellungsrunde macht heute "Der Zauberberg". Das Buch von **Thomas Mann** war und ist eines meiner Favoriten; ich war immer fasziniert von der Geschichte des Sanatoriuminsassens Hans Castorp, die darin erzählt wird. Für mich hat bei der Lektüre vor allem der Aspekt des Ausweglosigkeit eine große Rolle gespielt und mich interessiert. Nämlich die Tatsache, dass man zwar für die Genesung alles Erdenkliche tut, aber am Ende nicht richtig gesund wird, sondern möglichst bald wieder von vorne beginnen muss.  

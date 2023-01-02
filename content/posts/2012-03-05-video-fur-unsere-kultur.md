@@ -1,8 +1,10 @@
 ---
-title: "VIDEO: Für unsere Kultur"
+title: 'VIDEO: Für unsere Kultur'
+date: 2012-03-05 16:16:05
 category: Veröffentlichungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Zum Track "Für unsere Kultur" von Qwers und meinem Album ["Der Zukunftsmensch"](http://www.postrap.de/releases/der-zukunftsmensch/) gibt es seit heute ein cooles Eighties-Trash-Video:  

@@ -1,8 +1,10 @@
 ---
-title: "Unterstützung für Nepal"
+title: Unterstützung für Nepal
+date: 2015-05-04 18:37:46
 category: Allgemein
-tags: 
+tags: []
 image: http://us3.campaign-archive2.com/?u=f3382d0a72d659355abf33ada&id=9851dcbe08&e=5d62e8f14e
+
 ---
 
 Wie einige von Euch vielleicht wissen, war ich mal wieder auf Reisen, dieses Mal kurz in Indien und dann 10 Tage in Nepal. Diese 10 Tage hatten es in sich, vor allem auch weil sich kurz vor Heimflug das große Erdbeben ereignete, von dem momentan noch in den Medien gesprochen wird.  

@@ -1,8 +1,11 @@
 ---
-title: "Ceschi - Count On It / Bad Jokes draußen!"
+title: Ceschi - Count On It / Bad Jokes draußen!
+date: 2008-09-26 08:19:18
 category: Veröffentlichungen
-tags: ['equinox records']
-image: 
+tags:
+- equinox records
+image: ''
+
 ---
 
 Stolz verweise ich auf einen neuen Eintrag in meiner Diskographie, nämlich einen Bonus Remix von **Ceschis** und **DJ Scientists** "Bad Jokes". Der Originalsong ist auf der [heute von *Equinox Records* veröffentlichten 7"](http://www.e-q-x.net/eqx014/) der beiden enthalten, und meinen Remix gibt es inklusive dem Instrumental von "Count On It" wenn man die Platte kauft und den darin enthaltenen Downloadcode einlöst. Diese Funktionalität habe übrigens ich programmiert.  

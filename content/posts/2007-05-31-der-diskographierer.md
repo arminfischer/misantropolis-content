@@ -1,8 +1,10 @@
 ---
-title: "Der Diskographierer"
+title: Der Diskographierer
+date: 2007-05-31 13:02:05
 category: Surfen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 **Oystein** aus Norwegen ist ein cooler Typ, und er bloggt neben Veröffentlichungen von Ninja Tune et al. auch alle Releases von **Equinox Records** und [Audiac](http://www.timec.net/ninjatune/index.php/Audiac). Das ist sehr hilfreich, denn ich muss mir nicht mehr merken was ich alles gemacht habe. Takk! Bzw. danke!

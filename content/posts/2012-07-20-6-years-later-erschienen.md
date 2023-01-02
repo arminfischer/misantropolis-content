@@ -1,8 +1,10 @@
 ---
-title: "6 Years Later erschienen!"
+title: 6 Years Later erschienen!
+date: 2012-07-20 20:03:47
 category: Featured
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Heute ist meine gemeinsame EP mit **Aqua Luminus III.** in der digitalen Version auf [Equinox Records](http://www.e-q-x.net/shop/equinox-records/misanthrop-aqua-luminus-iii-6-years-later-10/) erschienen, und ich bin sehr froh darüber.  

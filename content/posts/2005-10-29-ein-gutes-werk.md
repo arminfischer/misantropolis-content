@@ -1,8 +1,10 @@
 ---
-title: "Ein gutes Werk"
+title: Ein gutes Werk
+date: 2005-10-29 10:50:37
 category: Tipps
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 [HELPING BANDS](http://www.helping-bands.de/) hilft dem UNICEF Projekt "Schulen für Afrika", indem die Initiative CD-Compilations zusammenstellt und als [Download](http://www.helping-bands.de/direktkauf.html) bei diversen Plattformen anbietet. Der Erlös geht dann direkt an das Projekt.  

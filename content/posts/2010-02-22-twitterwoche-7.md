@@ -1,8 +1,10 @@
 ---
-title: "Twitterwoche 7"
+title: Twitterwoche 7
+date: 2010-02-22 08:44:17
 category: Twitterwoche
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 * [Alice Schwarzer](http://www.aliceschwarzer.de/) schreibt Bushido.

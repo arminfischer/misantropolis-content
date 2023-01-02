@@ -1,8 +1,10 @@
 ---
-title: "DAS FEST: Stahlkopfroboter (phonatic RMX)"
+title: 'DAS FEST: Stahlkopfroboter (phonatic RMX)'
+date: 2011-04-22 20:55:38
 category: Veröffentlichungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Der zweite Track des Bonusmaterials von **DAS FEST** ist draußen. Dieses Mal hat [**phonatic**](http://unteranderem.tumblr.com) einen Remix von "Stahlkopfroboter" angefertig:  

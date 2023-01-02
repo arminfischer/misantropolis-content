@@ -1,8 +1,10 @@
 ---
-title: "Ankündigung"
+title: Ankündigung
+date: 2007-02-13 20:49:22
 category: Verschiedenes
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Leider fürchte ich, dass es in Zukunft weniger Musik von mir zu hören geben wird. Ich bin zwar intensiv auf Wohnungssuche, aber der Streit mit [meinem Nachbarn](http://www.misantropolis.de/2006/10/laermbelaestigung), der unter mir wohnt und immer zu laut ist, ist jetzt eskaliert. Ich werde mich deswegen immer seltener daheim aufhalten und kann deshalb keine Musik mehr machen.  

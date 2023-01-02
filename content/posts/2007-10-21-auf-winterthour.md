@@ -1,8 +1,10 @@
 ---
-title: "Auf Winterthour"
+title: Auf Winterthour
+date: 2007-10-21 15:33:21
 category: Veranstaltungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Soeben sind [wir](http://www.the-groundzero.com/tags/snwt) von unserem Wochenendausflug nach Winterthur zurückgekommen und sind zufrieden. Zumindest ich für meinen Teil habe mich gefreut, im Kreise meiner relativ neuen Freunde aufzutreten und alten Freunde wiederzusehen.  

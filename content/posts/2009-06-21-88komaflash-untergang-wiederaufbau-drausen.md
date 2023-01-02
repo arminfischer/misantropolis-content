@@ -1,8 +1,10 @@
 ---
-title: "88:Komaflash: \"Untergang /// Wiederaufbau\" draußen"
+title: '88:Komaflash: \"Untergang /// Wiederaufbau\" draußen'
+date: 2009-06-21 21:01:39
 category: Veröffentlichungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 ![](http://c1.ac-images.myspacecdn.com/images02/87/l_0293b719504c4977afd70b1c5da95c3c.jpg)  

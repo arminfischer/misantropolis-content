@@ -1,8 +1,11 @@
 ---
-title: "5 Jahre Leseliste: Effi Briest"
+title: '5 Jahre Leseliste: Effi Briest'
+date: 2013-01-26 12:44:05
 category: Veröffentlichungen
-tags: ['leseliste']
+tags:
+- leseliste
 image: https://www.misantropolis.de/images/releases/misanthrop_-_effi_briest_cover.jpg
+
 ---
 
 In diesem Jahr wird die [Leseliste](http://www.misantropolis.de/musik/leseliste/) fünf Jahre alt, und das nehme ich gerne zum Anlass, in den kommenden Monaten sämtliche Tracks noch einmal vorzustellen und Hintergrundgeschichte beziehungsweise Anekdoten dazu zu erzählen.  

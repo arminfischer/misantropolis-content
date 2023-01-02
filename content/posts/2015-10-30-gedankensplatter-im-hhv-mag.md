@@ -1,8 +1,10 @@
 ---
-title: "Gedankensplatter im HHV Mag"
+title: Gedankensplatter im HHV Mag
+date: 2015-10-30 18:48:35
 category: Veröffentlichungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Das angesehene HHV Mag hat eine Rezension von der ["Gedankensplatter"](http://postrap.de/releases/gedankensplatter/) geschrieben, über die ich mich sehr freue:  

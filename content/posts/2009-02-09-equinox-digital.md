@@ -1,8 +1,10 @@
 ---
-title: "Equinox Digital"
+title: Equinox Digital
+date: 2009-02-09 19:20:19
 category: Veröffentlichungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 [Equinox Records](http://www.e-q-x.net) hat sich dezidiert auf den digitalen Markt ausgedehnt und das Sublabel **Equinox Digital** ins Leben gerufen. Und hier gibt es seit Kurzem die Erstreleases  

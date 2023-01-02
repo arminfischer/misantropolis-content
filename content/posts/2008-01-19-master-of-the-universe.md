@@ -1,8 +1,10 @@
 ---
-title: "Master of the universe"
+title: Master of the universe
+date: 2008-01-19 17:06:09
 category: Surfen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Als One-Man-Armin habe ich mir in letzter Zeit diverse Literatur zum Mastering durchgelesen, damit ich meine Lieder endlich selbst so gut es geht finalisieren kann, und damit diese laut und fett klingen.  

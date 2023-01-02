@@ -1,8 +1,10 @@
 ---
-title: "Google paged"
+title: Google paged
+date: 2006-02-24 14:56:00
 category: Surfen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 [Google](http://www.google.com) ist ja groß im Geschäft, und wer einen Google-Account hat, der kann jetzt auch seine eigenen [Webseiten](http://www.googlepages.com) kostenlos erstellen. Das habe ich mal gemacht, und der Online-Editor ist ganz cool.  

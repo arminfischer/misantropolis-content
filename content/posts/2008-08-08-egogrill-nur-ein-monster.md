@@ -1,8 +1,12 @@
 ---
-title: "Nur ein Monster hat keine Angst vor sich selbst ist draußen!"
+title: Nur ein Monster hat keine Angst vor sich selbst ist draußen!
+date: 2008-08-08 17:47:46
 category: Verschiedenes
-tags: ['egogrill', 'leave.music']
-image: 
+tags:
+- egogrill
+- leave.music
+image: ''
+
 ---
 
 ![Photobucket](http://i98.photobucket.com/albums/l262/MA5C/egogrill_cover_innen.jpg)  

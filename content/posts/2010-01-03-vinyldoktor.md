@@ -1,8 +1,10 @@
 ---
-title: "Vinyldoktor"
+title: Vinyldoktor
+date: 2010-01-03 15:15:16
 category: Verschiedenes
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Wer mich kennt, weiß, dass ich nicht unbedingt zu den Reaktionären und Rückwärtsgewandten zähle. Ich bin im Gegenteil sehr aufgeschlossen gegenüber technischen Neuerungen und beziehe solche gerne in meine Gewohnheiten und täglichen Aktivitäten mit ein, wenn sie mir sinnvoll erscheinen. Das muss ich allein schon von Berufs wegen. Allerdings haben beim Auflegen noch nicht alle digitalen Wunderwerke zu mir gefunden, und ich kaufe weiterhin monatlich einen einigermaßen dicken Stapel Platten und transportiere auch immer mehrere volle Plattentaschen inklusive Mixer mit S- und U-Bahn mindestens einmal monatlich in den Club. Natürlich sehe ich die Vorteile von Vinyl-Emulatoren wie [Serato](http://de.wikipedia.org/wiki/Rane_Serato_Scratch_Live), aber diese Vorteile sehe ich eher bei komplexen DJ-Livesets und für das Abspielen und Anreichern von Eigenproduktionen mit Scratches, um sich die Dubplates zu sparen.  

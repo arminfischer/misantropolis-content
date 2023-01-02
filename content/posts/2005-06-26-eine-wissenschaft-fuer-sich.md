@@ -1,8 +1,10 @@
 ---
-title: "Eine Wissenschaft für sich"
+title: Eine Wissenschaft für sich
+date: 2005-06-26 20:04:00
 category: Tipps
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Das zu meiner Schande hier noch nicht erwähnte Mixtape **III** vom [DJ Scientist](http://www.djscientist.com) wurde in der [Raplounge](http://www.raplounge.de/sounds/djscientist-3-review.htm) sehr positiv bewertet. Also hört es Euch an!  

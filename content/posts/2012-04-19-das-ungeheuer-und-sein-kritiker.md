@@ -1,8 +1,10 @@
 ---
-title: "Das Ungeheuer und sein Kritiker!"
+title: Das Ungeheuer und sein Kritiker!
+date: 2012-04-19 21:00:21
 category: Veröffentlichungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Mein neues Album "Das Ungeheuer und sein Kritiker" erblickt heute das Licht der der Welt:  

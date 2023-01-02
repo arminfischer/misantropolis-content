@@ -1,8 +1,11 @@
 ---
-title: "Vorankündigung Effi Briest 7\""
+title: Vorankündigung Effi Briest 7\"
+date: 2008-05-11 22:20:45
 category: Verschiedenes
-tags: ['effi briest']
+tags:
+- effi briest
 image: https://www.misantropolis.de/images/posts/misanthrop_-_effi_briest_banner_anim_250px.gif
+
 ---
 
 Das Warten beginnt heute - und es wird uns noch vier Wochen lang begleiten, bis es am 9.6. soweit ist. Dann erscheint **Effi Briest**, meine zumindest von mir lang erwartete neue 7" Single auf [leave.music](http://www.leavemusic.de).  

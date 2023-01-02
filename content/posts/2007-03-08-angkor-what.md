@@ -1,8 +1,10 @@
 ---
-title: "Angkor What?"
+title: Angkor What?
+date: 2007-03-08 04:22:24
 category: Reise
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Nach einem schoenen und hektischen ersten Tag in Bangkok sind wir gleich mal auf den uraeltesten Trick hereingefallen, den es zwischen Thailand und Kambodscha gibt: Den **Scam Bus**. Und der funktioniert so:  

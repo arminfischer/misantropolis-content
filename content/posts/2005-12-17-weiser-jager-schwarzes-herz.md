@@ -1,8 +1,10 @@
 ---
-title: "Weißer Jäger, schwarzes Herz"
+title: Weißer Jäger, schwarzes Herz
+date: 2005-12-17 14:35:25
 category: Sehen
-tags: 
+tags: []
 image: https://www.misantropolis.de/images/posts/weisser.jpg
+
 ---
 
 [![](http://www.misantropolis.de/wp-content/uploads/2008/04/weisser.jpg "weisser")](http://www.misantropolis.de/wp-content/uploads/2008/04/weisser.jpg)In "Weißer Jäger, schwarzes Herz" spielt *Clint Eastwood* einen Regisseur, der mit seinem Drehbuchautor nach Afrika reist. Vordergründig um einen Film vorzubereiten, seine eigentliche Absicht ist es aber, einen Elefanten zu erlegen. Als dann bereits die ganze Filmcrew am Ort ist, ist er immer noch wie besessen, und somit verzögert sich dann auch der Drehbeginn.

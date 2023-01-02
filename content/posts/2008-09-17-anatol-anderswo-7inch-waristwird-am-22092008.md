@@ -1,8 +1,11 @@
 ---
-title: "Anatol Anderswo: \"War.Ist.Wird\" als 7\" am 22.09.2008"
+title: 'Anatol Anderswo: \"War.Ist.Wird\" als 7\" am 22.09.2008'
+date: 2008-09-17 14:10:41
 category: Tipps
-tags: ['leave.music']
-image: 
+tags:
+- leave.music
+image: ''
+
 ---
 
 [![Photobucket](http://i98.photobucket.com/albums/l262/MA5C/anatol_anderswo_webbanner.jpg)](http://www.leavemusic.de/live/leavemusic/index.php?content=151)  

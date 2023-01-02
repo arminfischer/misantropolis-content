@@ -1,8 +1,10 @@
 ---
-title: "Düsteres Schweden"
+title: Düsteres Schweden
+date: 2011-01-18 23:09:06
 category: Veröffentlichungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 **THMS** ist ein schwedischer Rapper und cooler Typ, mit dem ich Musik mache. Unter anderem als Vorbereitung für unser in den organisatorischen Endzügen befindlichen Projekts, kann man sich nun für umsonst sein neues Album "Glömda Egenskaper" anhören, das auf dem Kollektiv *New Cocoon* erschienen ist. Zu Gast sind dort neue und alte Bekannte wie **Soda**, **James P Honey**, **Wormhole**, **Kaigen**, **Plunge Attempt**, **Variex**, **Mikey Yeda**, **Yem Senha**, **Sonarr** und **Smokey131**.  

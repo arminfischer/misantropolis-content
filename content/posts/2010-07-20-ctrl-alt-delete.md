@@ -1,8 +1,10 @@
 ---
-title: "CTRL ALT DELETE"
+title: CTRL ALT DELETE
+date: 2010-07-20 07:37:08
 category: Veröffentlichungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Seit Anfang des Jahres ist der schwedische Rapper **THMS** (formerly known as **Mr. T**) Mitglied des Kollektivs [**New Cocoon**](http://www.newcocoon.com/) geworden. Sein Album **"Rum213"** von 2006 könnte dem ein oder anderen bekannt sein, unter anderem enthält es ein Audio88-Feature. Man kann es [hier](http://www.newcocoon.com/downloads/THMS-Rum213.rar) kostenlos herunterladen.  

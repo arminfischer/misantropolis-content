@@ -1,8 +1,10 @@
 ---
-title: "Vanilla Ice II"
+title: Vanilla Ice II
+date: 2006-08-22 15:09:09
 category: Surfen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Ich sollte auch mal wieder ~~altertümlicher~~ oldschooliger rappen:  

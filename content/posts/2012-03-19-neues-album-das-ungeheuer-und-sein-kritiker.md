@@ -1,8 +1,14 @@
 ---
-title: "NEUES ALBUM: Das Ungeheuer und sein Kritiker"
+title: 'NEUES ALBUM: Das Ungeheuer und sein Kritiker'
+date: 2012-03-19 22:07:51
 category: Veröffentlichungen
-tags: ['azabeats', 'DUUSK', 'Misanthrop', 'postrap']
-image: 
+tags:
+- azabeats
+- DUUSK
+- Misanthrop
+- postrap
+image: ''
+
 ---
 
 Nach vielen Stunden des Überlegens, Nächten des Bastelns und Tagen des Wartens darf ich nun endlich wieder einmal voller Stolz ein neues Soloalbum von mir ankündigen:  

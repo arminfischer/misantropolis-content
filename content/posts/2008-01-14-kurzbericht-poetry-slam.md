@@ -1,8 +1,10 @@
 ---
-title: "Kurzbericht Poetry Slam"
+title: Kurzbericht Poetry Slam
+date: 2008-01-14 09:02:34
 category: Veranstaltungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Beim gestrigen Slam hat mir vor allem Folgendes gefallen:  
@@ -13,4 +15,3 @@ Beim gestrigen Slam hat mir vor allem Folgendes gefallen:
 * Mein [Electro Set](http://www.electroempire.com/) in der Pause
   
 * Das [Rauchverbot](http://de.wikipedia.org/wiki/Rauchverbot)
-  

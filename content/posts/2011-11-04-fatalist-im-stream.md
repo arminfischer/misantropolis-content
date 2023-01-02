@@ -1,8 +1,10 @@
 ---
-title: "Fatalist im Stream"
+title: Fatalist im Stream
+date: 2011-11-04 23:23:08
 category: Veröffentlichungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Seit Mai ist "Fatalist" draußen, eine EP, die ich mit dem Schweden **THMS** gemacht habe. Dieser hat die sieben Songs nun geleakt, und man kann sie sich bei Bedarf immer wieder auf Bandcamp anhören:  

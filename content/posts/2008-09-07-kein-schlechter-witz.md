@@ -1,8 +1,11 @@
 ---
-title: "Kein schlechter Witz"
+title: Kein schlechter Witz
+date: 2008-09-07 21:13:42
 category: Tipps
-tags: ['equinox records']
-image: 
+tags:
+- equinox records
+image: ''
+
 ---
 
 Am 26.9. kommt die überragende 7inch Single "Count On It/Bad Jokes" von **Ceschi** und **DJ Scientist** auf [Equinox Records heraus](http://blog.myspace.com/index.cfm?fuseaction=blog.view&friendID=39336280&blogID=430731906), die nur ein Vorbote des noch überragenderen Albums der beiden ist.  

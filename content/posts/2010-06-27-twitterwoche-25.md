@@ -1,8 +1,10 @@
 ---
-title: "Twitterwoche 25"
+title: Twitterwoche 25
+date: 2010-06-27 20:58:15
 category: Twitterwoche
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 * Vandalismus in [Singapur](http://www.tagesschau.de/ausland/singapur126.html)

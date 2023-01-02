@@ -1,8 +1,10 @@
 ---
-title: "Kein Seitensprung"
+title: Kein Seitensprung
+date: 2007-10-11 15:15:19
 category: Verschiedenes
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Eigentlich wollte ich auch in diesem Jahr die besten thematisch zusammengehörigen Internet-Lieder auf einer EP herausbringen, wie ich das in der Vergangenheit mit der [Wochenschau](http://www.discogs.com/release/498080) oder den [Songs eines Handlungsreisenden](http://blog.nbp-online.de/2006/11/22/misanthrop-songs-eines-handlungsreisenden/) gemacht habe.  

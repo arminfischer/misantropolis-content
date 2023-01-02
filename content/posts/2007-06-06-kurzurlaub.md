@@ -1,8 +1,10 @@
 ---
-title: "Kurzurlaub"
+title: Kurzurlaub
+date: 2007-06-06 22:02:00
 category: Verschiedenes
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Morgen geht es über das verlängerte Wochenende auf Kurzurlaub in den Osten. Ich werde nicht gegen den G8-Gipfel demonstrieren sondern bei Verwandten und Freunden in Halle und Berlin vorbeischauen. Deshalb könnten die Beiträge in dieser Zeit etwas sporadischer ausfallen.  

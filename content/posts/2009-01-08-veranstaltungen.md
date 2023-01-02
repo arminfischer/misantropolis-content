@@ -1,8 +1,10 @@
 ---
-title: "Veranstaltungen"
+title: Veranstaltungen
+date: 2009-01-08 21:50:26
 category: Veranstaltungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 In der nächsten Zeit ist viel los. So viele Leute werden auf einmal schon dreißig, und dann sind noch so viele coole Konzerte, wie zum [Beispiel das am Samstag, 17.1.,](http://www.the-groundzero.com/2009/01/08/fiaskotour-in-muenchen-und-dorfen/) in der Glockenbachwerkstatt. Und die Ereignisse überschlagen sich nicht nur, sie überschneiden sich auch.  

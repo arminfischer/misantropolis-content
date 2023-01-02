@@ -1,8 +1,10 @@
 ---
-title: "Trainwars"
+title: Trainwars
+date: 2006-09-17 17:46:19
 category: Verschiedenes
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 [Wholetrain](http://www.wholetrain.com) lief gestern im [Ampere](http://www.ampere-muffatwerk.de/), wo es neben keinem Stereo-Dolby-Surround-THX-Sound auch eine interessierte Hip-Hop-Zuhörerschaft gab. Schauspielerisch wesentlich besser als [Status Yo!](http://www.misantropolis.de/2005/11/status-yo/) versucht der Film das Malergefühl zu transportieren, und hat das bei einem Laien und visuell Unbedarften wie mir geschafft.  

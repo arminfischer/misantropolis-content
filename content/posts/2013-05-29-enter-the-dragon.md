@@ -1,8 +1,12 @@
 ---
-title: "Enter The Dragon"
+title: Enter The Dragon
+date: 2013-05-29 11:52:59
 category: Reise
-tags: ['Flores', 'Indonesien']
-image: 
+tags:
+- Flores
+- Indonesien
+image: ''
+
 ---
 
 Heute Morgen um 6 Uhr haben wir uns doch kurzfristig entschlossen, uns den Drachen im Komodo Nationalpark anzusehen. Die Tour in den Park, wo mehrere dieser Riesenechsen herumliegen, kann man hier in **Labuanbajo** auf **Flores** bei wahrscheinlich jedem Dorfbewohner buchen.  

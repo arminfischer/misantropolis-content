@@ -1,8 +1,12 @@
 ---
-title: "Vorsicht, Delphin!"
+title: Vorsicht, Delphin!
+date: 2013-05-31 12:07:02
 category: Reise
-tags: ['Flores', 'Indonesien']
-image: 
+tags:
+- Flores
+- Indonesien
+image: ''
+
 ---
 
 Die Strecke, die wir auf Flores zurücklegen wollen, um am Ende die Seen auf dem Kelimutu zu erreichen, beträgt nur ca. 400 km. Auf dieser Insel muss man aber selbst mit der gehobenen Minibus-Klasse sehr lange dafür einkalkulieren, da der sogenannte Trans-Flores-Highway praktisch nur in Sepertinen verläuft und der Regen regelmäßig die Straßen abträgt.  

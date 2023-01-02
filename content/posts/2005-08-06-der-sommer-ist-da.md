@@ -1,8 +1,10 @@
 ---
-title: "Der Sommer ist da!"
+title: Der Sommer ist da!
+date: 2005-08-06 14:50:39
 category: Downloads
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Mit einjähriger Verzögerung aber ungebrochener Aktualität ist [August](/downloads) nun da, das letzte Lied des Jahresrings, der sich hiermit schließt.  

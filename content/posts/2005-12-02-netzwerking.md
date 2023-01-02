@@ -1,8 +1,10 @@
 ---
-title: "Netzwerking"
+title: Netzwerking
+date: 2005-12-02 09:28:36
 category: Surfen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Namen und Gestaltung der Homepage der [Lokalisten](http://www.lokalisten.de) finde ich eher bescheiden, dafür ist die Idee ganz gut. Eigentlich ist es das, was mit [FOAF](http://www.foaf-project.org/) machen kann oder können sollte.  

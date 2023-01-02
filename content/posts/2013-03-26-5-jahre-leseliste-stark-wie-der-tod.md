@@ -1,8 +1,11 @@
 ---
-title: "5 Jahre Leseliste: Stark wie der Tod"
+title: '5 Jahre Leseliste: Stark wie der Tod'
+date: 2013-03-26 16:44:53
 category: Veröffentlichungen
-tags: ['leseliste']
-image: 
+tags:
+- leseliste
+image: ''
+
 ---
 
 Heute geht es im Jubliäumsbeitrag für die vor fünf Jahren erschienene ["Leseliste"](http://www.misantropolis.de/musik/leseliste/) um den mir im wahrsten Sinne des Wortes am Herzen liegenden Song "Stark wie der Tod". Die grundsätzliche Vorlage lieferte logischerweise der Roman von **Guy de Maupassant**, wobei ich nicht die Handlung zum Vorbild genommen habe, sondern das Gefühl, das dieses bzw. ähnliche Bücher aus dieser Zeit bei mir ausgelöst haben.  

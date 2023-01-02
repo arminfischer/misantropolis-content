@@ -1,8 +1,10 @@
 ---
-title: "Making Of 88:Komaflash Cover"
+title: Making Of 88:Komaflash Cover
+date: 2009-09-25 13:42:07
 category: Veröffentlichungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 [![](http://www.thegap.at/typo3temp/pics/f9693548ef.jpg)](http://www.thegap.at/rubriken/stories/artikel/making-of-a-koma-kover/)  

@@ -1,8 +1,10 @@
 ---
-title: "Old School in da House"
+title: Old School in da House
+date: 2006-06-10 12:05:46
 category: Veranstaltungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Gestern habe ich nach [Alternativen](http://www.misantropolis.de/2006/06/alternativen) gesucht und bin in den [Woandersclub](http://www.woandersclub.de) gegangen, wo das Alter des DJs [Mirko Machine](http://www.mirkomachine.de/) wahrscheinlich das Doppelte des Durchschnittsalters der Besucher war. Nichtsdestotrotz hat er funky fresh aufgelegt und hauptsächlich mit Originalen geglänzt. Anonymes Zitat:

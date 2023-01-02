@@ -1,8 +1,10 @@
 ---
-title: "Ein Dankeschön"
+title: Ein Dankeschön
+date: 2005-11-01 16:38:26
 category: Verschiedenes
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Ein Blick auf die Zugriffsstatistik für diese Seite hält mich dazu an, allen treuen und neuen Besuchern meinen Dank auszusprechen. Diesen Monat hat ich durchschnittlich 50 Besucher pro Tag mehr als die Monate davor.  

@@ -1,8 +1,10 @@
 ---
-title: "Equinox geht in Serie"
+title: Equinox geht in Serie
+date: 2005-12-16 12:19:37
 category: Tipps
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Das aufstrebende und vielversprechende Label [Equinox Records](http://www.e-q-x.net/) beginnt heute mit der Veröffentlichung einer vierteiligen EP-Serie, die auf altmodischen Schallplatten herausgegeben wird. Der erste Teil portraitiert den wilden MPC-Metaller **DiVinci** aus Orlando/Florida und erscheint in einer auf 500 Stück limitierten Auflage.  

@@ -1,8 +1,10 @@
 ---
-title: "azabeats & Misanthrop: Nathans Weise"
+title: 'azabeats & Misanthrop: Nathans Weise'
+date: 2015-09-20 15:53:47
 category: Veröffentlichungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Ab heute gibt es "Nathans Weise" von der "Gedankensplatter" EP für umsonst zum Herunterladen:  

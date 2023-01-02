@@ -1,8 +1,10 @@
 ---
-title: "Hijack - The Terrorist Group"
+title: Hijack - The Terrorist Group
+date: 2009-01-22 22:31:41
 category: Verschiedenes
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Am vergangenen Wochenende habe ich im Rahmen unseres geselligen Tourbeisammenseins Beats vorgespielt und verteilt. Dabei wurde auch ein Handy mit Speicherkarte per USB an meinen Rechner angeschlossen, und prompt hat sich die Antiviren-Software zu Wort gemeldet. Es wollte ein Trojaner auf meinen Rechner überspringen, aber angeblich wurde das verhindert.  

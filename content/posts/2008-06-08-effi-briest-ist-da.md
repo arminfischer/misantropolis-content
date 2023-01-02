@@ -1,8 +1,11 @@
 ---
-title: "Effi Briest ist da!"
+title: Effi Briest ist da!
+date: 2008-06-08 21:45:35
 category: Verschiedenes
-tags: ['effi briest']
-image: 
+tags:
+- effi briest
+image: ''
+
 ---
 
 [![](http://www.leavemusic.de/live/leavemusic/content/artikelbilder/145)](http://www.leavemusic.de/live/leavemusic/index.php?content=12&artikel_id=35)  

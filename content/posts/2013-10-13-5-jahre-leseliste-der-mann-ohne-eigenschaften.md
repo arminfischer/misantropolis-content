@@ -1,8 +1,11 @@
 ---
-title: "5 Jahre Leseliste: Der Mann ohne Eigenschaften"
+title: '5 Jahre Leseliste: Der Mann ohne Eigenschaften'
+date: 2013-10-13 14:16:54
 category: Veröffentlichungen
-tags: ['leseliste']
-image: 
+tags:
+- leseliste
+image: ''
+
 ---
 
 **Robert Musils** großen Roman "Der Mann ohne Eigenschaften" habe zugegebenermaßen nur in Auszügen gelesen. Wahrscheinlich aufgrund seines Umfangs. Er steht auf jeden Fall noch auf meiner Leseliste für die Rente, wo ich große Werke wie dieses oder "Auf der Suche nach der verlorenen Zeit" in Ruhe angehen werde.  

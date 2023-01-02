@@ -1,8 +1,12 @@
 ---
-title: "Mein Eldorado"
+title: Mein Eldorado
+date: 2008-10-13 10:31:01
 category: Surfen
-tags: ['effi briest', 'leseliste']
-image: 
+tags:
+- effi briest
+- leseliste
+image: ''
+
 ---
 
 Das [Eldoradio\*](http://www.eldoradio.de/) aus Dortmund hat mich nicht nur in die [XXL-Rotation](http://www.misantropolis.de/2008/10/heavy-rotation/) genommen, sondern ["Effi Briest"](/musik/effi-briest) in dieser Kalenderwoche 42 auch zur Zukunftsmusik gemacht. Ich freu mich.  

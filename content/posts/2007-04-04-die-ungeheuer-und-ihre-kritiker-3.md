@@ -1,8 +1,10 @@
 ---
-title: "Die Ungeheuer und ihre Kritiker (3)"
+title: Die Ungeheuer und ihre Kritiker (3)
+date: 2007-04-04 17:28:38
 category: Surfen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 **Marcus** von [Shadow Joda](http://www.shadowjoda.com), der auch maßgeblich an der guten (Ton)qualität von "Psychogramm" mitgewirkt hat, hat mir eben [noch einen Review](http://www.hiphop-pott.de/index-15-1404-Misanthrop__Psychogramm.html) zugesandt. Danke.

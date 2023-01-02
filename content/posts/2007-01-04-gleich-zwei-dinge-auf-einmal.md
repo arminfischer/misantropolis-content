@@ -1,8 +1,10 @@
 ---
-title: "Gleich zwei Dinge auf einmal"
+title: Gleich zwei Dinge auf einmal
+date: 2007-01-04 13:56:37
 category: Veranstaltungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Am morgigen Freitag sind gleich **zwei** Veranstaltungen, für die es sich aus dem Haus zu gehen lohnt:  

@@ -1,8 +1,10 @@
 ---
-title: "Twitterwoche 35"
+title: Twitterwoche 35
+date: 2010-09-05 16:31:21
 category: Twitterwoche
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 * Nette Worte zum FEST bei [undergroundhiphop.ch](http://www.ughh.ch/)

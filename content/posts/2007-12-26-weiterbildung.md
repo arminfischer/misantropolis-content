@@ -1,8 +1,10 @@
 ---
-title: "Weiterbildung"
+title: Weiterbildung
+date: 2007-12-26 17:06:42
 category: Verschiedenes
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Nachdem ich über die Feiertage meine [Weihnachtsgeschichte](http://www.misantropolis.de/2007/12/weihnachtsgeschichte) ein wenig an oberster Stelle stehen gelassen habe, ist jetzt Zeit für diejenigen, die sich in dieser Zeit langweilen sollten, zwei Tipps zu platzieren:  

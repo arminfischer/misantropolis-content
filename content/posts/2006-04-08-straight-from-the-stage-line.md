@@ -1,8 +1,10 @@
 ---
-title: "Straight from the stage line"
+title: Straight from the stage line
+date: 2006-04-08 22:48:04
 category: Veranstaltungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Soeben ist der Auftritt von [88:Komaflash](http://www.88komaflash.com) im Zürcher **Rüdingers** zu Ende gegegangen. Dabei habe ich sie etwas unterstützt indem ich Scratches dazu gemacht habe, und ausserdem haben wir April zum Besten gegeben.  

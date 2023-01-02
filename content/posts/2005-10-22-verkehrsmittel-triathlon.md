@@ -1,8 +1,10 @@
 ---
-title: "Verkehrsmittel-Triathlon"
+title: Verkehrsmittel-Triathlon
+date: 2005-10-22 16:41:58
 category: Verschiedenes
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Im Zuge meines Umzugs nach Zürich, der sich in Etappen vollziehen und morgen mit einer Zugfahrt und etwas Kleidungstransport beginnen wird, bin ich heute zwischen Ebersberg und München einiges an Kilometern abgefahren.  

@@ -1,8 +1,11 @@
 ---
-title: "Stromausfall"
+title: Stromausfall
+date: 2010-08-11 08:42:48
 category: Reise
-tags: ['Malaysia']
-image: 
+tags:
+- Malaysia
+image: ''
+
 ---
 
 Nach fast wochenlangem Serverausfall kann ich endlich wieder weiterberichten. Ich fasse kurz die letzten Stationen zusammen.  

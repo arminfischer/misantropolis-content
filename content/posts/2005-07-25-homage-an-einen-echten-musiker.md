@@ -1,8 +1,10 @@
 ---
-title: "Homage an einen echten Musiker"
+title: Homage an einen echten Musiker
+date: 2005-07-25 19:23:14
 category: Downloads
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Heute ist [Albert Mangelsdorf](http://www.jazzpages.com/Mangelsdorff/index_e.htm) im Alter von 76 Jahren gestorben. Er hat vor allem durch sein unitäres Posaunenspiel einen großen Beitrag zum europäischen Jazz geleistet.  

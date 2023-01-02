@@ -1,8 +1,10 @@
 ---
-title: "Hört hört"
+title: Hört hört
+date: 2006-05-20 15:46:08
 category: Veranstaltungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Als ich noch ein kleiner Rapper war, bin ich mal mit fünf Leuten erwartungsvoll vor irgendeiner Halle in München gestanden, weil **ER** kommen sollte. Aber dann hieß es, er sei krank und nach seinem Auftritt in Nürnberg nach Hause in die South Bronx gefahren.  

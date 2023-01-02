@@ -1,8 +1,10 @@
 ---
-title: "Twitterwoche 24"
+title: Twitterwoche 24
+date: 2010-06-20 19:50:14
 category: Twitterwoche
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 * Cocons Klassiker: Der ["Winter Sun" Mix.](http://unteranderem.tumblr.com/post/700061395/winter-sun)

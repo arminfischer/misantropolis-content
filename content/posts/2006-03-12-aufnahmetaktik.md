@@ -1,8 +1,10 @@
 ---
-title: "Aufnahmetaktik"
+title: Aufnahmetaktik
+date: 2006-03-12 13:23:04
 category: Verschiedenes
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Die [gestrige](http://www.misantropolis.de/2006/03/wir-fahren-auf-der-autobahn) Aufnahmesession mit den Jungs von [Shadow Joda](http://www.shadowjoda.com) war sehr entspannt und lehrreich, da ich nichts anderes zu tun hatte als nach Vorgaben und Anregungen zu rappen.  

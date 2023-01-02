@@ -1,8 +1,10 @@
 ---
-title: "Kassettentausch"
+title: Kassettentausch
+date: 2008-06-03 20:14:51
 category: Verschiedenes
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Ab und zu verkaufe ich ein Restexemplar meines einzigen offiziellen Mixtapes ["Spektralanalyse"](/musik/spektralanalyse), weil die Käufer noch ein Tapedeck im Auto oder einen alten Walkman haben.  

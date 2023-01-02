@@ -1,8 +1,10 @@
 ---
-title: "Vinyl Culture"
+title: Vinyl Culture
+date: 2008-12-19 22:39:17
 category: Veranstaltungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 [Laut DJ Scientist](http://www.the-groundzero.com/2008/12/19/vinyl-culture-ausstellung-zur-schallplattenkultur/) gibt es im Gasteig bis zum **30.1.2009** eine interessante Ausstellung über die **Vinylkultur**. Ich nehme mir einen Besuch in nächster Zeit ganz fest vor.  

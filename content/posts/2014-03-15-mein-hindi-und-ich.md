@@ -1,8 +1,11 @@
 ---
-title: "Mein Hindi und ich"
+title: Mein Hindi und ich
+date: 2014-03-15 14:43:31
 category: Reise
-tags: ['Indien']
-image: 
+tags:
+- Indien
+image: ''
+
 ---
 
 Seit zwei Monaten lerne ich Hindi. Warum genau, das hat hauptsächlich verschiedene Gründe. Jedenfalls lerne ich aus einem guten Buch und den mitgelieferten mp3s, und deren Studium soll einen auf Level 4 (von 6) bringen, d.h. man soll flüssig sprechen können und soweit alles verstehen.  

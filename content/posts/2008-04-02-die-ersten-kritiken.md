@@ -1,8 +1,10 @@
 ---
-title: "Die ersten Kritiken"
+title: Die ersten Kritiken
+date: 2008-04-02 17:04:42
 category: Surfen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Die ersten Reviews zu den [sieben Weltwundern](http://www.leavemusic.de/live/leavemusic/index.php?content=12&artikel_id=11&menu_left_kind=0) und dem ebenfalls auf [leave.music](http://www.leavemusic.de) erschienenen ["Cocon"](http://www.leavemusic.de/live/leavemusic/index.php?content=12&artikel_id=5&menu_left_kind=0) sind da:  

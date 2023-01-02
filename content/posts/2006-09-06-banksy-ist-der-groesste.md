@@ -1,8 +1,10 @@
 ---
-title: "Banksy ist der Größte"
+title: Banksy ist der Größte
+date: 2006-09-06 08:41:49
 category: Surfen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Der mir von [Omega Takeshi](http://www.88komaflash.de) einst empfohlene Straßenkunstkünstler [Banksy](http://de.wikipedia.org/wiki/Banksy) hat erneut einen Supercoup gelandet:  

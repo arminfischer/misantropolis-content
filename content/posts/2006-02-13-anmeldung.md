@@ -1,8 +1,10 @@
 ---
-title: "Anmeldung"
+title: Anmeldung
+date: 2006-02-13 11:11:13
 category: Reise
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Leider und zum Glück hatte ich am Wochenende eine musikalische Neueingebung, weil ich auf dem Frankfurter Flohmarkt ziemlich coole Samplevorlagen erstanden habe und von dem damit gebastelten Beat so inspiriert war, daß ich gleich zwei Strophen geschrieben habe.   

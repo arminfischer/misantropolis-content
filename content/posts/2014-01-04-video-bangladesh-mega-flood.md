@@ -1,8 +1,12 @@
 ---
-title: "Video: Bangladesh Mega Flood"
+title: 'Video: Bangladesh Mega Flood'
+date: 2014-01-04 22:42:05
 category: Veröffentlichungen
-tags: ['filmmusik', 'video']
-image: 
+tags:
+- filmmusik
+- video
+image: ''
+
 ---
 
 <iframe width="480" height="315" src="//www.youtube.com/embed/KtAGCbKt8pk" frameborder="0" allowfullscreen></iframe>

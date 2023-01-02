@@ -1,8 +1,10 @@
 ---
-title: "Remix für die Band of Buriers"
+title: Remix für die Band of Buriers
+date: 2012-06-25 18:29:18
 category: Veröffentlichungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Nicht nur weil ich **James P Honey** seit Längerem kenne und seine Vocals immer wieder in meine Produktionen einbaue, bin ich ein großer seiner "Band of Buriers", sondern auch weil die Gruppe sehr innovativ ist und mit teilweise einfachsten Mitteln wunderschöne Lieder fabriziert. Deshalb war ich umso froher als mich James um einen Remix für "Slides By" gebeten hat, die erste Single aus ihrem neuen Album. Meine Version gibt es seit eben zum Anhören und Runterladen:  

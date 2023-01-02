@@ -1,8 +1,10 @@
 ---
-title: "George Bernard Shaw: \"Pygmalion\""
+title: 'George Bernard Shaw: \"Pygmalion\"'
+date: 2009-10-25 16:19:06
 category: Lesen
-tags: 
+tags: []
 image: https://www.misantropolis.de/images/posts/pygmalion.jpg
+
 ---
 
 "Pygmalion" ist ein Theaterstück von **George Bernard Shaw**, das auf dem gleichnamigen griechischen Mythos basiert, in dem der Bildhauer Pygmalion eine Statue erschafft und die Götter bittet, diese zum Leben zu erwecken, was dann auch geschieht.

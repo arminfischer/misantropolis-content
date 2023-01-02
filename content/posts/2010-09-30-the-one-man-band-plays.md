@@ -1,8 +1,10 @@
 ---
-title: "The One Man Band Plays"
+title: The One Man Band Plays
+date: 2010-09-30 20:45:45
 category: Veröffentlichungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 [![](http://www.e-q-x.net/eqx024/eqx024_banner_px430_outnow.jpg "DJ Scientist - The One Man Band Instrumentals")](http://www.e-q-x.net/news/2010/09/dj-scientist-the-one-man-band-instrumentals-out-now/)  

@@ -1,8 +1,10 @@
 ---
-title: "Exklusiv: Generation XY von phonatic"
+title: 'Exklusiv: Generation XY von phonatic'
+date: 2012-04-27 12:18:48
 category: Veröffentlichungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 **phonatic** hat meinen Track "Generation XY" vom neuen Album auf seine Art und Weise musikalisch umgestaltet, und ich freue mich sehr darüber. Das Lied ist nun auch Teil des digitalen Albums, wobei es das Vinyl und die CD natürlich nach wie vor [im Shop](http://www.postrap.de/shop/) gibt.  

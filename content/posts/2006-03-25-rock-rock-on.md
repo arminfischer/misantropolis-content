@@ -1,8 +1,10 @@
 ---
-title: "Rock rock on!"
+title: Rock rock on!
+date: 2006-03-25 16:04:11
 category: Veranstaltungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Mein gestriger Nachmittag mit dem größten Teil der [nbp-Posse](http://www.nbp-online.de) war sehr nett. Zwar waren [MASC](http://www.myspace.com/masc) und ich beim gemeinsamen Texten auf einen Beat von [NBOne](http://www.nbp-recordings.de/index.php?content=releases&id=A091105331) nicht ganz so produktiv wie [Qwer](http://www.myspace.com/olezweifel ), aber das Lied hat und braucht sowieso noch Zeit. Wir haben noch cool gechillt und sind gemeinsam zum Konzert von [Ms John Soda](http://www.msjohnsoda.de) und [Jel](http://www.anticon.com) gefahren.  

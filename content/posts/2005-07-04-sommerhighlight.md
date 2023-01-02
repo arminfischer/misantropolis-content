@@ -1,8 +1,10 @@
 ---
-title: "Sommerhighlight"
+title: Sommerhighlight
+date: 2005-07-04 07:31:08
 category: Veranstaltungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Ein definitives Highlight dieses Sommers was Konzerte angeht war der gestrige Tourstop von [Sage Francis](http://www.sagefrancis.net) im Feierwerk.  

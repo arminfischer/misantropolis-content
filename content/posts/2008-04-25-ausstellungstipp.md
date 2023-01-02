@@ -1,8 +1,10 @@
 ---
-title: "Ausstellungstipp"
+title: Ausstellungstipp
+date: 2008-04-25 12:11:08
 category: Veranstaltungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Gestern habe ich zufällig beim Laufen meinen alten Bekannten **Paul** von den [United Skateboard Artists](http://www.tsetse-promo.com/unitedskateboardartists.php) getroffen, die zurzeit in der "Galerie Richter & Masset" in der Würmtalstr. 30 in München an die 100 Bilder ausstellen.  

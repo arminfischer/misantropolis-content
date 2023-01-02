@@ -1,8 +1,10 @@
 ---
-title: "The Return of Dr. Misanthrop"
+title: The Return of Dr. Misanthrop
+date: 2006-12-08 13:56:04
 category: Veranstaltungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Gerade habe ich erfahren, dass ich am kommenden Samstag wieder einmal im [Substanz](http://www.substanz-muenchen.de/) auflege. Da ich ein paar neue und schöne Platten habe, passt mir das gut in den Kram. Natürlich findet die Aktion im Rahmen des [Poetry Slams](http://de.wikipedia.org/wiki/Poetry_Slam) statt. Einlaß ist 19.30 Uhr, und da fange ich an.  

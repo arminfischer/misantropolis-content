@@ -1,8 +1,11 @@
 ---
-title: "Egogrill-Album: Megamix und MD-Special"
+title: 'Egogrill-Album: Megamix und MD-Special'
+date: 2008-07-30 05:55:47
 category: Downloads
-tags: ['leave.music']
-image: 
+tags:
+- leave.music
+image: ''
+
 ---
 
 ![](http://www.leavemusic.de/live/leavemusic/content/artikelbilder/170)  

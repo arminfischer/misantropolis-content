@@ -1,8 +1,10 @@
 ---
-title: "F(/=$? the Police"
+title: F(/=$? the Police
+date: 2007-03-03 18:35:59
 category: Verschiedenes
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 [D-Rya](http://derschan.blogspot.com) hat mir gerade eine etwas andere Version des bekannten NWA-Klassikers zukommen lassen:  

@@ -1,8 +1,10 @@
 ---
-title: "Gefallener Engel"
+title: Gefallener Engel
+date: 2006-06-03 11:33:48
 category: Tipps
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 [Angel-A](http://www.imdb.com/title/tt0473753/) heißt der neue Film von [Luc Besson](http://www.imdb.com/name/nm0000108/), der erst vor Kurzem in den Kinos angelaufen ist. Der männliche Hauptdarsteller [Jamel Debbouze](http://www.imdb.com/name/nm0213354/), der mir vor allem als der Gemüsehändlerlehrling aus "Die fabelhafte Welt der Amelie" bekannt ist, spielt einen überschuldeten Lebenskünstler, der in einem Lebenstief einen Engel zur Unterstützung bekommt, der von der weiblichen Hauptdarstellerin [Rie Rasmussen](http://www.imdb.com/name/nm1051346/) verkörpert wird. Ihre gemeinsame Zeit führt über die schönen Pariser Brücken und durch psychologische und skurrile Gespräche.  

@@ -1,8 +1,10 @@
 ---
-title: "Rent-A-Rapper"
+title: Rent-A-Rapper
+date: 2007-04-06 13:04:13
 category: Veranstaltungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 [Gestern im Sunny Red](http://www.misantropolis.de/2007/03/konzertwoche) war es für mich leider durchwachsen. Da die amerikanischen Hauptacts **Ancient Mith**, **Otem Rellik** und **Demune** an der französischen Grenze auseinander genommen wurden und dadurch verspätet waren, habe ich meinen Auftritt relativ spät vor wenigen Leuten absolviert, denen ich hier noch einmal für die Unterstützung danken will.  

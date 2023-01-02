@@ -1,8 +1,11 @@
 ---
-title: "Anatol Anderswo: \"War.Ist.Wird\" 7\" draußen"
+title: 'Anatol Anderswo: \"War.Ist.Wird\" 7\" draußen'
+date: 2008-09-22 21:05:01
 category: Veröffentlichungen
-tags: ['leave.music']
-image: 
+tags:
+- leave.music
+image: ''
+
 ---
 
 ![](http://www.leavemusic.de/live/leavemusic/content/artikelbilder/206 "Anatol Anderswo - War.Ist.Wird 7")  

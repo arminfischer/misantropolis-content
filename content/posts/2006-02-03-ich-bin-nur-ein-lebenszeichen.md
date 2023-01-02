@@ -1,8 +1,10 @@
 ---
-title: "Ich bin nur ein Lebenszeichen"
+title: Ich bin nur ein Lebenszeichen
+date: 2006-02-03 13:47:17
 category: Downloads
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Gestern Abend habe ich etwas Zeit gehabt und halb trainingshalber einen Remix von "Wahlparty" aufgenommen. Der Beat hieß einmal "Harfen der Ehe", obwohl ich das Harfensample wieder rausgeworfen habe. Deshalb handelt es sich beim neuesten [Track](/downloads) dieser Seite um den gleichnamigen Remix des Liedes über das vergangene deutsche Wahldilemma.  

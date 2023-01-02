@@ -1,8 +1,10 @@
 ---
-title: "Wem auch noch langweilig ist"
+title: Wem auch noch langweilig ist
+date: 2006-10-24 10:26:48
 category: Surfen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Zum Glück ist mir seit einigen Monaten das Gegenteil von langweilig. Wem es anders geht, lädt entweder Videos hoch oder schaut sie an. Was aber nicht heißt, dass Nichtgelangweilte z.B. in der Mittagspause nicht freshe Clips anschauen dürfen.  

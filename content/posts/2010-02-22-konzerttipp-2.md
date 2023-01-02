@@ -1,8 +1,10 @@
 ---
-title: "Konzerttipp"
+title: Konzerttipp
+date: 2010-02-22 13:21:40
 category: Veranstaltungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Am kommenden Mittwoch spielt **Bleubird** endlich [wieder einmal in München](http://www.kultmuenchen.de/konzerte/hiphop-rap-indie-punk/event/BLEUBIRD%20%5BRap%20|%20USA%5D_4590.html).  

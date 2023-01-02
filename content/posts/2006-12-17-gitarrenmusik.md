@@ -1,8 +1,10 @@
 ---
-title: "Gitarrenmusik"
+title: Gitarrenmusik
+date: 2006-12-17 18:40:24
 category: Tipps
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Ein ehemaliger Mitstudent von mir war gerade da, weil wir zusammen an einem meiner vielen [Geheimprojekte](http://www.misantropolis.de/2006/05/operation-van-gogh/) gearbeitet haben.  

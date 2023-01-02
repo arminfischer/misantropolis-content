@@ -1,8 +1,10 @@
 ---
-title: "Alternative Musik ist keine Alternative zur Musik"
+title: Alternative Musik ist keine Alternative zur Musik
+date: 2007-01-06 17:17:43
 category: Veranstaltungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Danke an alle, die [gestern](http://www.misantropolis.de/2007/01/gleich-zwei-dinge-auf-einmal) im Sunny Red erschienen sind und eine so gute Stimmung verbreitet haben. Danke auch an **Kiesi**, der trotz Krankheit eine so gute Organisation vollbracht hat.  

@@ -1,8 +1,10 @@
 ---
-title: "DEAD05: Download-Version"
+title: 'DEAD05: Download-Version'
+date: 2008-09-14 13:19:57
 category: Downloads
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 [![](http://www.deadmagazine.de/dead05/dead05_banner_px300.jpg)](http://www.deadmagazine.com/dead05/dead05.htm)  

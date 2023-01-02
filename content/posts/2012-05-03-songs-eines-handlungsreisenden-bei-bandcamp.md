@@ -1,8 +1,10 @@
 ---
-title: "Songs eines Handlungsreisenden bei Bandcamp!"
+title: Songs eines Handlungsreisenden bei Bandcamp!
+date: 2012-05-03 19:26:20
 category: Veröffentlichungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Nach knappen sechs Jahren habe ich auch meine EP ["Songs eines Handlungsreisenden"](http://www.misantropolis.de/musik/songs-eines-handlungsreisenden) auf Bandcamp zum Download gestellt.  

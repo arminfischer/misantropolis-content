@@ -1,8 +1,10 @@
 ---
-title: "Letzte Tage"
+title: Letzte Tage
+date: 2008-08-24 20:33:28
 category: Verschiedenes
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Nach knapp sechs Jahren in meiner Münchner Studentenwohnung sind nun meine letzten Tage darin gekommen. Morgen und übermorgen werde ich sukzessive meinen Hausrat umziehen und auch meine Musikgerätschaften an einem neuen Standort aufbauen.  

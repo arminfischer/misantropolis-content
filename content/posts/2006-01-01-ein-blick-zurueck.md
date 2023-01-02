@@ -1,8 +1,10 @@
 ---
-title: "Ein Blick zurück"
+title: Ein Blick zurück
+date: 2006-01-01 23:49:53
 category: Verschiedenes
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 An dieser Stelle möchte ich einmal auf das Jahr 2005 zurückblicken, daß musikalisch gar nicht schlecht für mich gelaufen ist.  

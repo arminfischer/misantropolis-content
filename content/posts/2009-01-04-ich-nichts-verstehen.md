@@ -1,8 +1,10 @@
 ---
-title: "Ich nichts verstehen"
+title: Ich nichts verstehen
+date: 2009-01-04 23:14:03
 category: Surfen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Als halbgebildeter Volltrottel kann ich nicht einmal eine zweite lebende Sprache sprechen und damit auch kein Französisch. Dabei entgeht mir neben vielen Dingen auch [dieses neue Interview mit DJ Scientist auf Hip Hop Core](http://www.hiphopcore.net/interviews/125-dj-scientist.html). [Die Google-Übersetzung](http://translate.google.de/translate?hl=de&sl=fr&tl=de&u=http://www.hiphopcore.net/interviews/125-dj-scientist.html) hilft nicht viel, außer man will ein wenig lachen.  

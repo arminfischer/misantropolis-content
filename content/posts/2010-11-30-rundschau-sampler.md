@@ -1,8 +1,10 @@
 ---
-title: "Rundschau-Sampler"
+title: Rundschau-Sampler
+date: 2010-11-30 22:14:22
 category: Veröffentlichungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Seit heute ist der ["Rundschau-Sampler"](http://spokenview-shop.com/shop/article_SV2010-07/Der-Rundschau-Sampler.html?shop_param=cid%3D3%26aid%3DSV2010-07%26) von *Spoken View* erhältlich. Unter den vielen dort vertretenen Underground-Künstlern sind auch meine Freunde **88:Komaflash** sowie **Audio88&Sir Serch**. Deren Song "Lego Ego" habe ich vor Jahren produziert, und endlich hat er seinen Weg auf eine Veröffentlichung gefunden.  

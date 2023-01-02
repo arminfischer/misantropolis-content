@@ -1,8 +1,12 @@
 ---
-title: "Leseliste: Dokumentation zum Artwork"
+title: 'Leseliste: Dokumentation zum Artwork'
+date: 2008-09-26 13:00:19
 category: Veröffentlichungen
-tags: ['leave.music', 'leseliste']
+tags:
+- leave.music
+- leseliste
 image: https://www.misantropolis.de/images/posts/leseliste_artwork_doku.jpg
+
 ---
 
 [Wie versprochen](http://www.misantropolis.de/2008/09/offizielle-vorankundigung-leseliste-am-30092008/) folgen nun weitere Details zu meiner neuen LP **"Leseliste"**: Diesmal gibt es was für die Augen, nämlich die Entstehung des Artworks, das **Leo Rothmoser** mit großem Aufwand liebevoll konzipiert und umgesetzt hat. Im Foto kann man die zusammenhängenden Cover der Single-Auskopplung ["Effi Briest"](http://www.misantropolis.de/musik/effi-briest/) sehen, die so aneinandergehängt das Albumcover ergeben.  

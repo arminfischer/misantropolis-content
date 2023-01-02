@@ -1,8 +1,10 @@
 ---
-title: "Neuer Remix für THMS"
+title: Neuer Remix für THMS
+date: 2012-05-04 21:19:00
 category: Veröffentlichungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Für den Schwedenrapper **THMS** habe ich einmal wieder einen Remix angefertigt, der auf seinem kommenden Remix-Album zu hören sein wird. Der Track "Försvinner" ("Verschwinden") ist auch der erste, der der Öffentlichkeit vorab über Bandcamp zugänglich ist, was mich sehr freut. Dieses Mal verstehen auch die Nichtschweden etwas mehr, denn **Brzowski** rappt mit, und **Tina Vitale** steuert Adlibs und Gesang bei.  

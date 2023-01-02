@@ -1,8 +1,10 @@
 ---
-title: "Bombay the smooth way"
+title: Bombay the smooth way
+date: 2012-08-04 12:40:12
 category: Reise
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Schon wieder bin ich in Indien, genauer gesagt in Mumbai, aber dieses Mal nur kurz als Tourist. Vornehmlich werde ich meine Kollegen treffen und ihnen erklären, was ich mir für deren Entwicklungen so vorgestellt habe. Der Vorteil ist, dass man sich nicht als reiner Tourist fühlt und in Hotels nächtigen kann, die man sich sonst eher nicht leisten will.  

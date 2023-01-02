@@ -1,8 +1,10 @@
 ---
-title: "DAS FEST: Bonus Material #5"
+title: 'DAS FEST: Bonus Material #5'
+date: 2011-07-01 20:00:15
 category: Veröffentlichungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Den heutigen Song unserer Bonusmaterials hat **Soda** fabriziert. Er hat "Kardinaltugenden" neu aufgelegt und dabei auch ein Klavier die tragenden Melodie beisteuern lassen, allerdings komplett anders als unser Original. Wir sind begeistert, aber hört selbst:  

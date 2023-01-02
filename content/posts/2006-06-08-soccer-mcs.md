@@ -1,8 +1,10 @@
 ---
-title: "Soccer MC's"
+title: Soccer MC's
+date: 2006-06-08 09:49:48
 category: Surfen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 A propos [Fußball](http://www.misantropolis.de/2006/06/fussballspiele). Als inoffizieller [MZEE-Filter](http://www.mzee.com) habe ich die Ankündigung zu machen, daß es zur baldigen WM [Rapkommentare](http://www.mzee.com/newscenter/show.php?artikel=100022903) vom [Blumentopf](http://www.blumentopf.de) geben wird.

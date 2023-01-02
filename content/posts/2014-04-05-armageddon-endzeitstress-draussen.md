@@ -1,8 +1,11 @@
 ---
-title: "Armageddon Endzeitstress draußen"
+title: Armageddon Endzeitstress draußen
+date: 2014-04-05 13:52:29
 category: Veröffentlichungen
-tags: ['armageddon endzeitstress']
-image: 
+tags:
+- armageddon endzeitstress
+image: ''
+
 ---
 
 Seit bereits einer Woche ist das Ergebnis unseres postrap-Projekts ["Armageddon Endzeitstress"](http://postrap.de/releases/armageddon-endzeitstress/) offiziell erschienen und erhältlich. Die Platte ist wirklich gut geworden. Und keine Angst: Wenn Dein Plattenspieler gerade kaputt oder in der Reinigung ist, kannst Du die EP auch herunterladen. Mit etwas Glück kannst Du auch noch ein [T-Shirt dazu ergattern](http://postrap.de/produkt/armageddon-endzeitstress-12-ep-und-shirt/).  

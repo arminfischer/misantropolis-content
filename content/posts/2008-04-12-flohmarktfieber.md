@@ -1,8 +1,10 @@
 ---
-title: "Flohmarktfieber"
+title: Flohmarktfieber
+date: 2008-04-12 12:57:37
 category: Veranstaltungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Eben komme ich vom Flohmarkt auf der Theresienwiese, dem ich nach Jahren des ständigen Verpassens und Vergessens endlich einmal einen Besuch abstatten konnte. So gut es ging habe ich mich nach Platten umgesehen, aber die meisten Plattenhändler sind professionelle, und da kann ich auch in den Laden gehen.  

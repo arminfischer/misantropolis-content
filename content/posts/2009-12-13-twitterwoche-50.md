@@ -1,8 +1,10 @@
 ---
-title: "Twitterwoche 50"
+title: Twitterwoche 50
+date: 2009-12-13 16:28:59
 category: Twitterwoche
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 * Ein [Vorweihnachtsgeschenk](http://www.strangefamousrecords.com/clip-of-the-week/buck-65-boob/) von Strange Famous Records
@@ -10,5 +12,3 @@ image:
 * Was machen die [Stiebers?](http://www.rappers.in/Stieber_Twins-322_was-macht-eigentlich.html)
 * Was bringt das [neue Jahr für Rap](http://www.unkut.com/2009/12/rap-karaoke-is-the-future/)?
 * Der Ponyhof bei [Mixery Raw Deluxe](http://mixeryrawdeluxe.tv/index.php/News/Index/id/5842/deepLinkId/5849)
-
-  

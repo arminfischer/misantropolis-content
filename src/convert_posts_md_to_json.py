@@ -28,8 +28,6 @@ for markdown_file in sorted(Path(markdown_directory_location).glob("*.md"), reve
 
     # Get date from filename
     identifier = markdown_file.stem.split('-')
-    date = datetime.strptime(
-        "-".join(identifier[0:3]), "%Y-%m-%d") + timedelta(hours=11)
     
     # Get slug from filename
     slug = "-".join(identifier[3:])
@@ -38,13 +36,13 @@ for markdown_file in sorted(Path(markdown_directory_location).glob("*.md"), reve
     with open(markdown_file, 'r', encoding='utf-8') as md_file:
         markdown_file_content = md_file.read()
     parsed_content = re.match("(?sm)^---(.*?)---(.+)", markdown_file_content)
-    yaml_content = yaml.safe_load(io.StringIO(parsed_content.group(1)))
+    yaml_content = yaml.safe_load(parsed_content.group(1))
 
     # Append JSON object
     json_data.append({
         'title': yaml_content['title'],
-        'permalink': datetime.strftime(date, "/%Y/%m/") + slug,
-        'date_gmt': datetime.strftime(date, "%Y-%m-%dT%H:%M:%SZ"),
+        'permalink': datetime.strftime(yaml_content['date'], "/%Y/%m/") + slug,
+        'date_gmt': datetime.strftime(yaml_content['date'], "%Y-%m-%dT%H:%M:%SZ"),
         'category': yaml_content['category'],
         'tags': yaml_content['tags'],
         'content': markdown.markdown(parsed_content.group(2)),

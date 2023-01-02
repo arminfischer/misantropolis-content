@@ -1,8 +1,10 @@
 ---
-title: "Das ist mein Label: postrap vorgestellt bei M94.5"
+title: 'Das ist mein Label: postrap vorgestellt bei M94.5'
+date: 2012-05-05 16:50:04
 category: Radio
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Letztes Jahr hat **Matthias Dietrich** die Musikrichtung und das Label **postrap** in seiner Sendung auf M94.5 vorgestellt. Und nun gibt es die Aufzeichnung auch auf Soundcloud.  

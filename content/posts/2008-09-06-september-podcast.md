@@ -1,8 +1,10 @@
 ---
-title: "September-Podcast"
+title: September-Podcast
+date: 2008-09-06 21:35:43
 category: Downloads
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Auf [Rhythm Incursions](http://www.rhythm-incursions.com/) gibt es einen sehr guten Podcast, der nicht nur deshalb gut ist, weil er den **Free The Robots** Track "Times Like This" von der neuen [Equinox Records Compilation](http://www.hhv.de/item_129051.html) enthält:  

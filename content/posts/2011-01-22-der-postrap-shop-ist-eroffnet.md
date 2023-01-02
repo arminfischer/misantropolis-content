@@ -1,8 +1,10 @@
 ---
-title: "Der postrap-Shop ist eröffnet!"
+title: Der postrap-Shop ist eröffnet!
+date: 2011-01-22 14:37:35
 category: Veröffentlichungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Nach längeren Recherchen, Artikelbeschreibungen und Konfigurationen haben wir nun für unser postrap-Labelkollektiv einen [Shop](http://www.postrap.de/shop) aufgebaut, in dem man neben den Kernveröffentlichungen von postrap auch viele andere Tonträger kaufen kann - unter anderem auch von mir:  

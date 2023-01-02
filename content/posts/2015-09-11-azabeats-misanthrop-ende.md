@@ -1,8 +1,10 @@
 ---
-title: "azabeats & Misanthrop: Ende"
+title: 'azabeats & Misanthrop: Ende'
+date: 2015-09-11 19:53:12
 category: Veröffentlichungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Heute beginnt die Promophase für die neue EP **"Gedankensplatter"**, die ich mit **azabeats** gemacht habe, und die nebenbei bemerkt nur ein kleiner Vorgeschmack auf das herrliche Album ist. Da das also somit der Anfang ist, haben wir als erstes heute den Track "Ende" hochgeladen:  

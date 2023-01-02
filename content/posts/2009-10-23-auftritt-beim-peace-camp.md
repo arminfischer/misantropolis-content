@@ -1,8 +1,10 @@
 ---
-title: "Auftritt beim Peace Camp"
+title: Auftritt beim Peace Camp
+date: 2009-10-23 20:30:55
 category: Veranstaltungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 [![Peace Camp 30.10.2009](http://hotlink.myspacecdn.com/images02/56/fca814c669bc44e7b394a32b2d2034a4/m.jpg)](http://viewmorepics.myspace.com/index.cfm?fuseaction=viewImage&friendID=89310923&albumID=212132&imageID=55508703)  

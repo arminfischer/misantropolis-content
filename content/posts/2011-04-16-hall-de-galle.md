@@ -1,8 +1,11 @@
 ---
-title: "Hall de Galle"
+title: Hall de Galle
+date: 2011-04-16 09:27:50
 category: Reise
-tags: ['Sri Lanka']
-image: 
+tags:
+- Sri Lanka
+image: ''
+
 ---
 
 Dass Sri Lanka das liebste südostasiatische Reiseland der Deutschen oder wahrscheinlich auch vieler anderer ist, sieht man gleich am Flughafen. Dort wurde ich als wahrscheinlich einziger Passagier meines Fluges nicht namentlich mit einem Schild abgeholt. Was ich nicht weiter schlimm fand, denn es fährt ja auch ein Bus in einer Stunde direkt nach Colombo, wo ich bei Sonnenaufgang dann in einen weiteren Bus nach Galle (sprich "Gohl") gestiegen bin. Sofort hat das das Asiengefühl eingestellt.  

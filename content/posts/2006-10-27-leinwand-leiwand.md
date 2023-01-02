@@ -1,8 +1,10 @@
 ---
-title: "Leinwand leiwand"
+title: Leinwand leiwand
+date: 2006-10-27 06:55:13
 category: Surfen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Wer noch mit dem Gedanken spielt, sich eine [Leinwand](http://www.misantropolis.de/2006/10/stolzsei/) zu besorgen, kann sich Hörbeispiele dazu bei [Audiac Records](http://www.myspace.com/audiacrecords) anhören. Mittlerweile gibt es dort drei der fünf Lieder im Myspace-Player.  

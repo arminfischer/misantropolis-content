@@ -1,8 +1,10 @@
 ---
-title: "Back by popular demand"
+title: Back by popular demand
+date: 2008-07-02 11:26:29
 category: Reise
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Die Reise ist vorbei, und nach ein paar anstrengend Stunden in Bussen und Flugzeugen bin ich wieder im Land und versuche, an meinem letzten Urlaubstag Administratives und Kreatives gleichermaßen abzuarbeiten und aufzuholen.  

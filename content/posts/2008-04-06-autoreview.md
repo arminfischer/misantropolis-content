@@ -1,8 +1,10 @@
 ---
-title: "Autoreview"
+title: Autoreview
+date: 2008-04-06 15:44:18
 category: Veranstaltungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Meinen vorletzten Auftritt kann ich sehr neutral bewerten, da er nicht stattgefunden hat. Am letzten Donnerstag kam kein zahlender Gast [ins Sunny Red](http://www.misantropolis.de/2008/04/das-ist-kein-scherz), was vor allem für die Hauptacts des Abends, **Epic** und **Ancient Mith**, sehr ungut war.  

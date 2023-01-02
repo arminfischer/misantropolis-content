@@ -1,8 +1,12 @@
 ---
-title: "Ende des Regens?"
+title: Ende des Regens?
+date: 2013-06-03 22:20:55
 category: Reise
-tags: ['Flores', 'Indonesien']
-image: 
+tags:
+- Flores
+- Indonesien
+image: ''
+
 ---
 
 Nachdem wir die spektakulären, aber auch vernebelten Seen auf dem Kelimutu besichtigt haben, von denen jeder eine andere Farbe hat, haben wir uns gestern auf den Rückweg nach Bali gemacht.  

@@ -1,8 +1,10 @@
 ---
-title: "Brayaz: Permanent Morphine 1 + 2"
+title: 'Brayaz: Permanent Morphine 1 + 2'
+date: 2010-09-14 12:18:31
 category: Downloads
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 ![](http://www.brayaz.de/wp/wp-content/uploads/2010/09/brayaz_permanent_morphine.jpg "Brayaz - Permanent Morphine 1 + 2")  

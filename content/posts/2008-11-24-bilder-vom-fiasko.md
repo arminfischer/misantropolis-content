@@ -1,8 +1,10 @@
 ---
-title: "Bilder vom Fiasko"
+title: Bilder vom Fiasko
+date: 2008-11-24 21:47:29
 category: Veranstaltungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Auf der eben zu Ende gegangenen ersten Etappe unserer [**"leave.music Fiasko Tour"**](http://www.misantropolis.de/2008/11/leavemusic-fiasko-tour-flyer-update/) war ich sehr fotografierfaul, aber zum Glück hat **Audio "Massiv" 88** viele schöne Momente für die Ewigkeit festgehalten:  

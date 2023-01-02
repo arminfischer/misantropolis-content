@@ -1,8 +1,10 @@
 ---
-title: "Computerzeitalter"
+title: Computerzeitalter
+date: 2006-09-13 10:21:50
 category: Verschiedenes
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Man ist vollkommen im Computerzeitalter angekommen wenn man:  

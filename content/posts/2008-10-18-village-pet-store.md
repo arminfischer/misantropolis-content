@@ -1,8 +1,10 @@
 ---
-title: "Village Pet Store"
+title: Village Pet Store
+date: 2008-10-18 15:05:47
 category: Surfen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 **Banksy** ist jetzt in New York und macht dort das Village unsicher. Er hat dort einen [Laden eröffnet](http://entertainment.excite.de/nachrichten/2080/Straszenkunstler-Banksy-eroffnet-kurioses-Zoogeschaft-in-New-York) und stellt dort viele Tiere aus.  

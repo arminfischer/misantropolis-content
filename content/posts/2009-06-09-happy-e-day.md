@@ -1,8 +1,10 @@
 ---
-title: "Happy E-Day"
+title: Happy E-Day
+date: 2009-06-09 06:22:54
 category: Veröffentlichungen
-tags: 
+tags: []
 image: https://www.misantropolis.de/images/posts/misanthrop_-_effi_briest_cover.jpg
+
 ---
 
 Heute [vor genau einem Jahr](http://www.misantropolis.de/2008/06/effi-briest-ist-da/) ist meine Single **"Effi Briest"** erschienen, und ich war und bin immer noch stolz darauf. Auch wenn der Blick in mein Plattenlager meinen Mut immer gerne sinken lässt, freue ich mich, dass ich mit Hilfe von *leave.music* die Veröffentlichung gewagt habe.  

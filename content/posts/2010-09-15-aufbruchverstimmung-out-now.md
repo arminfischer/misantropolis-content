@@ -1,8 +1,11 @@
 ---
-title: "Aufbruchverstimmung Out Now!"
+title: Aufbruchverstimmung Out Now!
+date: 2010-09-15 20:27:48
 category: Veröffentlichungen
-tags: ['postrap']
-image: 
+tags:
+- postrap
+image: ''
+
 ---
 
 [![](http://www.postrap.de/wp-content/uploads/2010/09/Blank_-_Aufbruchverstimmung1-200x200.jpg "Blank - Aufbruchverstimmung")](http://www.postrap.de/releases/aufbruchverstimmung/)  

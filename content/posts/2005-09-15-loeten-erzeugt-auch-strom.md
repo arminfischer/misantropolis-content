@@ -1,8 +1,10 @@
 ---
-title: "Löten erzeugt auch Strom"
+title: Löten erzeugt auch Strom
+date: 2005-09-15 22:05:04
 category: Veranstaltungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Gerade komme ich aus dem [zkmax](http://www.zkmax.de/), das sich in der Unterführung unter der Kreuzung zwischen Maximiliansstraße und Thomas-Wimmer-Ring befindet. Dort hat ein einfallsreicher Freak Sound erzeugt indem er seinen Puls gemessen und abgenommen, Drähte in einer Glibberlösung gelötet und dazu monotone Beats laufen lassen hat. Und danach hat der **Simon Kummer** von [nfo](http://www.nfo-collective.com/) zu einem Elektroprojekt fast zwei Stunden gedrummt, was sehr cool war.

@@ -1,8 +1,10 @@
 ---
-title: "Doodle wird besser"
+title: Doodle wird besser
+date: 2008-09-16 08:40:55
 category: Surfen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Bei den verschiedensten Gelegenheiten, z.B. bei Terminabsprachen in der Label-Arbeit mit [leave.music](http://www.leavemusic.de), hat uns [Doodle](http://www.misantropolis.de/2008/01/kraut-doodle/) sehr geholfen. Und jetzt wird die Anwendung aus Zürich [noch besser](http://lifehacker.com/5049902/doodle-updates-with-power-features-facebook-integration).  

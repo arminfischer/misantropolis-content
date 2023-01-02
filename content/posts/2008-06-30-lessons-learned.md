@@ -1,8 +1,10 @@
 ---
-title: "Lessons Learned"
+title: Lessons Learned
+date: 2008-06-30 14:39:35
 category: Reise
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Nach meiner Indonesienreise kann ich eine kurze temporäre Bilanz ziehen und zwei Fehler feststellen, die ich nicht mehr machen sollte:

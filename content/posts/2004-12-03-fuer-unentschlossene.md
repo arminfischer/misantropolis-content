@@ -1,8 +1,10 @@
 ---
-title: "Für Unentschlossene"
+title: Für Unentschlossene
+date: 2004-12-03 09:19:24
 category: Veranstaltungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Weil ich schon mal Bescheid weiß, was am Wochenende abgeht, muß ich meine Tipps gleich loswerden.  

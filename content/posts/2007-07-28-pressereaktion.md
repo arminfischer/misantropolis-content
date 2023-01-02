@@ -1,8 +1,10 @@
 ---
-title: "Pressereaktion"
+title: Pressereaktion
+date: 2007-07-28 17:24:57
 category: Veranstaltungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Eine erste Pressemitteilung zu unserer [Schönen neuen Welttournee](http://www.the-groundzero.com/tag/snwt) gibt es bereits in der [Süddeutschen Zeitung](http://www.sueddeutsche.de). In dem Artikel wird unsere Tourstation im [Theatron](http://www.theatron.de) am 11. August erwähnt. Namentlich werde leider nur ich genannt.  

@@ -1,8 +1,10 @@
 ---
-title: "Filmmusik - So heißt die neue"
+title: Filmmusik - So heißt die neue
+date: 2013-09-19 20:22:48
 category: Veröffentlichungen
-tags: 
+tags: []
 image: https://www.misantropolis.de/images/posts/misanthrop_filmmusik_250px.jpg
+
 ---
 
 Allmählich wird es ernst. Mein neues Album "Filmmusik" steht vor der Tür. Rein instrumental, fette Beats, keine Reime. Zuviel möchte ich noch nicht verraten, aber zumindest schon einmal die Trackliste:  

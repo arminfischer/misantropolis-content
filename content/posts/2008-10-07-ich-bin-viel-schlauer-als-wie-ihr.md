@@ -1,8 +1,11 @@
 ---
-title: "Ich bin viel schlauer als wie Ihr"
+title: Ich bin viel schlauer als wie Ihr
+date: 2008-10-07 10:41:47
 category: Surfen
-tags: ['interview']
-image: 
+tags:
+- interview
+image: ''
+
 ---
 
 [![](http://jetztimg.sueddeutsche.de/upl/images/user/ph/philipp-mattheis/630126.jpg "Omega Takeshi und Misanthrop (von links)")](http://jetzt.sueddeutsche.de/texte/anzeigen/450019)  

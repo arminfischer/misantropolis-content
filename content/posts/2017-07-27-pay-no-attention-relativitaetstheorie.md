@@ -1,8 +1,10 @@
 ---
-title: "Pay No Attention - Relativitätstheorie"
+title: Pay No Attention - Relativitätstheorie
+date: 2017-07-27 20:23:46
 category: Videos
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Ich war mal wieder ein paar Tage in Indien, genauer gesagt in Mumbai, noch genauer gesagt im Stadtteil Borivali. Der Besuch dieses Mal war mit Events aller Art vollgepackt, aber ein paar Stunden konnte ich am Ende erübrigen, in denen ich ein paar Bilder das ein Do it yourself-Video zu "Relativtätstheorie" eingefangen habe. Das Video ist wahrscheinlich nicht eines der spektakulärsten (und schärfsten), aber es trägt hoffentlich ein bisschen zur Verbreitung des Songs bei. Es ist wohl einer meiner Lieblingsbeats von **aza**.  

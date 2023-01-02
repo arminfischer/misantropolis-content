@@ -1,8 +1,10 @@
 ---
-title: "Die sieben Weltwunder"
+title: Die sieben Weltwunder
+date: 2008-02-15 21:37:06
 category: Downloads
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 [Die sieben Weltwunder (Snippet)](http://www.misantropolis.de/wp-content/uploads/2008/05/misanthrop_-_7ww_snippet.mp3)

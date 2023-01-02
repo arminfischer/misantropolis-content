@@ -1,8 +1,10 @@
 ---
-title: "postrap-Tour Nummer 2"
+title: postrap-Tour Nummer 2
+date: 2011-08-19 20:26:20
 category: Veranstaltungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Es ist wieder soweit: Am 9. September starten wir unsere zweite postrap-Tour, die wir wie gewohnt auf mehrere Wochenenden aufgeteilt haben. Die ersten beiden stehen bereits fest, einen weiteren Teil wird es dann hoffentlich im November geben:  

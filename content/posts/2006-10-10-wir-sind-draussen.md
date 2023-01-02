@@ -1,8 +1,10 @@
 ---
-title: "Wir sind draußen"
+title: Wir sind draußen
+date: 2006-10-10 11:13:38
 category: Tipps
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Wie man auf meiner [Startseite](http://www.misantropolis.de/) sehen kann, ist die [Leinwand](http://www.misantropolis.de/2006/09/fertig-gemalt/) von [Aqua Luminus III.](http://www.88komaflash.de) und mir jetzt offiziell draußen.  

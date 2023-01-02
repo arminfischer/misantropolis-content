@@ -1,8 +1,10 @@
 ---
-title: "Der grundgescheute Antiquarius"
+title: Der grundgescheute Antiquarius
+date: 2008-07-04 06:35:03
 category: Lesen
-tags: 
+tags: []
 image: https://www.misantropolis.de/images/posts/antiquarius.jpg
+
 ---
 
 Auf meiner Indonesienreise hatte ich das große Vergnügen, die in dem Buch "Der grundgescheute Antiquarius" gesammelten Texte von [Carl Georg von Maassen](http://de.wikipedia.org/wiki/Carl_Georg_von_Maassen) zu lesen. Der Autor war ein Büchernarr und -sammler mit einer besonderen Vorliebe für [E.T.A. Hoffmann](http://de.wikipedia.org/wiki/E._T._A._Hoffmann) und dessen literarischen Zeitgenossen.  

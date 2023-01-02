@@ -1,8 +1,10 @@
 ---
-title: "DAS FEST: Inoffizielle Vorankündigung, Trackliste und Leak"
+title: 'DAS FEST: Inoffizielle Vorankündigung, Trackliste und Leak'
+date: 2010-06-26 13:30:01
 category: Veröffentlichungen
-tags: 
+tags: []
 image: https://www.misantropolis.de/images/posts/das_fest.jpg
+
 ---
 
 Voller Euphorie darüber, dass im Veröffentlichungsendspurt für unser gemeinsames Projektdebüt ["DAS FEST"](http://www.misantropolis.de/2010/06/das-fest-siebdruck-unterricht/) so viel passiert, was wir im Lauf der nächsten Wochen ankündigen dürfen, machen wir hiermit einen inoffiziellen nächsten Schritt und datieren die Veröffentlichung auf sehr bald.  

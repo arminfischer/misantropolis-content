@@ -1,8 +1,10 @@
 ---
-title: "In concert"
+title: In concert
+date: 2006-01-29 14:19:52
 category: Veranstaltungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Gestern habt mich **Slug** von **Atmosphere** nach dem etwas prolligen Feierwerks-Konzert vor zwei Jahren versöhnt, indem er im Muffatcafe eine von viel Dynamik und Melodik geprägte Show mit Livebandunterstützung gebracht hat. Neue Sachen sowie alte Klassiker haben durch die Instrumentierung auf jeden Fall gewonnen.  

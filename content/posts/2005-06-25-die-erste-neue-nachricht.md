@@ -1,8 +1,10 @@
 ---
-title: "Die erste neue Nachricht"
+title: Die erste neue Nachricht
+date: 2005-06-25 15:00:00
 category: Verschiedenes
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Diese Nachricht wurde mit meinem neuen Redaktionssystem namens **AUCTOR** verfasst, das ich zur Vereinfachung in den letzten Tagen und Wochen geschrieben habe.   

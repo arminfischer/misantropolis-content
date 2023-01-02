@@ -1,8 +1,10 @@
 ---
-title: "Das kommt davon"
+title: Das kommt davon
+date: 2006-05-16 15:00:08
 category: Verschiedenes
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Manche Entscheidungen rächen sich. Manchmal ist es nicht so schlimm, aber meine Entscheidung, in der 9. Klasse mehr Mathe, Physik und Chemie anstatt Französisch zu wählen, ärgert mich ab und zu ein kleines bißchen.  

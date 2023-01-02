@@ -1,8 +1,12 @@
 ---
-title: "2econd Class Citizen Megamix von DJ Phonatic"
+title: 2econd Class Citizen Megamix von DJ Phonatic
+date: 2009-09-02 10:02:28
 category: Veröffentlichungen
-tags: ['cocon', 'equinox records']
-image: 
+tags:
+- cocon
+- equinox records
+image: ''
+
 ---
 
 [![](http://www.e-q-x.net/eqx019mx/eqx019mx_banner_px430.jpg)](http://www.e-q-x.net/eqx019mx/eqx019mx_2econd_class_citizen_-_the_present_&_past_megamix.zip)  

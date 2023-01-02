@@ -1,8 +1,10 @@
 ---
-title: "Bilder von der Equinox Records Tour 2009"
+title: Bilder von der Equinox Records Tour 2009
+date: 2009-12-30 19:46:39
 category: Verschiedenes
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 ![](http://www.e-q-x.net/wp-content/uploads/2009/12/20091230_equinox_tour_2009.jpg "Equinox Records Tour 2009 - Ceschi")  

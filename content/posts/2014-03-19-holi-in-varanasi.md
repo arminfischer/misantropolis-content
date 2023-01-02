@@ -1,8 +1,11 @@
 ---
-title: "Holi in Varanasi"
+title: Holi in Varanasi
+date: 2014-03-19 12:06:44
 category: Reise
-tags: ['Indien']
-image: 
+tags:
+- Indien
+image: ''
+
 ---
 
 Der Nachtzug nach Varanasi hatte Verspaetung und ist erst gegen Mittag dort angekommen. Zu diesem Zeitpunkt war der Teil von Holi schon fast vorbei, bei dem Wasser und (teilweise nicht auswaschbare und mit viel Chemie durchsetzte) Farben in grossen Mengen auf jeden aufgebracht werden, der sich nicht schnell genug entfernen kann.  

@@ -1,8 +1,10 @@
 ---
-title: "Cocon: \"Haut & Knochen\" Download Album"
+title: 'Cocon: \"Haut & Knochen\" Download Album'
+date: 2009-05-27 20:47:41
 category: Downloads
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 **Cocon** macht Ernst und bietet über [leave.music](http://www.leavemusic.de) sein neuestes Werk "Haut & Knochen" zum [kostenlosen Download](http://www.leavemusic.de/live/leavemusic/specials/011_cocon_hk_downloadalbum/Cocon-HK.rar) an:  

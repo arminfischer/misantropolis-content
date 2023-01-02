@@ -1,8 +1,12 @@
 ---
-title: "Sandkornhügel"
+title: Sandkornhügel
+date: 2018-12-08 20:53:03
 category: Videos
-tags: ['aza und ich', 'pay no attention']
-image: 
+tags:
+- aza und ich
+- pay no attention
+image: ''
+
 ---
 
 Das zweite Video zu ["Aza und ich"](http://www.misantropolis.de/?musik=aza-und-ich) ist fertig. Wir haben es in kurzen vier Stunden in der Toskana gedreht, und der Danke gebührt **E. Ebner**, der nicht nur Kamera, Regie und Gimble geführt hat, sondern auch den Schnitt und die Effekte gemacht hat. Yeah.  

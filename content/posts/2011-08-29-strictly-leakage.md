@@ -1,8 +1,10 @@
 ---
-title: "Strictly Leakage"
+title: Strictly Leakage
+date: 2011-08-29 17:57:32
 category: Veröffentlichungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 "Der Witz ist nicht mehr lustig" von meinem gemeinsamen Album mit **Cocon** ist irgendwie an die Öffentlichkeit gelangt:  

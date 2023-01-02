@@ -1,8 +1,10 @@
 ---
-title: "Die coolste Seite des Jahres"
+title: Die coolste Seite des Jahres
+date: 2007-07-10 12:08:01
 category: Surfen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Auch auf die Gefahr hin, dass ich jetzt wie der letzte Nerd dastehe, möchte ich schnell auf die allerbeste Seite hinweisen, auf die ich seit Langem gestoßen bin: [yubnub.org](http://yubnub.org). Dort kann man per Kommandozeile verschiedene Internetdienst aufrufen und sich eine Menge Arbeit sparen.  

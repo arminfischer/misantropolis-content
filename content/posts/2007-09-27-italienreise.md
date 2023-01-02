@@ -1,8 +1,10 @@
 ---
-title: "Italienreise"
+title: Italienreise
+date: 2007-09-27 14:24:48
 category: Reise
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Da Internetzugang in Italien rar, teuer und nur durch Vorlage des Ausweises moeglich ist, schreibe ich wahrscheinlich nur heute kurz um von unserer kurzen Italienreise zu berichten.  

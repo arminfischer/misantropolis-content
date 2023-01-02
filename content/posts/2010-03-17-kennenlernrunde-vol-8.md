@@ -1,8 +1,10 @@
 ---
-title: "Kennenlernrunde Vol. 8"
+title: Kennenlernrunde Vol. 8
+date: 2010-03-17 16:50:18
 category: Veröffentlichungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Regelmäßig bringt **Herr Merkt**, der über Hip Hop spricht, einen kostenlosen Download-Sampler heraus, der **"Kennenlernrunde"** heißt. Nun hat er die achte Ausgabe veröffentlicht, zu der ich den Song "Kein Video auf Youtube" beigesteuert habe.  

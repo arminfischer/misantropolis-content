@@ -1,8 +1,10 @@
 ---
-title: "Heute: Mars Elektronica 2010"
+title: 'Heute: Mars Elektronica 2010'
+date: 2010-06-25 06:04:38
 category: Veranstaltungen
-tags: 
+tags: []
 image: https://www.misantropolis.de/images/posts/mars_elektronika_2010.jpg
+
 ---
 
 Heute Abend ab 21 Uhr findet wieder die alljährliche [**"Mars Elektronika"**](http://www.myspace.com/marselektronica) in der [Kranhalle](http://www.feierwerk.de/locations/kranhalle.html) statt, bei der ich gegen 23 Uhr auftreten werde. Dabei habe ich wieder die Klassiker mit Schwerpunkt Ponyhof, aber auch zwei neue Tracks, die ich vorher noch nie live gespielt habe.  

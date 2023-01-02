@@ -1,8 +1,10 @@
 ---
-title: "Feierabend"
+title: Feierabend
+date: 2005-11-25 19:38:11
 category: Reise
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 So, ich mache jetzt dann bald mal Feierabend, am Freitag um halb neun. Aber es ist cool, heute hab ich mal den Ansatz von [AJAX](http://de.wikipedia.org/wiki/Ajax_(Programmierung)) schätzen gelernt.  

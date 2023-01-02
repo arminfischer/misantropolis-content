@@ -1,8 +1,10 @@
 ---
-title: "Meinungsfreiheit"
+title: Meinungsfreiheit
+date: 2007-09-19 11:34:41
 category: Verschiedenes
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Das Internet ist so cool, hier darf jeder seine Meinung sagen. Sogar ich. Und ich finde, dass die [beiden Künstler](http://ap.google.com/article/ALeqM5ha6M8CK-wSSGAufa5wIoSfyma3pQ), die geschmackloser Weise am 11.9. einen Wettkampf um die meisten Plattenverkäufe begonnen haben, nicht rappen können.  

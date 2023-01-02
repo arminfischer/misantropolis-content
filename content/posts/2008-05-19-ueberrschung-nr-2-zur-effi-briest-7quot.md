@@ -1,8 +1,12 @@
 ---
-title: "Überrschung Nr. 2 zur Effi Briest 7\""
+title: Überrschung Nr. 2 zur Effi Briest 7\"
+date: 2008-05-19 13:55:08
 category: Verschiedenes
-tags: ['effi briest', 'interview']
-image: 
+tags:
+- effi briest
+- interview
+image: ''
+
 ---
 
 [![](http://www.leavemusic.de/live/leavemusic/specials/002_misanthropinderjuice/MisanthropJuiceThumbnail.jpg)](http://www.leavemusic.de/live/leavemusic/specials/002_misanthropinderjuice/MisanthropJuice.pdf)  

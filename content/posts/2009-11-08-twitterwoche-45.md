@@ -1,8 +1,10 @@
 ---
-title: "Twitterwoche 45"
+title: Twitterwoche 45
+date: 2009-11-08 23:31:37
 category: Twitterwoche
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 * [Christopher Walken](http://www.youtube.com/watch?v=xy5JwYOlgvY) liest "Pokerface".
@@ -10,5 +12,3 @@ image:
 * Die [Großraumdichten](http://www.donaukurier.de/nachrichten/kultur/Eichstaetter-Kuenstler-gewinnen-nationalen-Video-Wettbewerb;art598,2202952) haben gewonnen.
 * 300 Tage [Schweinegrippe](http://www.flickr.com/photos/michaelpaukner/4052849920/sizes/l/)
 * Eine neues Video von [Sleep](http://ugsmag.com/2009/11/sleep-orchestra-of-strangers-video/)
-
-  

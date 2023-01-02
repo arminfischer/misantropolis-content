@@ -1,8 +1,10 @@
 ---
-title: "Featurezeit"
+title: Featurezeit
+date: 2005-08-09 11:05:37
 category: Verschiedenes
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Heute morgen ist mir aufgefallen, daß ich zur Zeit an einigen Features arbeite, was ziemlichen Spaß macht, weil ich mich nicht nur auf mich selber verlassen muß. Gerade habe ich ja "August" mit [Aqua Luminus](http://www.88komaflash.com) gemacht, und wenn alles klappt, dann gibt es bald neue Tracks mit [Baser](http://www.mightymeks.de/fb2002/), [DJ Scientist](http://www.djscientist.com), [Trust](http://www.oliverlaric.com/), [SETI](http://www.seti-projekt.de) und [audio88](http://www.audio88.de).  

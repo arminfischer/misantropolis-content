@@ -1,8 +1,10 @@
 ---
-title: "Die Reise nach Bali"
+title: Die Reise nach Bali
+date: 2008-06-23 06:05:15
 category: Reise
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 [Wie versprochen](http://www.misantropolis.de/2008/06/brom/) liefere ich die Geschichte meiner vorgestrigen Weiterfahrt vom Vulkan Bromo nach **Bali**. Ich habe mich also umentschlossen und umgebucht, um mir die berüchtigte Touristenhochburg anzusehen. Nach dem morgentlichen Aufstieg zum Krater ging es mit dem Minibus los. Ganz im asiatischen Stil, d.h. wir mussten uns immer beeilen und wurden angetrieben, unser Gepäck so schnell als möglich ein- und umzuladen, bis wir vor einer heruntergekommenen Raststätte bzw. einem Reisebüro angehalten und drei Stunden auf den nächsten Bus gewartet haben. Dieser kam mit zwei Stunden Verspätung und hat auch erstmal in aller Ruhe getankt und seltsame Styroporkisten geladen.  

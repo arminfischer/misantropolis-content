@@ -1,8 +1,10 @@
 ---
-title: "Aus Solidarität"
+title: Aus Solidarität
+date: 2008-03-31 20:34:39
 category: Veranstaltungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Am kommenden Freitag spiele ich mit [Audio88](http://www.audio88.de) und anderen in den Scharni-Katakomben. Ich freue mich schon sehr, auch wenn mir ein wenig vor den mehr als sechs Stunden Autofahrt graust.  

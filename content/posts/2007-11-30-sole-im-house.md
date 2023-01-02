@@ -1,8 +1,10 @@
 ---
-title: "Sole im House"
+title: Sole im House
+date: 2007-11-30 09:35:35
 category: Veranstaltungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Es war schön gestern im [Orange House](http://feierwerk.de/locations/orangehouse.html) gewesen zu sein und wieder gute Musik gehört zu haben. Zur Eröffnung sind [88:Komaflash](http://www.88komaflash.de) aufgetreten, deren Set ich gut kenne und denen ich definitiv eine stetige Weiterentwicklung bei der Darbietung desselben bescheinigen kann. Ich habe dabei gefilmt und somit ein wenig meine Armmuskeln trainiert.  

@@ -1,8 +1,10 @@
 ---
-title: "Fehlende Kontrolle"
+title: Fehlende Kontrolle
+date: 2006-06-20 08:36:48
 category: Surfen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Laut [spiegel-online](http://www.spiegel.de/netzwelt/politik/0,1518,druck-422397,00.html) gibt es bei [MySpace](http://www.myspace.com) Probleme bei der (nicht vorhandenen) Altersverifikation. Aber keine Angst, ich bin schon 18. Glaubt mir.  

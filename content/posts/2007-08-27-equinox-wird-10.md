@@ -1,8 +1,10 @@
 ---
-title: "Equinox wird 10"
+title: Equinox wird 10
+date: 2007-08-27 06:48:01
 category: Tipps
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Hiermit gratuliere ich [Equinox Records](http://www.e-q-x.net) herzlich zum [10. Release](http://www.the-groundzero.com/2007/08/26/dj-sept-a-promise-never-given-ep/) auf Vinyl!  

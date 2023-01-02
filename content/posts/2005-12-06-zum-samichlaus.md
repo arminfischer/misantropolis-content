@@ -1,8 +1,10 @@
 ---
-title: "Zum Samichlaus"
+title: Zum Samichlaus
+date: 2005-12-06 09:20:13
 category: Downloads
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 In der Schweiz heißt der [Nikolaus](http://www.sanktmichael.de/heilige/nikolaus.htm) [Samichlaus](http://www.samichlaus.ch/), und zu dem schenke ich Euch [Winter](/downloads), den zweiten Instrumentaltrack zum [Jahresring](http://www.misantropolis.de/musik/jahresring).  

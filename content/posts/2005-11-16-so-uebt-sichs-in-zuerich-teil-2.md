@@ -1,8 +1,10 @@
 ---
-title: "So übt sich's in Zürich (Teil 2)"
+title: So übt sich's in Zürich (Teil 2)
+date: 2005-11-16 12:12:46
 category: Downloads
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Gestern Abend habe ich auf Second-Take eine [Scratchübung](/downloads) aufgenommen, die nicht ganz perfekt, dafür aber sehr jazzig geworden ist.  

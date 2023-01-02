@@ -1,8 +1,10 @@
 ---
-title: "Strandfahrt"
+title: Strandfahrt
+date: 2008-06-16 11:45:53
 category: Reise
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Wenn ich in Asien bin, leihe ich mir gerne ein Fahrrad aus, und heute bin ich die Kueste von **Pangandaran** abgefahren. Und wie immer gab es ein grosses "Hello, Mister!", und ich versuche dem mit nettem Gruss und huldvoller Geste harmonisch zu begegnen. So bin ich ca. 40 Kilometer durch's Land gefahren und war in einem Fischerdorf namens **Batu Hiu**, das auch schon mal mehr Touristen gesehen hat. Irgendetwas in mir hat sich dagegen gestraeubt, zum Green Canyon zu fahren, der angeblich die Hauptattraktion der Gegend sein soll.  

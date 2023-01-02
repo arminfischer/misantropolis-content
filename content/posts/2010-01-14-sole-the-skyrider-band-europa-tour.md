@@ -1,8 +1,10 @@
 ---
-title: "Sole & the Skyrider Band Europa Tour"
+title: Sole & the Skyrider Band Europa Tour
+date: 2010-01-14 19:00:12
 category: Veranstaltungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Die phänomenalen [**Sole & the Skyrider Band**](http://www.soleone.org/) gehen wieder einmal auf Europa Tour. Und dieses Mal habe ich die Ehre am **5.2.** im Münchner [Orange House](http://www.facebook.com/event.php?eid=229319099220) das Konzert zu eröffnen.   

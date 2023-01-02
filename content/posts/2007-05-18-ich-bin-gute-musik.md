@@ -1,8 +1,10 @@
 ---
-title: "Ich bin gute Musik"
+title: Ich bin gute Musik
+date: 2007-05-18 06:17:01
 category: Tipps
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 [Playpad Circus](http://www.myspace.com/playpadcircus) hat schönerweise das [Tangram Radio Blog](http://www.tangramradioblog.de.be/) initiiert, auf dem er jeden zweiten Sonntag eine Sendung mit guter Musik ausstrahlt.  

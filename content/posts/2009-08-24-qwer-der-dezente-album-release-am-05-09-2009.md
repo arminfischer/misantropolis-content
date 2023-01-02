@@ -1,8 +1,10 @@
 ---
-title: "Qwer & Der Dezente Album Release am 05.09.2009"
+title: Qwer & Der Dezente Album Release am 05.09.2009
+date: 2009-08-24 18:16:08
 category: Veröffentlichungen
-tags: 
+tags: []
 image: https://www.misantropolis.de/images/posts/jukuz_20090905.jpg
+
 ---
 
 Das neue Album von **Qwer** und dem **Dezenten** heißt [bekanntermaßen](http://www.misantropolis.de/2009/07/mc-schmelz-und-dj-polkappe/) ["MC Schmelz und DJ Polkappe"](http://www.leavemusic.de/live/leavemusic/index.php?content=12&artikel_id=70) und wird am **05.09.2009** in der Darmstädter [Oetinger Villa](http://www.oetingervilla.de/) vorgestellt werden.  

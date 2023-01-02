@@ -1,8 +1,10 @@
 ---
-title: "Danksagung"
+title: Danksagung
+date: 2007-07-02 11:11:49
 category: Veranstaltungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Mein Auftritt am [vorgestrigen Samstag](http://www.misantropolis.de/2007/06/voll-auf-die-zwoelf) in der [Glockenbachwerkstatt](http://www.glockenbachwerkstatt.de) war bis auf die üblichen Textfehler ziemlich gut. Fand ich. Zumindest war die Stimmung perfekt, und es waren viele interessierte Bekannte und Unbekannte da.  

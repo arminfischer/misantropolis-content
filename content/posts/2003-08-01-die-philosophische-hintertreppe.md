@@ -1,8 +1,10 @@
 ---
-title: "Die philosophische Hintertreppe"
+title: Die philosophische Hintertreppe
+date: 2003-08-01 20:37:01
 category: Lesen
-tags: 
+tags: []
 image: https://www.misantropolis.de/images/posts/hintertreppe.jpg
+
 ---
 
 [![](http://www.misantropolis.de/wp-content/uploads/2008/04/hintertreppe.jpg "hintertreppe")](http://www.misantropolis.de/wp-content/uploads/2008/04/hintertreppe.jpg)Gerade lese ich dieses eher für philosophische Laien geschriebene Buch von Wilhelm Weischedel zum dritten Mal und ärgere mich, daß ich seit dem letzten Mal so viel von der hier angebotenen Fülle an Information vergessen habe.

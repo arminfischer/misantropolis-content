@@ -1,8 +1,11 @@
 ---
-title: "Liebe, Leben, Tod und Musik"
+title: Liebe, Leben, Tod und Musik
+date: 2014-08-31 16:38:03
 category: Veröffentlichungen
-tags: ['Aphorismen']
-image: 
+tags:
+- Aphorismen
+image: ''
+
 ---
 
 Mein Lied "Liebe, Leben, Tod und Musik" ist ein gutes Stück älter als mein erstes Soloalbum ["Aphorismen"](http://audiacrecords.bandcamp.com/album/aphorismen), auf dem es als erstes in Form des freshen (Re)mixes von **DJ Backdraft** erschienen ist (die Originalversion von ca. 2001 wurde später auf dem Album mit dem ähnlichen Name "Aphrodismen" veröffentlicht).  

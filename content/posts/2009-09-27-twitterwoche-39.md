@@ -1,8 +1,10 @@
 ---
-title: "Twitterwoche 39"
+title: Twitterwoche 39
+date: 2009-09-27 16:05:07
 category: Twitterwoche
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 In dieser Twitterwoche gab es sehr viel Videomaterial:
@@ -11,5 +13,3 @@ In dieser Twitterwoche gab es sehr viel Videomaterial:
 * [Z-Trip und Chuck D](http://www.youtube.com/watch?v=cX50Z4f3mbI)
 * [Augmented Reality](http://generationtapedeck.blogspot.com/2009/09/sprachlos.html) mal anders
 * Der Kosmos [audiovisuell erklärt](http://www.youtube.com/watch?v=zSgiXGELjbc)
-
-  

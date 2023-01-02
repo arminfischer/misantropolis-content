@@ -1,8 +1,10 @@
 ---
-title: "Reise abgeschlossen"
+title: Reise abgeschlossen
+date: 2005-06-28 20:50:52
 category: Downloads
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Mit großem Stolz kann ich verkünden, daß die [Reiseapotheke](/downloads), also das musikalische Tagebuch meiner Asienreise, in einer ersten Version fertig aufgenommen ist und zur Evaluation vorliegt. Ein paar Interessierte können gerne eine Demo-CD-R bekommen.  

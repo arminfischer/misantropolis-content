@@ -1,8 +1,10 @@
 ---
-title: "WP Download Codes"
+title: WP Download Codes
+date: 2009-08-16 16:24:22
 category: Veröffentlichungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 In diesen Tagen habe ich mein erstes Plugin für [Wordpress](http://wordpress.org) geschrieben, also für die Blogsoftware, auf der auch diese Seite läuft. Das wäre an sich nicht unbedingt an dieser Stelle erwähnenswert, aber es hängt auch mit meinen zukünftigen Veröffentlichungsaktivitäten zusammen.  

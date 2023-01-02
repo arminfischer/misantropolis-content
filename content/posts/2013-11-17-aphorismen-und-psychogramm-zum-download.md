@@ -1,8 +1,10 @@
 ---
-title: "Aphorismen und Psychogramm zum Download"
+title: Aphorismen und Psychogramm zum Download
+date: 2013-11-17 18:13:23
 category: Veröffentlichungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Über [Audiac Records](http://audiacrecords.bandcamp.com/) (dem Unterlabel von Equinox) sind gerade ziemlich nachträglich zwei alte Alben von mir erschienen.  

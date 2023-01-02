@@ -1,8 +1,10 @@
 ---
-title: "Kinderzimmer"
+title: Kinderzimmer
+date: 2005-08-25 07:51:08
 category: Veranstaltungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Gerade habe ich erfahren, daß am **2. September** [Kinderzimmer Productions](http://www.kinderzimmer-productions.de) im [Backstage](http://www.backstage089.de/) sind. Wer sie letztes mal im [Harry Klein](http://www.harrykleinclub.de/) verpaßt hat, der kann sie **free** und **easy** erleben, was sich wirklich lohnt.

@@ -1,8 +1,10 @@
 ---
-title: "Fundgrube"
+title: Fundgrube
+date: 2007-05-09 17:42:00
 category: Surfen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Bei meinen Abschlussarbeiten zur gestern erwähnten [MySpace-Promoaktion](http://www.misantropolis.de/2007/05/gichtfinger) sind mir nicht nur beinahe die Finger zerbrochen sondern auch einige Fundstücke untergekommen:  

@@ -1,8 +1,11 @@
 ---
-title: "Offizielle Vorankündigung: \"Leseliste\" am 30.09.2008"
+title: 'Offizielle Vorankündigung: \"Leseliste\" am 30.09.2008'
+date: 2008-09-22 21:17:34
 category: Veröffentlichungen
-tags: ['leseliste']
+tags:
+- leseliste
 image: https://www.misantropolis.de/images/posts/misanthrop_-_leseliste_banner_stat_250px.jpg
+
 ---
 
 Nun ist es endlich offiziell: Mein neues Album **"Leseliste"** kommt am **30.09.2008** auf [leave.music](http://www.leavemusic.de) raus! Und zwar als LP auf Vinyl und als Download. Details und pressetaugliche Worte dazu findet Ihr auf der [entsprechenden Labelseite](http://www.leavemusic.de/live/leavemusic/index.php?content=12&artikel_id=51). In den nächsten Tagen wird es dort und an dieser Stelle noch mehr zum Hören und Sehen geben, zunächst möchte ich auf das erste [Hörbeispiel bei Myspace](http://www.myspace.com/misantropolis) verweisen: "Das Ende einer Affäre".  

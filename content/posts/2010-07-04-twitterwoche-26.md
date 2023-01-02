@@ -1,8 +1,10 @@
 ---
-title: "Twitterwoche 26"
+title: Twitterwoche 26
+date: 2010-07-04 16:21:33
 category: Twitterwoche
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 * [R.I.P. Rammellzee](http://www.youtube.com/watch?v=CFFMzSRhmP8&feature=youtu.be)
@@ -10,5 +12,3 @@ image:
 * Julia Dales [macht box](http://www.youtube.com/watch?v=7U66tYpzQTE).
 * Ich habe mich schon immer gefragt, was [Hip Hop](http://generationtapedeck.blogspot.com/2010/07/really-real-hiphop.html) eigentlich ist.
 * Myka9 hat ein [neues Projekt](http://ugsmag.com/2010/07/magic-heart-genies-myka-9-j-the-sarge-dj-drez-good-look-video/).
-
-  

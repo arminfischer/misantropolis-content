@@ -1,10 +1,11 @@
 ---
-title: "Show Business"
+title: Show Business
+date: 2007-08-24 08:31:17
 category: Surfen
-tags: 
-image: 
----
+tags: []
+image: ''
 
+---
 
 > There is no business but show business.
 

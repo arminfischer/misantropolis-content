@@ -1,8 +1,10 @@
 ---
-title: "Fatalist Out Now!"
+title: Fatalist Out Now!
+date: 2011-06-28 00:00:31
 category: Veröffentlichungen
-tags: 
+tags: []
 image: https://www.misantropolis.de/images/releases/misanthrop_thms_-_fatalist.jpg
+
 ---
 
 Heute ist endlich die neue EP "Fatalist" erschienen, die ich gemeinsam mit **THMS** aus Stockholm gemacht habe. Über folgende Links kann sie digital oder als CD bezogen werden:  

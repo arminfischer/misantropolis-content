@@ -1,8 +1,10 @@
 ---
-title: "Wie das Meer"
+title: Wie das Meer
+date: 2018-12-15 20:20:42
 category: Videos
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Nun ist auch das dritte Video zu ["Aza und ich"](http://www.misantropolis.de/?musik=aza-und-ich) draußen. Azabeats hat die Aufnahmen auf seiner kleinen Hochzeitsreise gemacht, später den passenden Beat dafür gemacht, und ich habe noch später auf den Beat und die Bilder den Text geschrieben.  

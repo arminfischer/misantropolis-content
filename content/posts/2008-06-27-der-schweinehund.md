@@ -1,8 +1,10 @@
 ---
-title: "Der Schweinehund"
+title: Der Schweinehund
+date: 2008-06-27 07:49:38
 category: Reise
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 An meinem letzten ganzen Tag auf Bali habe ich den Schweinhund gesehen. Ich bin ungefähr 1,5 Stunden bergauf geradelt, und da hoppelte er über die Straße: Eine Mischung aus Husky und Schwein (das auf indonesisch Babi heißt) und sehr bezaubernd anzusehen.  

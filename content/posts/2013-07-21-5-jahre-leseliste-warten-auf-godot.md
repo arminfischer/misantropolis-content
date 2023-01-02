@@ -1,8 +1,11 @@
 ---
-title: "5 Jahre Leseliste: Warten auf Godot"
+title: '5 Jahre Leseliste: Warten auf Godot'
+date: 2013-07-21 15:26:00
 category: Veröffentlichungen
-tags: ['leseliste']
-image: 
+tags:
+- leseliste
+image: ''
+
 ---
 
 Um **Samuel Becket** zu verstehen, bin ich wohl nicht schlau genug. "Murphy" haben ich irgendwann abbrechen müssen, und "Warten auf Godot" hat nur Fragezeichen aufgeworfen. Wahrscheinlich ist deshalb auch dessen musikalische Interpretation so abstrakt und seltsam geworden. **cocon** und ich haben dabei einen radikal neuen Ansatz gewählt: Im Vorfeld schrieb jeder diverse Zeilen über Warten, Sinnlosigkeit usw., die wir dann zufällig mit einem Excel-Makro durcheinandergewirbelt haben. Beim Vortrag haben wir uns dann an die zufällige Reihenfolge gehalten und gegenseitig abgewechselt.  

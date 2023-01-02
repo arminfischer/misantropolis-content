@@ -1,8 +1,10 @@
 ---
-title: "Nachtrag zu Goose Bumps 3.0"
+title: Nachtrag zu Goose Bumps 3.0
+date: 2009-07-08 14:50:37
 category: Veröffentlichungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Während [meiner Abwesenheit](http://www.misantropolis.de/tag/griechenland/) ist die Promomaschine für die [hier bereits erwähnte Compilation](http://www.misantropolis.de/2009/06/various-artists-goose-bumps-3-0/) **"Goose Bumps 3.0"** losgelaufen, und deshalb zeige ich hier noch einmal den Flyer, der die beeindruckend lange Liste der Mitwirkenden enthält:  

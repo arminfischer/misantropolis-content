@@ -1,8 +1,10 @@
 ---
-title: "VIDEO: Oberflächenkratzer"
+title: 'VIDEO: Oberflächenkratzer'
+date: 2012-03-23 18:08:58
 category: Veröffentlichungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Das Video zu "Oberflächenkratzer" von meinem neuen Album [**"Das Ungeheuer und sein Kritiker"**](http://misanthrop.bandcamp.com/album/das-ungeheuer-und-sein-kritiker) ist soeben live gegangen:  

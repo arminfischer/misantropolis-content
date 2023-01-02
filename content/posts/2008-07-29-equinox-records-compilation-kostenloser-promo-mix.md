@@ -1,8 +1,11 @@
 ---
-title: "Equinox Records Compilation: Kostenloser Promo Mix"
+title: 'Equinox Records Compilation: Kostenloser Promo Mix'
+date: 2008-07-29 10:11:48
 category: Downloads
-tags: ['equinox records']
+tags:
+- equinox records
 image: https://www.misantropolis.de/images/posts/eqx_promo_mix.jpg
+
 ---
 
 Niagara Pulse Mag über die neue **"One Year & A Day - A Sound Exposure Vol.2"** Compilation von [Equinox Records](http://www.equinoxrecords.com/):

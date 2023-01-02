@@ -1,8 +1,10 @@
 ---
-title: "Alternativeangebote"
+title: Alternativeangebote
+date: 2006-11-14 13:04:21
 category: Surfen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Sollte der [unten beschriebene](http://www.misantropolis.de/2006/11/bitte-nicht-mehr-auf-diese-seite-gehen) Worst Case eintreten und hier ~~die Nane~~nichts mehr gehen, dann schaut doch auf das Blog vom [DJ Phonatic](http://www.myspace.com/phoneeziac) bei [Myspace](http://www.myspace.com).  

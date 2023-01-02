@@ -1,8 +1,10 @@
 ---
-title: "Stimme gegen Armut"
+title: Stimme gegen Armut
+date: 2008-07-03 10:15:15
 category: Verschiedenes
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Nicht oft beteilige ich mich abseits von Propaganda für gute Musik an Massenaufrufen, aber es scheint mir diesmal sinnvoll zu sein. Auch wenn es bereit zu spät ist, seine [Stimme gegen Armut](http://www.deine-stimme-gegen-armut.de) für die heute stattfindende Kundgebung vor dem Bundeskanzleramt abzugeben, möchte ich auf die Aktion hinweisen, die sich für eine äußerst wichtige Sache einsetzt:  

@@ -1,8 +1,10 @@
 ---
-title: "Live and Direct"
+title: Live and Direct
+date: 2010-05-25 20:11:16
 category: Veranstaltungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Aus der Türkei gibt es nicht viel Wesentliches zu berichten, was mich bzw. die Musik betrifft. Ich habe ein paar ausstehende Texte endlich abschließen können, versucht, William Faulkner zu lesen und mich in der lykischen Macchia getummelt. Die Ruhe vor dem Sturm der kommenden Wochen hat gut getan, denn nun stehen die Endspurts für diverse Projekte an.  

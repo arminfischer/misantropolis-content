@@ -1,8 +1,10 @@
 ---
-title: "Wieder einmal schlaflos"
+title: Wieder einmal schlaflos
+date: 2007-04-13 11:34:17
 category: Reise
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Kurzfristig werde ich ab nächster Woche wieder einmal in Seattle arbeiten. Dieses Mal ein wenig länger, nämlich voraussichtlich ganze 17 Tage. Es wird sich für Euch aber fast nichts ändern, weil ich die meisten meiner Freunde und Bekannten hauptsächlich leider nur online treffe.  

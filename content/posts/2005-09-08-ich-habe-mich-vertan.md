@@ -1,8 +1,10 @@
 ---
-title: "Ich habe mich vertan"
+title: Ich habe mich vertan
+date: 2005-09-08 08:23:01
 category: Verschiedenes
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Die Ghetto-Doku-Soap "Unser Block" kam nicht gestern sondern leider schon am Dienstag. Aber dafür sind in der ARD **Tatwaffe** und **Fader Gladiator** mit **Wolfgang Gerhardt** zusammengetroffen. Ich war früher ein riesiger Fan von Tatwaffe bis sie die Firma gegründet und viele schlechte und flüchtige Songs gemacht haben.  

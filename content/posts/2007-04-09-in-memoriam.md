@@ -1,8 +1,10 @@
 ---
-title: "In Memoriam"
+title: In Memoriam
+date: 2007-04-09 05:53:41
 category: Veranstaltungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Nach fast durchweg erstklassigen Beiträgen haben sich die relativ eindeutigen Finalisten **Volker Brüning** und **Lars Ruppel** [gestern](http://www.misantropolis.de/2007/04/fuer-ueberspontane) ein wortwitz- und energiegeladenes Final geliefert. Dieser Slam hat besonders viel Spaß gemacht.  

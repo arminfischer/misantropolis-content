@@ -1,8 +1,10 @@
 ---
-title: "Erfolgsbilanz"
+title: Erfolgsbilanz
+date: 2007-09-23 00:31:06
 category: Veranstaltungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Für mich war unser [Tourwochenende](http://www.the-groundzero.com/tag/snwt) auch dieses Mal ein Erfolg. Soeben zurückgekommen schreibe ich nur kurz, dass sowohl in Würzburg als auch in Dorfen die Leute nett, das Essen gut und die Witze lustig waren.  

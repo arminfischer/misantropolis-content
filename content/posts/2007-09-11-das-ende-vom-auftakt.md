@@ -1,8 +1,10 @@
 ---
-title: "Das Ende vom Auftakt"
+title: Das Ende vom Auftakt
+date: 2007-09-11 10:37:54
 category: Veranstaltungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Am vergangenen Sonntag gab es den ersten [Poetry Slam](http://www.planet-slam.de) der Saison im Münchner **Substanz**, und die Ergebnisse kann man [hier](http://www.poetry.claudio.de/2007/09/10/saisonauftakt-im-substanz/) nachlesen.  

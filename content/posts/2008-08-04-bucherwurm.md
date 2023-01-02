@@ -1,8 +1,10 @@
 ---
-title: "Bücherwurm"
+title: Bücherwurm
+date: 2008-08-04 16:29:11
 category: Surfen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Die Wohltätigkeitsseite [firstbook.org](http://www.firstbook.org/) fragt Leser nach ihrem ersten Lieblingsbuch. Auch die Antworten von [Berühmtheiten](http://www2.firstbook.org/wbgyh/celebrity.php) sind dort zu finden.  

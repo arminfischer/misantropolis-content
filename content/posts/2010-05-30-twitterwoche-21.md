@@ -1,8 +1,10 @@
 ---
-title: "Twitterwoche 21"
+title: Twitterwoche 21
+date: 2010-05-30 14:39:57
 category: Twitterwoche
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 * [Jeder](http://www.informationisbeautiful.net/visualizations/because-every-country-is-the-best-at-something/) will der Beste sein.
@@ -10,5 +12,3 @@ image:
 * Der Facebook [Themesong](http://ugsmag.com/2010/05/apoc-im-so-important-facebook-theme-song-video/)
 * Neues von [Ceschi](http://www.youtube.com/watch?v=oaTgEtN7JoA)
 * [Vinylherstellung](http://www.cratekings.com/the-vinyl-factory-music-is-art/)
-
-  

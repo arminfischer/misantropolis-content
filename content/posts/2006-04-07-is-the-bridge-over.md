@@ -1,8 +1,10 @@
 ---
-title: "Is the bridge over?"
+title: Is the bridge over?
+date: 2006-04-07 15:31:56
 category: Surfen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Ich könnte weinen wenn Feinde zu Freunden werden. Wie im Kino:  

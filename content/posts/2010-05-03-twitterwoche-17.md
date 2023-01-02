@@ -1,8 +1,10 @@
 ---
-title: "Twitterwoche 17"
+title: Twitterwoche 17
+date: 2010-05-03 09:51:59
 category: Twitterwoche
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 * Ein Künstler, [seine Probleme](http://thecynicalmusician.com/2010/04/the-paradise-that-should-have-been-revisited/).

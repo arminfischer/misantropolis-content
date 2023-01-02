@@ -1,8 +1,10 @@
 ---
-title: "Ach wär ich doch"
+title: Ach wär ich doch
+date: 2006-10-16 20:45:16
 category: Verschiedenes
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Heute war ich in Düsseldorf. Leider hab ich nicht viel von der Stadt gesehen, weil das das Jetsetleben so mit sich bringt, aber dafür gibt es so viele Graffittis, dass man zwangsweise welche zu sehen bekommt.  

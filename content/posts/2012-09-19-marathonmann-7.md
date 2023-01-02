@@ -1,8 +1,10 @@
 ---
-title: "Marathonmann 7\""
+title: Marathonmann 7\"
+date: 2012-09-19 18:34:44
 category: Veröffentlichungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Am **30.09.** kommt was Neues und gleichzeitg Altes von meinem Nebenprojekt **DAS FEST**, das ich gemeinsam mit **Omega Takeshi** betreibe. Der Klassiker "Marathonmann" erscheint endlich auf 7", und auf der B-Seite befindet sich der zweite Teil, der von **babel fishh**, **James P Honey** und **James Reindeer** berappt wird.  

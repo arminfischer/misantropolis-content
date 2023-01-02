@@ -1,8 +1,10 @@
 ---
-title: "Backup Policy"
+title: Backup Policy
+date: 2008-08-10 18:57:20
 category: Verschiedenes
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Denjenigen von Euch, die viel mit Computern arbeiten, sage ich nichts Neues, wenn ich bemerke, dass ein regelmäßiges Backup essentiell ist. Ich versuche mich daran zu halten und hatte bisher nur ein paar kleine Herzstillstände, weil ich beispielsweise einmal die musikalische Arbeit einer Woche verloren hatte.  

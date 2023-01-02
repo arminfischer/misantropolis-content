@@ -1,8 +1,10 @@
 ---
-title: "postrap beim Zündfunk"
+title: postrap beim Zündfunk
+date: 2014-10-28 20:55:44
 category: Radio
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 **Manuel Kronenberg** vom Zündfunk hat sich die Zeit genommen und unser postrap-Kollektiv in einer Sendung beim Zündfunk vorgestellt. Ich glaube trotz einiger Versprecher und Hintergrundgeräusche beim Interview ist es recht gut geworden:  

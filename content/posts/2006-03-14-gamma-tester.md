@@ -1,8 +1,10 @@
 ---
-title: "Gamma Tester"
+title: Gamma Tester
+date: 2006-03-14 07:28:21
 category: Verschiedenes
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Den Wenigsten wird aufgefallen sein, daß sich die Struktur der Seite geändert hat. Denn die meisten Änderungen waren interner Art. Falls irgendetwas nicht wie gewohnt oder gewünscht funktionieren sollte, [meldet](/kontakt) Euch einfach.  

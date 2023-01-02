@@ -1,8 +1,10 @@
 ---
-title: "Spätzünder"
+title: Spätzünder
+date: 2006-04-20 19:24:34
 category: Verschiedenes
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Auch wenn es spät ist. Zu spät ist es nie. Heute habe ich mein erstes [Jackson 5](http://de.wikipedia.org/wiki/The_Jackson_Five) Album gekauft. Und zwar "Maybe Tomorrow", auf dem das allen Fans von Notorious B.I.G. bekannte "It's great to be here" enthalten ist.  

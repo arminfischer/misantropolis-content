@@ -1,8 +1,11 @@
 ---
-title: "MC Schmelz und DJ Polkappe"
+title: MC Schmelz und DJ Polkappe
+date: 2009-07-10 05:49:48
 category: Veröffentlichungen
-tags: ['leave.music']
-image: 
+tags:
+- leave.music
+image: ''
+
 ---
 
 [![](http://www.leavemusic.de/live/leavemusic/content/artikelbilder/364)](http://www.leavemusic.de/live/leavemusic/index.php?content=12&artikel_id=67&menu_left_kind=0)  

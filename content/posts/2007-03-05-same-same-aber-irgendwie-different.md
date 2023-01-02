@@ -1,8 +1,10 @@
 ---
-title: "Same Same - Aber irgendwie different"
+title: Same Same - Aber irgendwie different
+date: 2007-03-05 10:48:49
 category: Reise
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Wie ich bereits [vor Kurzem](http://www.misantropolis.de/2007/03/out-of-office) angekuendigt habe, befinde ich mich zurzeit auf meinem Jahresurlaub, der mich diesmal nach Kambodscha und Vietnam verschlagen soll. Ausgangs- und Endpunkt der Reise, wo wir heute Morgen (wann auch immer "Morgen" nach meiner umgekippten Zeitrechnung sein mag) angekommen sind.  

@@ -1,8 +1,10 @@
 ---
-title: "Schatten im Regen"
+title: Schatten im Regen
+date: 2005-08-15 07:52:01
 category: Veranstaltungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Der gestrige Auftritt im [Theatron](http://www.theatron.de/) von [Shadow Joda](http://www.shadowjoda.com/) lief meiner Empfindung nach sehr gut, vor allem da sie zum ersten Mal in dieser Aufstellung angetreten sind. Mein kurzes Intermezzo war auch sicherer und dynamischer als bei den Proben. Nur habe ich wegen fehlendem Monitorsound und kurzem Blackout meine Spontan-Scratches nicht hinbekommen.  

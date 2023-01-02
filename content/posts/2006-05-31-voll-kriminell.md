@@ -1,8 +1,10 @@
 ---
-title: "Voll kriminell"
+title: Voll kriminell
+date: 2006-05-31 22:41:48
 category: Veranstaltungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 ER hat seine Flugangst überwunden und Europa besucht. Heute war München sein Halt, und das Konzert von keinem geringeren als **KRS-ONE** war herzerwärmend und besser als erwartet. Der Teacher hat die Bühne mit seiner Energie und der Legende **Busy Bee** sowie einem jungen DJ und einem unspektakulären Backup-MC in Besitz genommen und kaum noch losgelassen. Seine vielen Klassiker hat er nur angespielt, und bei vielen konnte die ganze Halle den Text auswendig. Das hat mir und vielen anderen ein gutes Gefühl gegeben.  

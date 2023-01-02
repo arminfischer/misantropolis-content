@@ -1,8 +1,10 @@
 ---
-title: "20 Stories Later - A Remix Overdose"
+title: 20 Stories Later - A Remix Overdose
+date: 2012-12-24 12:06:51
 category: Veröffentlichungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 ![](http://f0.bcbits.com/z/40/75/4075961815-1.jpg)

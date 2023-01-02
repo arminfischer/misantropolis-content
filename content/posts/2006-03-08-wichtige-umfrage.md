@@ -1,8 +1,10 @@
 ---
-title: "Wichtige Umfrage"
+title: Wichtige Umfrage
+date: 2006-03-08 12:03:47
 category: Verschiedenes
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Letztes Wochenende habe ich mir mein [Equinox T-Shirt](http://www.the-groundzero.com/forum/viewtopic.php?id=99) abgeholt und bin dabei darauf aufmerksam gemacht worden, daß ich doch auch Hemden mit dem *Misanthrop*-Schriftzug machen könnte.  

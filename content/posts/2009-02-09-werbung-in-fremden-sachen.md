@@ -1,8 +1,10 @@
 ---
-title: "Werbung in fremden Sachen"
+title: Werbung in fremden Sachen
+date: 2009-02-09 19:15:17
 category: Veröffentlichungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Wir machen ein wenig Werbung:  

@@ -1,8 +1,10 @@
 ---
-title: "Leinwand für umsonst"
+title: Leinwand für umsonst
+date: 2012-07-18 20:09:03
 category: Downloads
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Nur für ganz kurze Zeit gibt es die EP, die ich 2006 gemeinsam mit **Aqua Luminus III.** gemacht habe, zum kostenlosen Download. Also greift zu: <http://misanthropaqualuminus3.bandcamp.com/>.  

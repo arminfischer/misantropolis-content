@@ -1,8 +1,10 @@
 ---
-title: "Das T in Italien"
+title: Das T in Italien
+date: 2007-09-30 21:03:05
 category: Reise
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Ganz früher war Italien wegen seiner Schönheit eine Reise wert, nicht so ganz früher war das Land wegen der niedrigen Preise einen Urlaub wert. Heutzutage gilt meines Erachtens wieder die erste Aussage, denn m.E. ist das meiste teurer als bei uns. Nichtsdestotrotz haben wir einen schönen Urlaub verlebt und bedauern, dass wir nach einer Woche schon wieder zurück mussten.  

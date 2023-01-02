@@ -1,8 +1,10 @@
 ---
-title: "Twitterwoche 33"
+title: Twitterwoche 33
+date: 2009-08-16 20:25:20
 category: Twitterwoche
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Die Höhepunkte dieser Woche auf [twitter](http://twitter.com/misanthrop):

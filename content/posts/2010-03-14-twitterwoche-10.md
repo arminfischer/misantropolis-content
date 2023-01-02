@@ -1,8 +1,10 @@
 ---
-title: "Twitterwoche 10"
+title: Twitterwoche 10
+date: 2010-03-14 21:28:08
 category: Twitterwoche
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 * [Bettgeflüster](http://www.antilabelblog.com/?p=2298) mit B. Dolan und Sage Francis

@@ -1,8 +1,10 @@
 ---
-title: "Die Welt zu Gast"
+title: Die Welt zu Gast
+date: 2006-11-11 12:36:49
 category: Veranstaltungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Heute Abend trete ich in der [Schrannenhalle](http://www.schrannenhalle.de/) auf und habe mal so eben die ganze Welt auf die Gästeliste gesetzt. Also komm auch Du!  

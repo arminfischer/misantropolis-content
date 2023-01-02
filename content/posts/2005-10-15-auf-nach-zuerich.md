@@ -1,8 +1,10 @@
 ---
-title: "Auf nach Zürich"
+title: Auf nach Zürich
+date: 2005-10-15 12:54:13
 category: Verschiedenes
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Schon nächstes Wochenende werde ich -- sofern ich so schnell eine Bleibe finde -- für drei Monate in Zürich sein, wo ich an der [Psychologischen Fakultät](http://www.psychologie.unizh.ch/vicoreg/) der dortigen Uni bei einem interessanten Projekt zunächst drei Monate lang mitarbeiten soll.  

@@ -1,8 +1,11 @@
 ---
-title: "Der Mann ohne Eigenschaften"
+title: Der Mann ohne Eigenschaften
+date: 2008-12-21 20:59:03
 category: Veröffentlichungen
-tags: ['leseliste']
-image: 
+tags:
+- leseliste
+image: ''
+
 ---
 
 Als vorgezogenes Weihnachtsgeschenk für alle coolen Kinder habe ich den "Mann ohne Eigenschaften" meines [aktuellen Albums](/musik/leseliste) auf [Myspace](http://www.myspace.com/misantropolis) geladen.  

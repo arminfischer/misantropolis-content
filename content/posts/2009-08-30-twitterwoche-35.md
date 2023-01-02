@@ -1,8 +1,10 @@
 ---
-title: "Twitterwoche 35"
+title: Twitterwoche 35
+date: 2009-08-30 19:34:08
 category: Twitterwoche
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 * Shopping bei [flight13.com](http://www.flight13.com/), wo es u.a. endlich die neue [Busdriver](http://www.flight13.com/details/86036/busdriver-jhelli-beam) gibt.

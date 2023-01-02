@@ -1,8 +1,10 @@
 ---
-title: "Misanthrop und Omega Takeshi sind DAS FEST"
+title: Misanthrop und Omega Takeshi sind DAS FEST
+date: 2010-07-10 13:08:02
 category: Veröffentlichungen
-tags: 
+tags: []
 image: https://www.misantropolis.de/images/releases/DAS_FEST_-_Cover_CD.jpg
+
 ---
 
 YEAH! Endlich!  
@@ -18,10 +20,7 @@ Es gibt das Album in zwei Versionen:
 oder
 **7inch Vinyl mit zwei Albumtracks, inklusive Download-Code für das komplette Album**
  
-DJ Phonatic hat einen Mix zusammengestellt:  
-     [DAS FEST - DJ Phonatic Album-Mix](http://soundcloud.com/misanthrop/djphonatic-a-tribe-called-fest) by [misanthrop](http://soundcloud.com/misanthrop)  
-Und vorab gibt es den Albumtrack "Abrissbirne" [hier](http://www.misantropolis.de/wp-content/uploads/2010/07/DAS_FEST_-_Abrissbirne.mp3) zum Download.
- 
+DJ Phonatic hat einen Mix zusammengestellt: [DAS FEST - DJ Phonatic Album-Mix](http://soundcloud.com/misanthrop/djphonatic-a-tribe-called-fest) by [misanthrop](http://soundcloud.com/misanthrop)  
 Wer das Album direkt bei uns vorbestellen will, meldet sich unter:
 [dasfest@misantropolis.de](mailto:dasfest@misantropolis.de)
 Wir schicken das Paket am 19. Juli ab.  

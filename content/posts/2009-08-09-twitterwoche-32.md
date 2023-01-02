@@ -1,8 +1,10 @@
 ---
-title: "Twitterwoche 32"
+title: Twitterwoche 32
+date: 2009-08-09 20:17:57
 category: Twitterwoche
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Wie [bereits angekündigt](http://www.misantropolis.de/2009/08/strategiewechsel/) gibt es heute die erste Zusammenfassung der aktuellen Twitterwoche, d.h. ich liste die Highlights meiner Einträge aus dieser Kalenderwoche 32 auf:

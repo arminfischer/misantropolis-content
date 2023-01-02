@@ -1,8 +1,10 @@
 ---
-title: "Twitterwoche 29"
+title: Twitterwoche 29
+date: 2010-07-24 13:47:00
 category: Twitterwoche
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 * [Lesson 100](http://www.misantropolis.de/2010/07/free-download-lesson-100-mix-von-brayaz/) mit und von Brayaz

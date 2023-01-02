@@ -1,8 +1,10 @@
 ---
-title: "Der Vogel mit dem Heiligenschein"
+title: Der Vogel mit dem Heiligenschein
+date: 2007-04-04 06:47:04
 category: Veranstaltungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Das gestrige Konzert von **El-P** war etwas seltsam, da sich El Producto hörbar im Stimmbruch befunden hat, aber es tat trotzdem gut die neuen Burner und alten Klassiker laut und in echt zu erleben. Er konnte einem schon Leid tun, und ihm war es auch sichtlich sehr unrecht, dass er streckenweise nur Flüstern und Gekrächze herausgebracht hat.  

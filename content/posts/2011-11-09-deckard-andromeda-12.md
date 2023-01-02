@@ -1,8 +1,10 @@
 ---
-title: "Deckard \"Andromeda\" 12\""
+title: Deckard \"Andromeda\" 12\"
+date: 2011-11-09 21:47:48
 category: Veröffentlichungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 [![](http://press.e-q-x.net/eqx032/images/eqx032dgtl_px200.jpg "Deckard - Andromeda")](http://www.e-q-x.net/releases/eqx032/)  

@@ -1,8 +1,10 @@
 ---
-title: "Twitterwoche 6"
+title: Twitterwoche 6
+date: 2010-02-16 16:30:07
 category: Twitterwoche
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 * Sage macht was [Neue](http://ugsmag.com/2010/02/life-new-album-by-sage-francis-out-may-11th/)s.
@@ -10,4 +12,3 @@ image:
 * Sole verlässt [Anticon](http://ugsmag.com/2010/02/sole-leaves-anticon-records/) (und macht was Neues).
 * Ich steh in der [Juice](http://twitter.com/JuiceMagazin/statuses/8960449424).
 * Happy [Valentine](http://twitpic.com/137pme).
-  

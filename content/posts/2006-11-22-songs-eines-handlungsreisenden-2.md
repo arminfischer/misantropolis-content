@@ -1,8 +1,10 @@
 ---
-title: "Songs eines Handlungsreisenden"
+title: Songs eines Handlungsreisenden
+date: 2006-11-22 20:30:32
 category: Tipps
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Die im August geborene Idee einer EP mit dem Namen [Songs eines Handlungsreisenden](http://www.misantropolis.de/2006/08/songs-eines-handlungsreisenden/) ist Wirklichkeit geworden!  
@@ -26,4 +28,3 @@ Und für die, die nicht klicken wollen:
 * Cuts, Beats (bis auf Remix) und Texte von [mir](http://www.misantropolis.de/)
   
 * Viel Pseudogesinge
-  

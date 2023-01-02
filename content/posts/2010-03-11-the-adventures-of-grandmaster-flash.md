@@ -1,8 +1,10 @@
 ---
-title: "The Adventures of Grandmaster Flash"
+title: The Adventures of Grandmaster Flash
+date: 2010-03-11 18:24:58
 category: Lesen
-tags: 
+tags: []
 image: https://www.misantropolis.de/images/posts/adventures.jpg
+
 ---
 
 Jeder kennt **Joseph Saddler** aka [**Grandmaster Flash**](http://en.wikipedia.org/wiki/Grandmaster_Flash), und die meisten sind auch zumindest grob mit der Geschichte von Hip-Hop vertraut. Beides gehört zusammen und wird in der (Auto-)biographie "The Adventures of Grandmaster Flash" ausführlich und für ersteren relativ schonungslos dargestellt.  

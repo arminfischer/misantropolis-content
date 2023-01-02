@@ -1,8 +1,11 @@
 ---
-title: "Gujarati Fast Food"
+title: Gujarati Fast Food
+date: 2012-08-22 01:05:03
 category: Reise
-tags: ['Indien']
-image: 
+tags:
+- Indien
+image: ''
+
 ---
 
 Auch wenn es in Indien meist eine  riesige Auswahl an Speisen sowie lokale und regionale Spezialitäten gibt, mache ich mir es oft leicht: Ich bestelle ein Thali, also eine Art Menü, da ist dann von allem was dabei, es geht schnell, und man kann nichts falsch machen.  

@@ -1,8 +1,12 @@
 ---
-title: "Filmmusik - Out Now!"
+title: Filmmusik - Out Now!
+date: 2013-10-20 11:23:07
 category: Veröffentlichungen
-tags: ['filmmusik', 'postrap']
-image: 
+tags:
+- filmmusik
+- postrap
+image: ''
+
 ---
 
 Heute ist es wieder soweit: Ein neues Album erblickt das Licht der Welt. Dieses Mal ist es was ganz Besonderes, da durchweg ich den Mund gehalten und ein reines Instrumental-Album zusammengestellt habe. Die Songs sind sehr unterschiedlich und spiegeln die vielen verschiedenen musikalischen Einflüsse wieder, denen ich mich in den letzten Jahre ausgesetzt habe.  

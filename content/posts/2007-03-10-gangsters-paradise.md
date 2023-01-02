@@ -1,8 +1,10 @@
 ---
-title: "Gangster's Paradise"
+title: Gangster's Paradise
+date: 2007-03-10 13:39:10
 category: Reise
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Nach einer wenig betruegerischen und gut asphaltierteren Fahrt von **Siem Reap** nach **Phnom Penh** haben wir die Hauptstadt von Kambodscha in eineinhalb Tagen abgeklappert.  

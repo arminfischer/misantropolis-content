@@ -1,8 +1,10 @@
 ---
-title: "Aufbruchstimmung"
+title: Aufbruchstimmung
+date: 2011-10-02 04:49:41
 category: Reise
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Einen Erholungstag haben wir hier in Boracay noch eingelegt, an dem manche von uns sich massieren lassen, eine Mango essen u.ä. Morgen geht es dann weiter, wahrscheinlich nach **Iolio**, von wo aus wir dann nach **Negros** übersetzen wollen.  

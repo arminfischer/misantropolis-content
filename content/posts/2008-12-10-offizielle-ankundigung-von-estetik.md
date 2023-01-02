@@ -1,8 +1,11 @@
 ---
-title: "Offizielle Ankündigung von \"Estetik\""
+title: Offizielle Ankündigung von \"Estetik\"
+date: 2008-12-10 22:16:58
 category: Veröffentlichungen
-tags: ['leave.music']
-image: 
+tags:
+- leave.music
+image: ''
+
 ---
 
 Hiermit reiche ich noch die offizielle Ankündigung des sehr bald erscheinenden Albums "Estetik" nach:  

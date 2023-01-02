@@ -1,8 +1,10 @@
 ---
-title: "Der Mensch"
+title: Der Mensch
+date: 2006-03-28 11:41:17
 category: Surfen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Wer mich irgendwann [live](http://www.misantropolis.de/live) gesehen hat, hat höchstwahrscheinlich schon ein paar Zeilen [Tucholsky](http://de.wikipedia.org/wiki/Tucholsky) mitbekommen, die ich in dem Song "Der Mensch" benutzt habe. Diesen wiederum habe ich zusammen mit **Baser** aufgenommen. Auf mein kommendes Album paßt er nicht, wehalb ich nicht weiß, ob er je das Licht der Hörerwelt erblicken wird.  

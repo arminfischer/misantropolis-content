@@ -1,8 +1,10 @@
 ---
-title: "Kurtis sehen und sterben"
+title: Kurtis sehen und sterben
+date: 2007-02-18 17:49:25
 category: Veranstaltungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Gestern hat in der Muffathalle der [LiveDEMO](http://www.live-demo.com/)TM Abend stattgefunden, über dessen Namensgebung und musikalische Ausrichtung man geteilter Meinung sein kann. Das Konzept ist jedenfalls, dass die für jeden Termin neu zusammengewürfelten nationalen und internationalen Künstler mit ein uns derselben Backup-Band auftreten, was interessant ist.  

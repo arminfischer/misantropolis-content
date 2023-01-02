@@ -1,8 +1,10 @@
 ---
-title: "Wirklichkeit"
+title: Wirklichkeit
+date: 2009-01-20 16:07:39
 category: Zitate
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Heute habe ich ein paar alte Zitate gefunden:

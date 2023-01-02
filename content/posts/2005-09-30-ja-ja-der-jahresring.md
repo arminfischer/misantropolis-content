@@ -1,8 +1,10 @@
 ---
-title: "Ja ja, der Jahresring"
+title: Ja ja, der Jahresring
+date: 2005-09-30 17:02:36
 category: Downloads
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Vor zwei Jahren habe mit "September" den [Jahresring](/downloads) begonnen, ein Album, das es bis jetzt nur stückweise im Netz gab. Zusätzlich zu den 12 Monatsliedern habe ich nebenher noch vier Instrumentale für die Jahreszeiten gemacht, die aber bis auf "Frühling", das in einer Remixversion auf dem Mix **III** von [DJ Scientist](http://www.djscientist.com/) aufgetaucht ist, noch nicht der breiten Öffentlichkeit zugänglich waren.  

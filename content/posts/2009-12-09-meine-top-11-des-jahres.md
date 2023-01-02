@@ -1,8 +1,10 @@
 ---
-title: "Meine Top 11 des Jahres"
+title: Meine Top 11 des Jahres
+date: 2009-12-09 19:54:04
 category: Veröffentlichungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Wie mein Freund [Audio88](http://blogs.myspace.com/index.cfm?fuseaction=blog.view&friendId=43494454&blogId=521482190) auf der Jahresrückblickswelle reitend, habe ich eine ungeordnete Liste meiner persönlich Top-Alben aus diesem Jahr zusammengestellt. Ich muss hierzu gleichfalls bemerken, dass dieses Jahr auch meiner Meinung nach ein sehr gutes war, was die Musik betrifft. Deshalb ist auch meine Liste nicht unbedingt vollständig und ungeordnet:  

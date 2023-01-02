@@ -1,8 +1,10 @@
 ---
-title: "Giesinger Bahnhof"
+title: Giesinger Bahnhof
+date: 2005-07-23 06:37:05
 category: Veranstaltungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Heute Abend bin ich zu Gast im [Giesinger Bahnhof](http://www.giesinger-bahnhof.de), und da viele nicht wissen, wie man dorthin kommt, gibt es eine kleine Wegbeschreibung:  

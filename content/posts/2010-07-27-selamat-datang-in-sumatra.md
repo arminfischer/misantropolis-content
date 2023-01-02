@@ -1,8 +1,11 @@
 ---
-title: "Selamat Datang in Sumatra"
+title: Selamat Datang in Sumatra
+date: 2010-07-27 14:24:29
 category: Reise
-tags: ['Sumatra']
-image: 
+tags:
+- Sumatra
+image: ''
+
 ---
 
 Seit ein paar Tagen darf ich wieder asiatische Luft schnuppern. Dieses Mal geht es durch Sumatra im Eiltempo, was ein Widerspruch in sich werden wird, aber mehr dazu in einem späteren Eintrag.  

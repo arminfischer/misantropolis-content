@@ -1,8 +1,11 @@
 ---
-title: "The Cleanest City"
+title: The Cleanest City
+date: 2012-08-18 14:45:38
 category: Reise
-tags: ['Indien']
+tags:
+- Indien
 image: https://www.misantropolis.de/images/posts/wpid-2012-08-18-18.31.17.jpg
+
 ---
 
 Es gibt hier in Indien wohl eine neuere Kampagne für die "Cleanest City of India". Wenn Neukölln nun eine Stadt in Indien wäre, läge sie auf Platz 1. Auch an jedem 2. Mai. Aber ein bisschen etwas tut sich doch, zumindest hier in Diu nimmt man den Wettbewerb hinreichend ernst.  

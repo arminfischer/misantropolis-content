@@ -1,8 +1,11 @@
 ---
-title: "NDSTWTRST"
+title: NDSTWTRST
+date: 2009-09-12 15:32:16
 category: Veröffentlichungen
-tags: ['ndstwtrst']
-image: 
+tags:
+- ndstwtrst
+image: ''
+
 ---
 
 Seit gestern ist die Homepage des Labels bzw. Kollektivs [I**n** **D**u**st** **W**e **Tr**u**st**](http://www.ndstwtrst.net/) online, bei dem unter anderem meine alten Bekannten **Cocon**, **Asup** und **Playpad Circus** vertreten sind.  

@@ -1,8 +1,10 @@
 ---
-title: "Out Of Office"
+title: Out Of Office
+date: 2007-09-23 17:45:37
 category: Verschiedenes
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Ab morgen werde ich für ein paar Tage im Urlaub sein und deshalb höchstwahrscheinlich in dieser Zeit nicht regelmäßig schreiben können.  

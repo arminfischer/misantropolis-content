@@ -1,8 +1,11 @@
 ---
-title: "Der einzige Tourist in Madhya Pradesh?"
+title: Der einzige Tourist in Madhya Pradesh?
+date: 2014-03-13 12:50:49
 category: Reise
-tags: ['Indien']
-image: 
+tags:
+- Indien
+image: ''
+
 ---
 
 Meine Gastfamilie schließlich in Richtung des Staates Madhya Pradesh verlassend, bin ich mit dem Nachtbus nach Indore und von dort frühmorgens nach Ujjain weitergefahren. Obwohl dies eine der heiligsten Stätten Indiens ist, ist der Ort eigentlich nichts für Touristen, die nicht zum Pilgern herkommen. Und es ist auch keiner hier außer mir. Aber für mich hat das trotzdem seinen Charme, und ich möchte mich bis Agra noch steigern.  

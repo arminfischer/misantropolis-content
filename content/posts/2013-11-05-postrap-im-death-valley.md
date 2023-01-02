@@ -1,8 +1,10 @@
 ---
-title: "postrap im Death Valley"
+title: postrap im Death Valley
+date: 2013-11-05 07:04:07
 category: Reise
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Mein postrap-Kumpel azabeats und ich waren heute in Death Valley. Mir nur einen Gallone Wasser, aber wir haben es überlebt.  

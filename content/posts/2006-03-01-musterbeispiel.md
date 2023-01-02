@@ -1,8 +1,10 @@
 ---
-title: "Musterbeispiel"
+title: Musterbeispiel
+date: 2006-03-01 14:11:47
 category: Verschiedenes
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Schaut Euch bitte [dieses](http://www.misantropolis.de/2006/02/mir-schlottern-die-knie#comments) vorbildliche Muster einer Kommentarkommunikation mit Avataren an. Und lest [hier](http://www.misantropolis.de/2006/02/featuring/) nach wie Ihr Euren eigenen anlegen könnt.  

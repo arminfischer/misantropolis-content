@@ -1,8 +1,10 @@
 ---
-title: "Zurück vom MARS"
+title: Zurück vom MARS
+date: 2006-05-14 10:39:39
 category: Veranstaltungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Der gestrige Eintrag auf dieser Homepage mußte leider entfallen, dafür habe ich einen erneuten Eintrag ins Gästebuch der Kranhalle/des [Feierwerks](http://www.feierwerk.de) vorgenommen, wo gestern die [MARS Elektronika](http://www.polymatrix.net) erfolgreich durchgeführt wurde. Hinsichtlich der Besucherzahlen und des Line-Ups hat sich der **Pit** selbst übertroffen, und es hat mich besonders gefreut, daß die Superbestensuperfreunde ([88:Komaflash](http://www.88komaflash.de), [Audio88](http://www.audio88.de), [Mnemotrauma](http://www.mnemotrauma.de/), [Playpad Circus](http://www.reagenzglas.net/), [SETI](http://www.seti-projekt.de) und [ich](http://www.misantropolis.de/)) in einer Halle auftreten konnten.  

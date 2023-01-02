@@ -1,8 +1,10 @@
 ---
-title: "Wir fahren auf der Autobahn"
+title: Wir fahren auf der Autobahn
+date: 2006-03-10 13:13:03
 category: Reise
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Gleich geht es wieder los, und ich fahre nach Hause. Hoffentlich schneit es kräftig. Ich möchte auf keinen Fall vor 24 Uhr zu Hause sein, damit das Wochenende richtig gut anfängt.  

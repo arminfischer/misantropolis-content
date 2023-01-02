@@ -1,8 +1,10 @@
 ---
-title: "Lunatic Dolphin auf der Counter Future EP"
+title: Lunatic Dolphin auf der Counter Future EP
+date: 2013-03-24 16:31:20
 category: Veröffentlichungen
-tags: 
+tags: []
 image: https://www.misantropolis.de/images/posts/eqx048_px500.jpg
+
 ---
 
 Am **26. April** werden auf [Equinox Records](http://www.e-q-x.net/releases/eqx047/) die ["Counter Future EPs"](http://www.e-q-x.net/releases/eqx047/) erscheinen - in Form von zwei 12inches und der digitalen Version. Und diese beiden Platten sind lediglich die Vorboten für die neue, gleichnamige Equinox Compilation!  

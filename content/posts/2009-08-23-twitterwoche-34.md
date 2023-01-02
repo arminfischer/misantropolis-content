@@ -1,8 +1,10 @@
 ---
-title: "Twitterwoche 34"
+title: Twitterwoche 34
+date: 2009-08-23 14:16:32
 category: Twitterwoche
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Wenigsten bei [twitter](http://twitter.com/Misanthrop) ist diese Woche was passiert:
@@ -11,5 +13,3 @@ Wenigsten bei [twitter](http://twitter.com/Misanthrop) ist diese Woche was passi
 * Das [Katzenklavier](http://en.wikipedia.org/wiki/Katzenklavier)
 * [Die Angst](http://www.trendopfer.de/wahrheit/2009/08/wenn-unternehmen-twittern/) vor dem Bekannten
 * [Good](http://www.youtube.com/watch?v=W4bDfIgN76E), dass die Arsonsists wieder was von sich hören lassen
-
-  

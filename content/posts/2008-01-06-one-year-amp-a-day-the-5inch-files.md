@@ -1,8 +1,10 @@
 ---
-title: "One Year & A Day  - The 5inch Files"
+title: One Year & A Day  - The 5inch Files
+date: 2008-01-06 16:50:59
 category: Downloads
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Das Veröffentlichungsjahr 2008 fängt vielversprechend an, denn auf der ersten 5" Compilation der Welt namens [One Year & A Day - The 5inch Files](http://e-q-x.net/eqx013/eqx013.htm) bin ich vertreten. Bei der auf [Equinox Records](http://www.e-q-x.net) erschienenen Compilation handelt es sich um eine Box mit fünf unterschiedlichen 5" Platten, die also noch kleiner sind als die üblichen 7" Singles. Auf jeder der Platten gibt es zwei Songs zu hören, die aufgrund der begrenzten Plattengröße nur max. 2:30 min lang sind.  

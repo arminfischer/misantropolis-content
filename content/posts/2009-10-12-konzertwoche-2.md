@@ -1,8 +1,12 @@
 ---
-title: "Konzertwoche"
+title: Konzertwoche
+date: 2009-10-12 08:52:38
 category: Veranstaltungen
-tags: ['equinox records', 'rap history']
-image: 
+tags:
+- equinox records
+- rap history
+image: ''
+
 ---
 
 In dieser Woche ist einiges los in München.  

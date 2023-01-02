@@ -1,8 +1,10 @@
 ---
-title: "Twitterwoche 14"
+title: Twitterwoche 14
+date: 2010-04-11 13:08:43
 category: Twitterwoche
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 * [Zöen](http://zoenmusic.bandcamp.com/album/eponyms-album) hat sein erstes Soloalbum veröffentlicht.

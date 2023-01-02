@@ -1,8 +1,13 @@
 ---
-title: "6 Years Later kommt Ende Juli!"
+title: 6 Years Later kommt Ende Juli!
+date: 2012-06-26 18:12:16
 category: Veröffentlichungen
-tags: ['6 Years Later', 'Aqua Luminus III.', 'equinox records']
-image: 
+tags:
+- 6 Years Later
+- Aqua Luminus III.
+- equinox records
+image: ''
+
 ---
 
 ![](http://press.e-q-x.net/eqx040/images/eqx040_px200.jpg "Misanthrop & Aqua Luminus III. - 6 Years Later")Heute freue ich mich unbändig, etwas ganz Besonderes ankündigen zu dürfen: Ende Juli kommt meine zweite gemeinsame EP mit **Aqua Luminus III. (88:Komaflash)** auf keinem geringeren Label als [**Equinox Records**](http://www.e-q-x.net/2012/06/new-ep-release-by-misanthrop-aqua-luminus-iii-out-soon/) heraus! Sechs Jahre nach unserer "Leinwand EP" heißt die 10inch "6 Years Later".  

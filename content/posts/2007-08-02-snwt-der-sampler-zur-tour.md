@@ -1,8 +1,10 @@
 ---
-title: "SNWT: Der Sampler zur Tour"
+title: 'SNWT: Der Sampler zur Tour'
+date: 2007-08-02 06:25:39
 category: Tipps
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Zur bald startenden [Schönen neuen Welttournee](http://www.schoeneneuewelt.eu) gibt es auch einen Sampler, der einige exklusive Tracks der beteiligten Künstler (88:Komaflash, Audio88, DJ Phonatic und Misanthrop) enthält.  

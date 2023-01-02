@@ -1,8 +1,10 @@
 ---
-title: "The roof is on fire"
+title: The roof is on fire
+date: 2006-08-23 12:47:06
 category: Surfen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Die Japaner sind schon verrückt:  

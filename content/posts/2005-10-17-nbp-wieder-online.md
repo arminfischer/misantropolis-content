@@ -1,8 +1,10 @@
 ---
-title: "NBP wieder online"
+title: NBP wieder online
+date: 2005-10-17 14:06:33
 category: Surfen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 [NBP](http://www.nbp-online.de), das Forum für unbekannte Hardcorerapper wie mich, ist wieder [online](http://www.nbp-online.de). Vielleicht wird mein neues Album "Aphrodismen" auch dort zu kaufen sein. Auf jeden Fall habe ich einen Song davon exklusiv für diese Plattform geremixt:  

@@ -1,8 +1,11 @@
 ---
-title: "Get on the bus"
+title: Get on the bus
+date: 2011-04-18 10:27:24
 category: Reise
-tags: ['Sri Lanka']
-image: 
+tags:
+- Sri Lanka
+image: ''
+
 ---
 
 Eines der schönen Dinge am Reisen in Sri Lanka ist, dass man hier praktisch täglich einen neuen Ort sehen kann, ohne längere Busfahrten auf sich nehmen zu müssen. Am dritten Tag meiner Reise bin ich deshalb schon am dritten Ort.  

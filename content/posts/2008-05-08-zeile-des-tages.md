@@ -1,10 +1,11 @@
 ---
-title: "Zeile des Tages"
+title: Zeile des Tages
+date: 2008-05-08 06:16:23
 category: Zitate
-tags: 
-image: 
----
+tags: []
+image: ''
 
+---
 
 > It ain't my thing, so I say thang.
 

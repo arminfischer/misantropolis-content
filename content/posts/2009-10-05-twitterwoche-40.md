@@ -1,8 +1,10 @@
 ---
-title: "Twitterwoche 40"
+title: Twitterwoche 40
+date: 2009-10-05 06:37:49
 category: Twitterwoche
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 * [Gewichtheben](http://generationtapedeck.blogspot.com/2009/09/wichtiger-als-nabelschnur.html) mit Vodoo
@@ -10,5 +12,3 @@ image:
 * [Stones Throw](http://www.spiegel.de/kultur/musik/0,1518,645419,00.html) wurde im Spiegel porträtiert.
 * Neues [Göldin&bit-tuner](http://www.quiet.ch/records/) Album ist draußen!
 * Das Video zu ["Vulcano"](http://generationtapedeck.blogspot.com/2009/10/der-tanz-auf-dem-vulkan.html) vom zurückgekehrten Anti Pop Consortium
-
-  

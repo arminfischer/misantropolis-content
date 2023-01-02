@@ -1,8 +1,10 @@
 ---
-title: "Kontrolle ohne Grenzen"
+title: Kontrolle ohne Grenzen
+date: 2014-12-10 22:24:17
 category: Veröffentlichungen
-tags: 
+tags: []
 image: https://www.misantropolis.de/images/posts/andere_planeten.jpg
+
 ---
 
 Nach fast einem Lichtjahrzehnt bringen meine Kumpels von **S.E.T.I.** endlich ihr Album ["Andere Planeten ... Andere Styles"](http://seti2.bandcamp.com/album/andere-planeten-andere-styles) heraus. Streng limitiert auf 169 12inches (und Bandcamp-Download) wie sich das für ein Projekt dieser Coleur gehört. Denn die Kernthemen des Konzeptalbums sind auf den Punkt gebracht, intelligentes Leben im Weltraum und Rap.  

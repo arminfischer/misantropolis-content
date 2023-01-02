@@ -1,8 +1,11 @@
 ---
-title: "Überraschung Nr. 3 zur Effi Briest"
+title: Überraschung Nr. 3 zur Effi Briest
+date: 2008-05-25 19:50:41
 category: Verschiedenes
-tags: ['effi briest']
-image: 
+tags:
+- effi briest
+image: ''
+
 ---
 
 [![](http://img171.imageshack.us/img171/5490/misantropolisscrenshotmu3.jpg)](http://www.misantropolis.de)  

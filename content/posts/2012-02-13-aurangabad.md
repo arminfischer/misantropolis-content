@@ -1,8 +1,11 @@
 ---
-title: "Aurangabad"
+title: Aurangabad
+date: 2012-02-13 03:26:28
 category: Reise
-tags: ['Indien']
-image: 
+tags:
+- Indien
+image: ''
+
 ---
 
 In Mumbai angekommen bin ich gleich per Shared Taxi nach Pune weiter und von dort direkt nach **Aurangabad**. Dort werde ich mir heute das typische Tagesprogramm antun, d.h. in der Hauptsache die Ellora Caves besichtigen.  

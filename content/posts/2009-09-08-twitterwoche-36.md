@@ -1,8 +1,10 @@
 ---
-title: "Twitterwoche 36"
+title: Twitterwoche 36
+date: 2009-09-08 11:21:52
 category: Twitterwoche
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Nachträglich die Nachrichten der Woche:

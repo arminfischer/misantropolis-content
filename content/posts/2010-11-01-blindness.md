@@ -1,8 +1,10 @@
 ---
-title: "Blindness"
+title: Blindness
+date: 2010-11-01 12:19:02
 category: Sehen
-tags: 
+tags: []
 image: https://www.misantropolis.de/images/posts/Blindness_poster-150x150.jpg
+
 ---
 
 In ["Blindness"](http://en.wikipedia.org/wiki/Blindness_%28film%29) geht es um eine nicht näher spezifizierte Stadt, in der eine Epedemie ausbricht, die fast alle Menschen blind macht. Dabei wird hauptsächlich die Geschichte der ersten Gruppen von Erkrankten erzählt, die von der Außenwelt abgeschottet und in eine Art Anstalt gepfercht werden. Diese sind mit der Situation überfordert, und da unter anderem nicht genug Essen zur Verfügung gestellt wird, greifen bald Chaos und Anarchie um sich.  

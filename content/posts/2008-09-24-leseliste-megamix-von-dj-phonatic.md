@@ -1,8 +1,12 @@
 ---
-title: "Leseliste: Megamix von DJ Phonatic"
+title: 'Leseliste: Megamix von DJ Phonatic'
+date: 2008-09-24 09:12:56
 category: Downloads
-tags: ['leave.music', 'leseliste']
-image: 
+tags:
+- leave.music
+- leseliste
+image: ''
+
 ---
 
 [![](http://www.leavemusic.de/live/leavemusic/content/artikelbilder/210)](http://www.leavemusic.de/live/leavemusic/index.php?content=152)  

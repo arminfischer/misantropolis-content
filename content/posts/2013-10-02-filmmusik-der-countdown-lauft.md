@@ -1,8 +1,13 @@
 ---
-title: "Filmmusik - Der Countdown läuft"
+title: Filmmusik - Der Countdown läuft
+date: 2013-10-02 16:32:27
 category: Veröffentlichungen
-tags: ['azabeats', 'filmmusik', 'postrap']
+tags:
+- azabeats
+- filmmusik
+- postrap
 image: https://www.misantropolis.de/images/posts/filmmusik_plakat.jpg
+
 ---
 
 Ich freu mich, denn seit gestern läuft der Countdown für ["Filmmusik"](http://www.misantropolis.de/musik/filmmusik/). Das Ganze wird ungefähr folgendermaßen ablaufen:  

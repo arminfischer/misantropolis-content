@@ -1,8 +1,13 @@
 ---
-title: "Audio88 hat Freunde"
+title: Audio88 hat Freunde
+date: 2011-08-08 21:37:36
 category: Veröffentlichungen
-tags: ['analog alpha', 'audio88', 'hat freunde']
-image: 
+tags:
+- analog alpha
+- audio88
+- hat freunde
+image: ''
+
 ---
 
 Einige Jahre ist es schon her, dass [**Audio88**](http://www.audio88.de) ein neues großes Soloalbum herausbringen wollte. Für "Audio88 hat Freunde" hatte ich damals viel produziert, gescratcht und gerappt, aber aus diversen Gründen ist das Album damals nicht veröffentlicht worden, hauptsächlich wahrscheinlich weil der richtige Zeitpunkt verpasst wurde und weil der Erfolg von **Audio88&Yassin** alles andere überschattete. Lediglich "Lego Ego" mit **Sir Serch** kam auf der Spoken View Compilation letztes Jahr unter.  

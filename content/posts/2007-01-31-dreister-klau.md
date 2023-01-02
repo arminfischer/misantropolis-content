@@ -1,8 +1,10 @@
 ---
-title: "Dreister Klau"
+title: Dreister Klau
+date: 2007-01-31 08:10:00
 category: Surfen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Eine [südkoreanische Seite](http://www.lastfm.co.kr/music/Misanthrop) schreibt etwas über mich und den anderen Misanthrop, der Drum und Bass macht. Das finde ich sehr nett, vor allem weil der Autor die Sätze anscheinend selber formuliert und nicht aus meiner Seitenbeschreibung oder von [Myspace](http://www.misantropolis.de/myspace) geklaut hat.  

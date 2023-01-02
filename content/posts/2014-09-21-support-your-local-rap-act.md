@@ -1,8 +1,10 @@
 ---
-title: "Support Your Local Rap Act"
+title: Support Your Local Rap Act
+date: 2014-09-21 10:47:00
 category: Downloads
-tags: 
+tags: []
 image: https://www.misantropolis.de/images/releases/Monaco-F-1-Cover.jpg
+
 ---
 
 Den Mundart-Rapper **Monaco F** aka **Da Fränz** kenne ich schon länger. Mit seiner ehemalige Gruppe **Doppel D** hatte ich bereits Ende der Neunziger Berührungspunkte, und mit **DAS FEST** haben wir vor ein paar Jahren einer [ihrer Songs geremixed](http://www.misantropolis.de/musik/re-b-aya-n/).  

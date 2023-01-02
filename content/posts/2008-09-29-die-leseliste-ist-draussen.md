@@ -1,8 +1,12 @@
 ---
-title: "Die Leseliste ist draußen!"
+title: Die Leseliste ist draußen!
+date: 2008-09-29 21:47:40
 category: Veröffentlichungen
-tags: ['leave.music', 'leseliste']
-image: 
+tags:
+- leave.music
+- leseliste
+image: ''
+
 ---
 
 [![](http://www.leavemusic.de/live/leavemusic/content/artikelbilder/210)](http://www.leavemusic.de/live/leavemusic/index.php?content=152)  

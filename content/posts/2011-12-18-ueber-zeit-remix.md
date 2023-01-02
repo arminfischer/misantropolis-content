@@ -1,8 +1,10 @@
 ---
-title: "Über Zeit Remix"
+title: Über Zeit Remix
+date: 2011-12-18 18:31:50
 category: Veröffentlichungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Im Rahmen des [**"Bonus Material"**](http://www.postrap.de/releases/bonus-material/) Albums von DAS FEST gibt es heute einen weiteren Remix zu hören. **Aqua Luminus III.** hat "Über Zeit" einen neuen Klang verliehen, und **Al Rock** hat das Ganze mit Vocalcuts untermalt. Fresh für 2011.  

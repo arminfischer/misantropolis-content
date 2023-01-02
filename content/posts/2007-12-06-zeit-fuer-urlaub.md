@@ -1,8 +1,10 @@
 ---
-title: "Zeit für Urlaub"
+title: Zeit für Urlaub
+date: 2007-12-06 00:16:15
 category: Verschiedenes
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 In 5,5 Stunden muss ich wieder aufstehen um einen weiteren Arbeitstag unter Strom zu durchhetzen. Zurzeit rächt es sich besonders, dass ich nicht nein sagen kann.  

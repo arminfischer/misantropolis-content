@@ -1,8 +1,11 @@
 ---
-title: "Ceschi & DJ Scientist: \"Same Old Lovesong\" Picture Disc"
+title: 'Ceschi & DJ Scientist: \"Same Old Lovesong\" Picture Disc'
+date: 2009-05-16 13:55:18
 category: Veröffentlichungen
-tags: ['equinox records']
-image: 
+tags:
+- equinox records
+image: ''
+
 ---
 
 Am **25. Mai** wird es die [nächste Veröffentlichung](http://www.e-q-x.net/news/2009/05/ceschi-same-old-love-song-picture-disc-now-available-for-pre-order/) aus der äußerst [fruchtbaren Kollaboration](http://www.misantropolis.de/2008/09/ceschi-count-on-it-bad-jokes-drausen/) zwischen Equinox' **DJ Scientist** und **Ceschi** geben, nämlich in Form der Picture 12" ["Same Old Lovesong"](http://www.e-q-x.net/news/releases/ceschi-same-old-love-song/).  

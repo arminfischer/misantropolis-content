@@ -1,8 +1,10 @@
 ---
-title: "Bienenstock"
+title: Bienenstock
+date: 2009-07-25 22:16:25
 category: Downloads
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Aus dem Haus [**Strange Famous Records**](http://www.strangefamous.com/) kommt ein kostenloser Download: "House of Bees Vol. 1" enthält unveröffentlichtes Material sowie Remixe von **B. Dolan** und **Buddy Peace**, wobei es auch nicht selten vorkommt, dass **Sage Francis**, der Label-Chef selbst, mitrappt.  

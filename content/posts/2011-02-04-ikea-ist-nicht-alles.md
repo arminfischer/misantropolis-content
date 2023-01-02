@@ -1,8 +1,10 @@
 ---
-title: "IKEA ist nicht alles"
+title: IKEA ist nicht alles
+date: 2011-02-04 12:37:06
 category: Verschiedenes
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 [![](http://3.bp.blogspot.com/_DrqESDweuTk/TUvXD527g9I/AAAAAAAADzw/qscog8SdWhQ/s320/IMAG3527.JPG "THMS")](http://blog.mrhauer.com/2011/02/interview-1-thms.html)  

@@ -1,8 +1,11 @@
 ---
-title: "Equinox Europa Tour 2009!"
+title: Equinox Europa Tour 2009!
+date: 2009-08-20 08:35:24
 category: Veranstaltungen
-tags: ['equinox records']
-image: 
+tags:
+- equinox records
+image: ''
+
 ---
 
 [![Official Tour Poster by Jon Nagel](http://hotlink.myspacecdn.com/images02/65/ca7e5db032254f66b14f036dfdb97284/m.jpg)](http://viewmorepics.myspace.com/index.cfm?fuseaction=viewImage&friendID=191274978&albumID=1767786&imageID=29677866)  

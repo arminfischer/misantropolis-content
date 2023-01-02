@@ -1,8 +1,11 @@
 ---
-title: "Indien III"
+title: Indien III
+date: 2012-12-08 19:11:32
 category: Reise
-tags: ['Indien']
-image: 
+tags:
+- Indien
+image: ''
+
 ---
 
 Seit drei Tagen hänge ich nun wieder in Mumbai ab. Zu dieser Jahreszeit war ich noch nie in Asien, und da der klimatische Unterschied im Winter besonders groß ist, ist das eine neue interessante Erfahrung. Ich bekomme aber aufgrund meiner Bürotätigkeiten hier ohnehin nur morgens und abends und am Wochenende das Leben draußen mit.

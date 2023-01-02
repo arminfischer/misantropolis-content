@@ -1,8 +1,10 @@
 ---
-title: "Ich werd immer berühmter"
+title: Ich werd immer berühmter
+date: 2006-01-06 14:50:46
 category: Surfen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 **ACHTUNG, ACHTUNG!**  

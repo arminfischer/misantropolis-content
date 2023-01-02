@@ -1,8 +1,10 @@
 ---
-title: "Bridging the gap"
+title: Bridging the gap
+date: 2008-04-10 06:17:24
 category: Surfen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Das österreichische Magazin "The Gap" beginnt im wahrsten Sinne des Wortes mit dem Schließen einer Lücke: Auf würdige Art und Weise wird die Arbeit meines Freundes [Audio88](http://www.audio88.de) beschrieben. Und coolerweise bin ich auch erwähnt.  

@@ -1,8 +1,10 @@
 ---
-title: "God Loves Groovy"
+title: God Loves Groovy
+date: 2009-05-21 14:33:22
 category: Veröffentlichungen
-tags: 
+tags: []
 image: https://www.misantropolis.de/images/posts/godly001_banner_px300.jpg
+
 ---
 
 Pünktlich und passend zu Christi Himmelfahrt veröffentlichen **DJ Scientist** und **DJ Arok** einen Mix der besonderen Art: Der **"Godly Grooves - Rare German Christian Funk in the Mix"** besteht ausschließlich aus äußerst raren deutschen Funk- und Soul-Stücken, die allesamt einen (streng) christlichen Hintergrund haben.

@@ -1,8 +1,10 @@
 ---
-title: "Es fährt ein Auto nach Berlin"
+title: Es fährt ein Auto nach Berlin
+date: 2006-03-03 11:55:30
 category: Veranstaltungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Für aller Berliner unter Euch habe ich einen Abendtipp:  

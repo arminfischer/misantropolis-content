@@ -1,8 +1,10 @@
 ---
-title: "10\" zum Dritten"
+title: 10\" zum Dritten
+date: 2006-07-06 06:46:43
 category: Tipps
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 [Equinox Records](http://www.equinoxrecords.com) bringt dieser Tage den dritten Teil der **10inch Serie** heraus. Die Platte enthält vier Tracks des New Yorker Produzenten [Arcsin](http://www.myspace.com/arcatraz), der schon bei diversen Veröffentlichungen von Equinox dabei war und nun seine eigene Platte bekommen hat, die wie alle Equinoxprodukte schön und aufwendig gestaltet ist.  

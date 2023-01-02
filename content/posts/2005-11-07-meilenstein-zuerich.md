@@ -1,8 +1,10 @@
 ---
-title: "Meilenstein Zürich"
+title: Meilenstein Zürich
+date: 2005-11-07 13:54:33
 category: Reise
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Mittlerweile wird es auch hier langsam kalt, aber ab und zu schaut die Sonne raus. So ist es auch in der Arbeit stressig bis angenehm. Seit heute habe ich sogar einen "Angestellten", der machen muß, was ich sage.  

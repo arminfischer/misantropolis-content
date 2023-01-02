@@ -1,8 +1,10 @@
 ---
-title: "Jahresrückblick"
+title: Jahresrückblick
+date: 2008-01-01 20:37:30
 category: Surfen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Auch 2007 habe ich mich wenig mit dem Rap an sich beschäftigt, sondern wie schon seit einigen Jahren in meiner eigenen (HipHop-)Welt vor mich hin gelebt.  

@@ -1,8 +1,10 @@
 ---
-title: "Nicht scratch"
+title: Nicht scratch
+date: 2006-11-26 18:33:57
 category: Downloads
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 [DJ Scientist](http://www.myspace.com/djscientist) hat zum Glück aller DJs, die neue freshe Scratchbeats brauchen, entschlossen, unter dem Namen "Cold Blooded Beats" **kostenlos** diverse Instrumentale zum Cutten [zu veröffentlichen](http://www.the-groundzero.com/).  

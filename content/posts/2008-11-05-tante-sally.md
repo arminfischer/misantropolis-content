@@ -1,8 +1,11 @@
 ---
-title: "Tante Sally"
+title: Tante Sally
+date: 2008-11-05 19:54:12
 category: Veröffentlichungen
-tags: ['leseliste']
-image: 
+tags:
+- leseliste
+image: ''
+
 ---
 
 Das Magazin [Unclesally's](http://www.sallys.net/) hat bereits [die sieben Weltwunder](/2008/05/die-vierte-kritik/) rezensiert, und nun waren sie so nett, auch etwas über die Leseliste zu schreiben. Mich freut es.  

@@ -1,8 +1,10 @@
 ---
-title: "Arbeitswochen"
+title: Arbeitswochen
+date: 2012-08-11 16:44:59
 category: Reise
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 In Indien zu arbeiten ist natürlich ganz anders als durch die Gegend zu Reisen. Wenn die 30 Minuten Fußweg zwischen Hotel und Büro und das bessere und andere Essen in der Kantine nicht wären, würde man vielleicht kaum merken, dass man in diesem gegensätzlichen Land ist. Dies 30 Minuten haben es in sich und bringen andere Gedanken und Reiselust.  

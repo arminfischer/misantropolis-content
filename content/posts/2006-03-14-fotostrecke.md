@@ -1,8 +1,10 @@
 ---
-title: "Fotostrecke"
+title: Fotostrecke
+date: 2006-03-14 17:54:21
 category: Surfen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Ich find's nur lustig:  

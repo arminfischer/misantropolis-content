@@ -1,8 +1,10 @@
 ---
-title: "Die Reise des jungen Che"
+title: Die Reise des jungen Che
+date: 2004-11-25 20:18:25
 category: Sehen
-tags: 
+tags: []
 image: https://www.misantropolis.de/images/posts/che.jpg
+
 ---
 
 [![](http://www.misantropolis.de/wp-content/uploads/2008/04/che.jpg "che")](http://www.misantropolis.de/wp-content/uploads/2008/04/che.jpg)Ich mag den Schauspieler *Gael García Bernal*, liebe die fremde Ferne und habe keine genaue Vorstellung darüber, wie meine Zukunft aussehen soll. Die Erfüllung dieser Vorraussetzungen ist natürlich nicht zwingend vorgeschrieben, wenn man "Die Reise des jungen Che" mögen will, hilft aber dabei ungemein.

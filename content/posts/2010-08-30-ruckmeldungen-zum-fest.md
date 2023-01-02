@@ -1,8 +1,10 @@
 ---
-title: "Rückmeldungen zum FEST"
+title: Rückmeldungen zum FEST
+date: 2010-08-30 20:38:18
 category: Verschiedenes
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 [UGHH](http://www.ughh.ch/) aus der Schweiz schreiben auf ihrer Startseite über [DAS FEST](/musik/dasfest) u.a.

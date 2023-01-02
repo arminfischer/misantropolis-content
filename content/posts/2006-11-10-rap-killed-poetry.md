@@ -1,8 +1,10 @@
 ---
-title: "Rap killed poetry"
+title: Rap killed poetry
+date: 2006-11-10 13:56:47
 category: Veranstaltungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 [Gestern](http://www.misantropolis.de/2006/11/friendly-reminder-slamcatchen) hab ich mal wieder gesponnen. Im Garden war während allen drei Poetry Slam Runden immer volles und jedes Mal, wenn ich danach aufgelegt habe, leeres Haus. Aber ich fand mich trotzdem und trotz einiger Schnitzer und schlechter Cuts selber ziemlich gut. Ich habe viele neue Accapella-Instrumental-Kombinationen ausprobiert, die fresher kaum sein können.  

@@ -1,8 +1,10 @@
 ---
-title: "Selbstkritik"
+title: Selbstkritik
+date: 2006-04-30 11:32:14
 category: Veranstaltungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 An erster Stelle möchte ich allen danken, die [gestern](http://www.misantropolis.de/2006/04/gutenachtgeschichte) nicht nur wegen dem formidablen und zurecht hochgelobten [Daheim Magazin](http://www.daheim-magazin.de) sondern auch wegen mir in die Bank gekommen sind.  

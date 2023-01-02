@@ -1,8 +1,13 @@
 ---
-title: "Wachkomawandeln"
+title: Wachkomawandeln
+date: 2012-02-17 13:06:49
 category: Veröffentlichungen
-tags: ['epilog', 'remix', 'son kas']
-image: 
+tags:
+- epilog
+- remix
+- son kas
+image: ''
+
 ---
 
 Für meine Freunde von **son kas** habe ich einen Remix ihres Albumtracks "Wachkomawandeln" angefertigt, der seinen Weg in die Sammlung verlorener Tracks von **epilog** gefunden hat:  

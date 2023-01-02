@@ -1,8 +1,10 @@
 ---
-title: "Twitterwoche 19"
+title: Twitterwoche 19
+date: 2010-05-14 20:40:02
 category: Twitterwoche
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 * [Türkischer Rap](http://derschan.blogspot.com/2010/05/blog-post.html)

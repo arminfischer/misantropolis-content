@@ -1,8 +1,10 @@
 ---
-title: "Straight Out the Jungle"
+title: Straight Out the Jungle
+date: 2008-06-14 12:12:16
 category: Reise
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Eben bin ich wieder auf dem Dschungel aus der Naehe von **Bogor** zurueck, wo es verstaendlicherweise kein Internet gab. Ich habe mir den Ausflug von einem Guide namens **Hansi** aufschwatzen lassen, aber den damit verbundenen Ausflug auf den Vulkan **Mount Salak** und die Ruhe in der abgelegenen Bambushuette habe ich nicht bereut.  

@@ -1,8 +1,11 @@
 ---
-title: "In den Charts"
+title: In den Charts
+date: 2015-04-04 10:58:12
 category: Allgemein
-tags: ['Boarshill No. 1']
+tags:
+- Boarshill No. 1
 image: https://www.misantropolis.de/images/posts/djergün_charts.png
+
 ---
 
 Ich hätte es nicht für möglich gehalten, dass sich auch nur ein kleiner musikalischer Beitrag von mir jemals in den Charts wiederfinden würde. [DJ Ergün](https://www.facebook.com/Masterofturkrap) hat es möglich gemacht und das uralte "Insanlar" in seinen Charts erwähnt.  

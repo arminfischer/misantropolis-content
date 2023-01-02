@@ -1,8 +1,10 @@
 ---
-title: "Buchtipp der Woche"
+title: Buchtipp der Woche
+date: 2007-07-03 14:08:35
 category: Tipps
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Nachdem ich schon lange keine Tipps mehr abgegeben habe, möchte ich wenigstens auf einen dicken Wälzer hinweisen, der mir viele angenehme Lesestunden verschafft hat: [Ein Kampf um Rom](http://gutenberg.spiegel.de/dahn/rom/rom.xml) von **Felix Dahn**. In dem Buch geht es um eine fast vergesse Zeit im ersten Jahrtausend nach Christus, in der Weströmer, Oströmer und Goten Machtkämpfe um Italien ausgetragen haben.  

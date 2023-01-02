@@ -1,8 +1,10 @@
 ---
-title: "Misanthropenstadl"
+title: Misanthropenstadl
+date: 2006-11-12 13:57:18
 category: Veranstaltungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Gestern habe ich vor einem überdurchschnittlich nicht mit mir rechnenden Publikum den Hampelmann gegeben und unterdurchschnittlich viele Fehler gemacht. Nach [Kitka Laika Rocket](http://www.kitkalaikarocket.de/), die schöne Funk/Jazz/Blues/Poetry-Musik machen und ihre Aussagen wohlklingender verpacken als ich, kam ich an die Reihe und habe meines Erachtens etwas egoistisch einige Verständislosigkeit hervorgerufen.  

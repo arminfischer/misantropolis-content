@@ -1,8 +1,10 @@
 ---
-title: "Ein Gedicht, ein Gedicht!"
+title: Ein Gedicht, ein Gedicht!
+date: 2008-01-10 23:11:23
 category: Veranstaltungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Heute Abend habe ich eine Creme Brulee gegessen, die ein Gedicht war. A propos Gedicht: Am kommenden Sonntag ist der erste **Poetry Slam** des Jahres im [Substanz](http://www.substanz-club.de).  

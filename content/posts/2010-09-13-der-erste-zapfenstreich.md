@@ -1,8 +1,10 @@
 ---
-title: "Der erste Zapfenstreich"
+title: Der erste Zapfenstreich
+date: 2010-09-13 19:17:13
 category: Veranstaltungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 [![](http://sphotos.ak.fbcdn.net/hphotos-ak-snc4/hs611.snc4/59137_10150262204595562_407436470561_14683358_1688692_n.jpg "postrap Touralbum Teil 1")](http://www.facebook.com/#!/album.php?aid=493530&id=407436470561&ref=mf)  

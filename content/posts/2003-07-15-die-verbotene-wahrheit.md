@@ -1,8 +1,10 @@
 ---
-title: "Die verbotene Wahrheit"
+title: Die verbotene Wahrheit
+date: 2003-07-15 20:40:04
 category: Lesen
-tags: 
+tags: []
 image: https://www.misantropolis.de/images/posts/verboten.jpg
+
 ---
 
 [![](http://www.misantropolis.de/wp-content/uploads/2008/04/verboten.jpg "verboten")](http://www.misantropolis.de/wp-content/uploads/2008/04/verboten.jpg)Dieses Buch von Jean-Charles Brisard und Guillaume Dasquie deckt die komplizierten Verflechtungen der Geschäftsbeziehungen zwischen dem Bush- und Bin Laden-Clan auf.

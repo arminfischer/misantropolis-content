@@ -1,8 +1,10 @@
 ---
-title: "Straßenkampf"
+title: Straßenkampf
+date: 2011-03-29 08:00:04
 category: Veröffentlichungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Vorab zu meinem neuen Album "Das Ungeheuer und sein Kritiker" kommt das Urlaubsmusikvideo "Straßenkampf", das auf der letzten Südostasienreise mit Bus und Boot von Jakarta über Bukit Tinggi, Dumai, Melakka, Kuala Lumpur, Penang, Kuala Terengganu und andere bis nach Singapur entstanden ist. **Tina Vitale** hat dabei Regie geführt, die Kamera gehandhabt sowie alles geschnitten.  

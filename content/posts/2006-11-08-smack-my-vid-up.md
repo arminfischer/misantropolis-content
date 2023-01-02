@@ -1,8 +1,10 @@
 ---
-title: "Smack my vid up"
+title: Smack my vid up
+date: 2006-11-08 16:12:23
 category: Surfen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Juhuu. Jetzt hab ich schon "mein" zweites Video. Vor ca. 354 Jahren haben wir ein Video mit **Boarshill** (meiner früheren Rapgruppe) gemacht, und jetzt hat der [Omega](http://www.88komaflash.de) aka Demontage ein freshes Video für "Giftgrün", den ersten Song der [Leinwand](/musik/Leinwand), fabriziert. Im Egoshooterstyle fährt da einer durch Bangkok, und ich bekomme Fernweh.  
@@ -17,4 +19,3 @@ Das passt gut zu meinem gestrigen Zitat:
 
 
 > Thailändisch gegessen, geweint.
-

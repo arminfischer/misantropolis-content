@@ -1,8 +1,10 @@
 ---
-title: "Twitterwoche 11"
+title: Twitterwoche 11
+date: 2010-03-21 15:26:27
 category: Twitterwoche
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 * Ein neues Video von [Sadat X](http://www.unkut.com/2010/03/video-sadat-x-turn-it-up/)
@@ -10,5 +12,3 @@ image:
 * [Milk is chilling](http://www.youtube.com/watch?v=kBJqA_AxiOQ)
 * Das neue Spiel heißt [Roulette](http://www.youtube.com/watch?v=32vpgNiAH60).
 * Warum ich immer wieder froh bin, dass ich mehr Platten [kaufe](http://phatfriend.wordpress.com/2010/03/16/so-this-is-pretty-awesome/) als ich verkaufe.
-
-  

@@ -1,8 +1,13 @@
 ---
-title: "Nathans Weise"
+title: Nathans Weise
+date: 2015-01-30 18:38:00
 category: Veröffentlichungen
-tags: ['azabeats', 'postrap', 'video']
-image: 
+tags:
+- azabeats
+- postrap
+- video
+image: ''
+
 ---
 
 Das erste Video für die gemeinsame EP mit [azabeats](http://postrap.de/artists/azabeats/) ist heute erschienen! In "Nathans Weise" geht es, wie der Name bereits sagt, um verschiedene Religionen bzw. Haltungen dazu. Das klingt trocken, ist aber gerade in diesen Tagen sehr aktuell und daher interessant. Und man kann dazu mit dem Kopf nicken.  

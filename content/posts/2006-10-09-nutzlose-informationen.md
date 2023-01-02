@@ -1,8 +1,10 @@
 ---
-title: "Nutzlose Informationen"
+title: Nutzlose Informationen
+date: 2006-10-09 13:08:22
 category: Surfen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Habe ich schon einmal erwähnt, dass ich gerne nutzlose Informationen sammle. Folgender Eintrag auf Lifehacker gehört sicher dazu:  

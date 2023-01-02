@@ -1,8 +1,10 @@
 ---
-title: "SNWT: Darmstadt, wir kommen!"
+title: 'SNWT: Darmstadt, wir kommen!'
+date: 2007-08-02 06:15:21
 category: Veranstaltungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Am 10.8. treten wie schon des öfteren erwähnt [88:Komaflash](http://www.88komaflash.de), [Audio88](http://www.audio88.de), [DJ Phonatic](http://www.myspace.com/phoneeziac) und ich im Rahmen unserer [Schönen neuen Welttournee](http://www.the-groundzero.com/tag/snwt) in Darmstadt auf.  

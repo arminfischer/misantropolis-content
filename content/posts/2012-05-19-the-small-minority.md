@@ -1,8 +1,10 @@
 ---
-title: "The Small Minority"
+title: The Small Minority
+date: 2012-05-19 09:53:34
 category: Veröffentlichungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Am 25.05.2012 erscheint **2econd Class Citizens** neues Album ["The Small Minority"](http://www.e-q-x.net/releases/eqx038/) auf *Equinox Records*. Ich durfte bereits in das gesamte Album reinhören und kann sagen, das die beiden folgenden Hör- und Sehproben definitiv nicht zu viel versprechen:  

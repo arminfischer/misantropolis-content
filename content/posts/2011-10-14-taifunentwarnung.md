@@ -1,8 +1,10 @@
 ---
-title: "Taifunentwarnung"
+title: Taifunentwarnung
+date: 2011-10-14 08:00:29
 category: Reise
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Der Taifun hat Manila nicht getroffen und war ausserdem schneller als gedacht, deshalb sind wir jetzt wie geplant am Flughafen und abflugbereit Richtung München. Wie immer in Asien habe ich mir auf dieser letzten Etappe einige T-Shirts gekauft und alle Platten sowie passenden CDs, die ich auftreiben konnte. Was mich daran erinnert hat, dass ich noch nicht einmal alle Mitbringsel aus Sri Lanka gesampelt habe.  

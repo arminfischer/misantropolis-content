@@ -1,8 +1,10 @@
 ---
-title: "Gerade gelesen"
+title: Gerade gelesen
+date: 2009-03-27 14:04:58
 category: Veröffentlichungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Mit großer Freude habe ich eben bei [Myspace gelesen](http://blogs.myspace.com/index.cfm?fuseaction=blog.view&friendID=43449415&blogID=479388396), dass [**88:Komaflash**](http://www.88komaflash.de) (aus München) gerade kurz vor der Fertigstellung ihres neuen Albums "Untergang /// Wiederaufbau" stehen. In diesem Veröffentlichungsjahr freue ich mich mit am meisten auf diese Platte, das am **15. Mai** getauft werden wird.  

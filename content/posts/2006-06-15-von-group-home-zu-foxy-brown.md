@@ -1,8 +1,10 @@
 ---
-title: "Von Group Home zu Foxy Brown"
+title: Von Group Home zu Foxy Brown
+date: 2006-06-15 08:19:43
 category: Veranstaltungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Die [gestrige Party](http://www.misantropolis.de/2006/06/can-i-kick-it) im Zerwirk, bei der nur Platten von 1996 gespielt werden sollten, war so ambivalent wie das Jahr selbst. Sogar für einen halbgebildeten Rapnerd wie mich war es schwer mit dem Kopf zu nicken, wenn beispielsweise "Respect" von **NAS** kam. Und dieses Lied von 1994 war nicht die schlimmste Konzeptabweichung. Denn nur 50%-60% der Lieder sind wirklich 1996 veröffentlicht worden. Die "falschen" Lieder kamen aus den Jahren 1992-1998.  

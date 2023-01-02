@@ -1,8 +1,10 @@
 ---
-title: "Ich bin der Coolste"
+title: Ich bin der Coolste
+date: 2005-12-18 12:28:49
 category: Verschiedenes
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Auf meiner Diplomfeier am vergangenen Freitag habe ich erfahren, daß es bereits eine erste offizielle von einem Verlag herausgegebene akademische Veröffentlichung mit meiner Mitautorschaft gibt:  

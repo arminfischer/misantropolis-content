@@ -1,8 +1,10 @@
 ---
-title: "100 Reime Einsamkeit"
+title: 100 Reime Einsamkeit
+date: 2007-08-13 14:59:00
 category: Verschiedenes
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 In der Wochenendeausgabe der [SZ](http://www.sueddeutsche.de) gab es [schon wieder](http://www.misantropolis.de/2007/07/pressereaktion) etwas über mich zu lesen, was mich außerordentlich freut.  

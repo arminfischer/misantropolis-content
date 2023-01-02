@@ -1,8 +1,10 @@
 ---
-title: "Tomaten auf den Augen"
+title: Tomaten auf den Augen
+date: 2006-05-02 16:54:26
 category: Tipps
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Der österreichische Dokumentarfilm [We feed the world](http://www.we-feed-the-world.at/)" ist nicht lustig, zumindest gibt es keine witzigen Einlagen oder schlagfertigen Filmemacher wie bei [Michael Moore](http://www.michaelmoore.com) oder [Morgan Spurlock](http://www.supersizeme.com/) zu sehen. Einzig die Kommentare von manchen Zuwortkommenden ließen mich manchmal schmunzeln. Aber darum geht es auch nicht, und nicht das macht den Film sehens- und das Thema überlegenswert.  

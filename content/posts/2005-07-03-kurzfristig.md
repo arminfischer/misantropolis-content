@@ -1,8 +1,10 @@
 ---
-title: "Kurzfristig"
+title: Kurzfristig
+date: 2005-07-03 11:01:24
 category: Veranstaltungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Wie ich bereits im letzten Eintrag erzählt habe kommen heute [Sage Francis](http://www.sagefrancis.net/) und [Grand Buffet](http://www.grandbuffet.com/) ins [Feierwerk](http://www.feierwerk.de/). Der Erste ist bitterböse, letztere ziemlich lustig.  

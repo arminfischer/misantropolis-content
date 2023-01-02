@@ -1,8 +1,10 @@
 ---
-title: "Shapeshifting"
+title: Shapeshifting
+date: 2006-01-16 09:27:25
 category: Veranstaltungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Coolerweise waren am Samstag **Radioinactive**, **LA Jae** und **Die Young** von den Shapeshifters hier in Zürich und haben in der **Kalkbreite** gespielt. Ich war natürlich zu früh da, was sich im Endeffekt als gut herausgestellt hat, weil ich mich einfach selbst hereingebeten habe und neben dem **La Bombe** und **Goran** auch die Jungs daselbst getroffen und gesprochen habe.   

@@ -1,8 +1,11 @@
 ---
-title: "5 Jahre Leseliste: Das Ende einer Affäre"
+title: '5 Jahre Leseliste: Das Ende einer Affäre'
+date: 2013-12-01 16:20:11
 category: Veröffentlichungen
-tags: ['leseliste']
-image: 
+tags:
+- leseliste
+image: ''
+
 ---
 
 In einer Phase, in der ich von Romanen des 19. Jahrhunderts auf jene des 20. übergegangen bin, habe ich mich auch mit **Graham Greens** "Das Ende einer Affäre" beschäftigt und das Buch sehr genossen.  

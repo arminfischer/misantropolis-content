@@ -1,9 +1,10 @@
 ---
-title: "Schmerzliche Trennung"
+title: Schmerzliche Trennung
+date: 2005-03-22 17:13:42
 category: Verschiedenes
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Vorhin beim **Iron Faden** habe ich zum letzten Mal für zwei Monate gecuttet. Seitdem ich mich im Scratchen versuche -- also seit 10 bis 11 Jahren -- war ich noch nie so lange von meinen Plattenspielern weg. Diese technische Trennung ist natürlich auf keinen Fall so schmerzlich wie die menschliche, aber ich mache mir trotzdem Sorgen, ob ich die paar Combos, die ich kann, nicht verlerne.
-

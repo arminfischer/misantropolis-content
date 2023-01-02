@@ -1,8 +1,13 @@
 ---
-title: "postrap spendet"
+title: postrap spendet
+date: 2015-07-04 10:32:36
 category: Verschiedenes
-tags: ['nepal', 'postrap', 'Reise']
+tags:
+- nepal
+- postrap
+- Reise
 image: https://d262ilb51hltx0.cloudfront.net/max/1067/1*vDo9t9oQCeVhMi3Um6w8pw.jpeg
+
 ---
 
 Wie [neulich geschrieben](http://www.misantropolis.de/2015/05/unterstuetzung-fuer-nepal/) hatte ich mein ganz persönliches Erlebnis im großen Erdbeben in Nepal am 25. April diesen Jahres. Verglichen mit den großen Problemen, die die nepalesische Bevölkerung seit Jahrzehnten meistern muss, und die durch das Beben nur noch vermehrt wurden, waren meine kleinen Schwierigkeiten, wieder aus dem Land zu kommen usw., ein Witz.  

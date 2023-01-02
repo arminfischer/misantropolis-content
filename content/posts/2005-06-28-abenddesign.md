@@ -1,8 +1,10 @@
 ---
-title: "Abenddesign"
+title: Abenddesign
+date: 2005-06-28 08:10:35
 category: Veranstaltungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Morgen Abend ist mal wieder ein Konzert aus der Anticonreihe. Und zwar kommen Subtle in den [Zerwirkclub](http://www.zerwirk.de). Nachdem ich schon die letzten Male nicht gekommen bin, möchte ich lieber nicht versprechen, daß ich diesml da bin, aber ich nehm's mr fest vor.  

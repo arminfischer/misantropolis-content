@@ -1,8 +1,10 @@
 ---
-title: "Noch mehr Fiasko"
+title: Noch mehr Fiasko
+date: 2008-12-02 18:59:43
 category: Veranstaltungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Unsere Erlebnisse von der ["leave.music Fiasko Tour"](http://www.misantropolis.de/2008/11/bilder-vom-fiasko/) hat einer von uns, nämlich der **Audio88** sehr schön und unterhaltsam im Forum des Labels zusammegefasst:  

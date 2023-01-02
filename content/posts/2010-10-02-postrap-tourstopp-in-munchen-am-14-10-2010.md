@@ -1,8 +1,11 @@
 ---
-title: "postrap-Tourstopp in München am 14.10.2010"
+title: postrap-Tourstopp in München am 14.10.2010
+date: 2010-10-02 11:43:07
 category: Veranstaltungen
-tags: ['postrap']
-image: 
+tags:
+- postrap
+image: ''
+
 ---
 
 [![](http://sphotos.ak.fbcdn.net/hphotos-ak-ash2/hs323.ash2/60288_137895542923923_119356024777875_186506_4206743_n.jpg "postrap - Flyer (Sunny Red, 14.10.2010)")](http://www.facebook.com/postrap#!/event.php?eid=109194222473280&index=1)  

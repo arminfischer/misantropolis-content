@@ -1,8 +1,10 @@
 ---
-title: "Statusbericht"
+title: Statusbericht
+date: 2007-10-28 18:16:00
 category: Verschiedenes
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Ich kann zurzeit nichts Heiteres schreiben, und deshalb stehen hier insgesamt weniger lustige Einträge. Aber nichtsdestotrotz organisiere ich meine musisch nutzbare Zeit so effizient als möglich, damit ich bald wieder die ein oder andere Veröffentlichung vorweisen kann.  

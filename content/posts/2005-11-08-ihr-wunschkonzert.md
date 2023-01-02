@@ -1,8 +1,10 @@
 ---
-title: "Ihr Wunschkonzert"
+title: Ihr Wunschkonzert
+date: 2005-11-08 09:39:08
 category: Veranstaltungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Das Textlernen und Üben für meinen Aufritt am [19.11.](http://www.misantropolis.de/2005/11/mal-wieder-aktiv) in der Kranhalle geht etwas zäh. Aber ich habe jetzt ein ziemlich genaues Programm, bei dem allerdings viele Lieder, die üblicherweise zum Repertoire gehören, komplett rausgefallen sind.  

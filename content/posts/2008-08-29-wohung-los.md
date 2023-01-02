@@ -1,8 +1,10 @@
 ---
-title: "Wohnung los"
+title: Wohnung los
+date: 2008-08-29 20:02:39
 category: Veranstaltungen
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 Seit heute gibt es meine schöne [alte Wohnung an der Isar](http://www.misantropolis.de/2008/08/letzte-tage/) nicht mehr für mich. Die Renovierung hat viel zu lange gedauert, aber dafür gab es seitens des abnehmenden Haustechnikers auch keine Beanstandungen.  

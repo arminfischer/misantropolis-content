@@ -1,8 +1,10 @@
 ---
-title: "The Day It All Made Sense"
+title: The Day It All Made Sense
+date: 2007-06-20 17:42:16
 category: Tipps
-tags: 
-image: 
+tags: []
+image: ''
+
 ---
 
 [Equinox Records](http://www.e-q-x.net) bringt die aus den Jahren 2005 und 2006 stammende 10inch Serie noch einmal auf als zusammenhängende Compilation auf den Markt. Das ist in dreierlei Hinsicht ein Positivum: Erstens kommen die hervorragenden Lieder noch einmal ins Gespräch, zweitens können nun auch Leute ohne Plattenspieler die Lieder von **DiVinci**, **Deckard**, **ArcSin** und **DJ Scientist** genießen und drittens liegt das Label damit am Puls der Zeit, da dieses nun digitale Gesamtpaket als exklusive Onlineversion angeboten wird.  
