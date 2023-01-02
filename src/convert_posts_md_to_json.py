@@ -1,6 +1,5 @@
 from datetime import datetime
 from datetime import timedelta
-import io
 import json
 import markdown
 import os
