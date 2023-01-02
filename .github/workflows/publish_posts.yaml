@@ -19,3 +19,9 @@ jobs:
       - run: | 
           pip install -r src/requirements.txt
           python src/convert_posts_md_to_json.py
+      - name: Commit JSON to repository
+        run: |
+          git config --global user.name 'arminfischer'
+          git config --global user.email 'arminfischer@users.noreply.github.com'
+          git commit -am "Committed .json"
+          git push
