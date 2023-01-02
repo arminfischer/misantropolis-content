@@ -21,4 +21,5 @@ jobs:
         run: |
           git config --global user.name 'arminfischer'
           git config --global user.email 'arminfischer@users.noreply.github.com'
-          git diff-index --quiet HEAD || git commit -am "Committed .json" && git push
+          git diff-index --quiet HEAD
+          # || git commit -am "Committed .json" && git push
