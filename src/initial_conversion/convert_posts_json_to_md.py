@@ -8,7 +8,7 @@ import sys
 import yaml
 
 # Get base directory
-base_dir = Path(__file__).parent.parent.absolute()
+base_dir = Path(__file__).parent.parent.parent.absolute()
 
 # Get location of .json file
 args = sys.argv[1:]
