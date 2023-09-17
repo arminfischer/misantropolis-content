@@ -5,7 +5,7 @@ category: Videos
 tags:
 - video
 - azula
-image: ttps://www.misantropolis.de/images/releases/misanthrop-azula.png
+image: https://www.misantropolis.de/images/releases/misanthrop-azula.png
 
 ---
 
